@@ -1,0 +1,639 @@
+@8.1
+Q: The prevalence of OSA in children is approximately:
++ 1–5%
+- 0.01%
+- 10–20%
+- 30–40%
+E: Typically 2–3%.
+
+@8.1
+Q: The prevalence of habitual snoring in children is commonly cited as:
++ 3–12%
+- <1%
+- 25–35%
+- 50%
+E: Some sources cite 10–20%.
+
+@8.1
+Q: Paediatric OSA most commonly affects children aged:
++ 3–6 years
+- 0–6 months
+- 10–12 years
+- 16–18 years
+E: When tonsillar tissue is proportionally largest.
+
+@8.1
+Q: Paediatric OSA prevalence shows peaks:
++ In younger children (2–8 years) and again in adolescence
+- Only in infancy
+- Only at age 12
+- Only in adolescence
+E: Bimodal pattern.
+
+@8.1
+Q: The second peak of paediatric OSA in adolescence is mainly related to:
++ Obesity
+- Adenotonsillar hypertrophy
+- Cleft palate
+- Teething
+E: Obesity predominates in teenagers.
+
+@8.1
+Q: Paediatric OSA prevalence varies by:
++ Population, gender and race
+- Eye colour
+- Birth month
+- Handedness
+E: Epidemiological variation.
+
+@8.1
+Q: Compared with the general paediatric population, OSA in children with Down syndrome is:
++ Far more prevalent (~50% at AHI >5)
+- Less prevalent
+- Equally prevalent
+- Absent
+E: High-risk population.
+
+@8.1
+Q: In children with Down syndrome, AHI >1 is found in approximately:
++ 69%
+- 5%
+- 20%
+- 100%
+E: AHI >10 in ~34%.
+
+@8.1
+Q: In children with Down syndrome, AHI >10 is found in approximately:
++ 34%
+- 2%
+- 10%
+- 90%
+E: Severe disease common.
+
+@8.1
+Q: Moderate–severe OSA in Down syndrome is more prevalent at:
++ Younger ages
+- Older ages only
+- Adolescence only
+- Adulthood only
+E: Early referral.
+
+@8.1
+Q: A habitually snoring 4-year-old should be considered at risk because:
++ Habitual snoring is common and may indicate OSA, which peaks at this age
+- Snoring is always benign in children
+- OSA does not occur under age 5
+- Snoring indicates asthma only
+E: Assessment needed.
+
+@8.2
+Q: The most frequent cause of paediatric OSA, particularly in pre-schoolers, is:
++ Adenotonsillar hypertrophy
+- Obesity
+- Micrognathia
+- Tumours
+E: Leading aetiology.
+
+@8.2
+Q: Which statement about tonsil size and paediatric OSA severity is correct?
++ Tonsil size does not correlate with OSA severity
+- Tonsil size accurately predicts AHI
+- Small tonsils exclude OSA
+- Grade 4 tonsils always mean severe OSA
+E: Brodsky grading has limited predictive value.
+
+@8.2
+Q: Neuromuscular disorders such as Down syndrome and cerebral palsy predispose to OSA by:
++ Reducing head and neck muscle tone so muscles relax excessively
+- Increasing muscle tone
+- Reducing tonsil size
+- Improving ventilatory control
+E: Altered tone.
+
+@8.2
+Q: The four contributing mechanisms of paediatric OSA are:
++ Craniofacial morphology, tonsillar hypertrophy, altered neuromuscular tone and ventilatory control
+- Caries, gingivitis, plaque and calculus
+- Height, weight, age and sex
+- Diet, exercise, screen time and caffeine
+E: Pathophysiological framework.
+
+@8.2
+Q: Adenoid facies (long face syndrome) is characterised by:
++ Increased lower facial height, mouth breathing, incompetent lip seal and a high-arched palate
+- Short lower face height and competent lips
+- Prognathic mandible and broad maxilla
+- Class III with deep bite
+E: Recognisable pattern.
+
+@8.2
+Q: Which dental finding is associated with adenoid facies?
++ Constricted maxilla with posterior crossbite and crowding
+- Spacing and broad arches
+- Class III with anterior crossbite only
+- Deep overbite with broad palate
+E: Maxillary constriction.
+
+@8.2
+Q: The malocclusion–OSA link in children is best described as:
++ Weaker than dentists assume; most children with OSA lack obviously altered craniofacial morphology
+- Strong and causal
+- Proven in all children
+- Absent entirely
+E: Exam trap.
+
+@8.2
+Q: Is OSA a frequent cause of malocclusion in children?
++ No — abnormal respiration/OSA is not a frequent or common cause of malocclusion
+- Yes, in all children
+- Yes, in most children
+- Only in girls
+E: Avoid overclaiming.
+
+@8.2
+Q: During a child's sleep, the brain detecting falling oxygen and rising CO2 triggers:
++ A brief arousal to restore tone and reopen the airway
+- Deeper sleep
+- REM sleep
+- Central apnoea always
+E: Pathophysiology sequence.
+
+@8.2
+Q: Frequent, often unremembered arousals in paediatric OSA lead to:
++ Sleep fragmentation with daytime fatigue, hyperactivity and poor concentration
+- Improved learning
+- Reduced appetite only
+- Increased growth hormone
+E: Consequences of fragmentation.
+
+@8.2
+Q: Over time, untreated paediatric OSA can affect:
++ Growth, neurocognitive development, academic performance and emotional wellbeing
+- Only dental aesthetics
+- Nothing measurable
+- Only height
+E: Long-term consequences.
+
+@8.2
+Q: Which craniofacial abnormality is associated with paediatric OSA?
++ Micrognathia and narrowed midface
+- Macrognathia
+- Wide midface
+- Prominent chin with broad maxilla
+E: Anatomical risk factors.
+
+@8.2
+Q: Allergic rhinitis contributes to paediatric OSA by:
++ Increasing nasal resistance and promoting mouth breathing
+- Reducing tonsil size
+- Improving nasal airflow
+- Increasing muscle tone
+E: Nasal obstruction.
+
+@8.2
+Q: Rare causes of paediatric airway obstruction include:
++ Tumours or growths
+- Dental caries
+- Gingivitis
+- Fluorosis
+E: Rare aetiology.
+
+@8.2
+Q: Adenoid facies should be regarded as:
++ A recognisable pattern, not a reliable screening test for OSA
+- A diagnostic test for OSA
+- Proof of OSA
+- Irrelevant
+E: Critical reading.
+
+@8.2
+Q: Which statement about the consequences of a reduced upper airway in children is correct?
++ Consequences include not only SDB but also maxillary constriction, impaired growth and behavioural problems
+- Consequences are limited to snoring
+- There are no consequences
+- Only dental crowding results
+E: Broad effects.
+
+@8.2
+Q: Which anatomical risk factor in children involves the tongue?
++ Macroglossia
+- Microglossia
+- Fissured tongue
+- Geographic tongue
+E: Large tongue narrows airway.
+
+@8.2
+Q: Nasal septal deviation in a child is:
++ An anatomical risk factor for SDB
+- Protective
+- Irrelevant
+- A sign of narcolepsy
+E: Nasal obstruction.
+
+@8.3
+Q: A classic paediatric SDB sleep symptom is:
++ Restless sleep with unusual positions such as neck hyperextension
+- Cataplexy
+- Hypnagogic hallucinations
+- Early morning awakening only
+E: Unusual sleep positions.
+
+@8.3
+Q: Secondary enuresis (bed-wetting in a child previously dry for a long period) may indicate:
++ Sleep-disordered breathing
+- Normal development
+- Dental caries
+- Bruxism only
+E: Recognised symptom.
+
+@8.3
+Q: Daytime sleepiness in paediatric OSA is typically:
++ Less prominent than in adults
+- More prominent than in adults
+- Absent always
+- The main symptom
+E: Behavioural presentation dominates.
+
+@8.3
+Q: Which daytime behaviour in a child may reflect SDB?
++ Hyperactivity, aggression and impulsivity
+- Excessive calmness
+- Improved concentration
+- Increased IQ
+E: ADHD-like features.
+
+@8.3
+Q: Paediatric SDB may produce which cognitive deficit?
++ Reduced general intelligence and IQ
+- Increased IQ
+- Improved memory
+- No cognitive effect
+E: Neuropsychological deficits.
+
+@8.3
+Q: Which growth pattern may be associated with paediatric SDB?
++ Excessive or poor weight gain (failure to thrive)
+- Always normal growth
+- Accelerated height only
+- None
+E: Growth effects.
+
+@8.3
+Q: Night sweats in a snoring child may indicate:
++ Increased work of breathing from SDB
+- Normal thermoregulation only
+- Dental infection
+- Allergy to bedding only
+E: Nocturnal symptom.
+
+@8.3
+Q: Mouth breathing during sleep in a child is:
++ A common manifestation of paediatric OSA
+- Always normal
+- A sign of narcolepsy
+- Only due to habit
+E: Associated with nasal obstruction.
+
+@8.3
+Q: Pauses in breathing lasting several seconds observed by a parent in a snoring child suggest:
++ Obstructive apnoeas requiring assessment
+- Normal infant breathing
+- REM sleep only
+- Dreaming
+E: Witnessed apnoea.
+
+@8.3
+Q: Morning headaches and fatigue in a child may reflect:
++ Sleep-disordered breathing
+- Normal development
+- Excessive sleep
+- Dental caries only
+E: Daytime symptom.
+
+@8.3
+Q: Poor academic performance in a snoring child should prompt:
++ Consideration of SDB as a contributing factor
+- Only educational assessment
+- No action
+- A dental cleaning
+E: Academic impact.
+
+@8.3
+Q: A child who snores, gasps during sleep and is described as "always on the go" at school most likely needs:
++ Screening and referral for possible OSA
+- ADHD medication only
+- Reassurance
+- An occlusal splint
+E: SDB may mimic ADHD.
+
+@8.3
+Q: Sleeping in a seated position or with neck hyperextended in a child suggests:
++ Compensation to open an obstructed airway
+- Normal sleep posture
+- Narcolepsy
+- Insomnia
+E: Unusual positions.
+
+@8.3
+Q: Irritability in a child with SDB is best explained by:
++ Sleep fragmentation
+- Hypersomnia only
+- Excess REM
+- Dental pain only
+E: Behavioural impact.
+
+@8.3
+Q: Which symptom is more typical of adult than paediatric OSA?
++ Prominent excessive daytime sleepiness
+- Hyperactivity
+- Bed-wetting
+- Behavioural problems mimicking ADHD
+E: Adult vs child contrast.
+
+@8.3
+Q: Snorting and choking noises during a child's sleep are:
++ Signs of SDB during sleep
+- Normal in all children
+- Signs of dental caries
+- Signs of narcolepsy
+E: Nocturnal signs.
+
+@8.4
+Q: The recommended sleep duration for children aged 6–12 years is:
++ 9–12 hours
+- 6–7 hours
+- 12–16 hours
+- 14–17 hours
+E: AASM consensus.
+
+@8.4
+Q: The recommended sleep duration for adolescents aged 13–18 years is:
++ 8–10 hours
+- 6–7 hours
+- 9–12 hours
+- 11–14 hours
+E: AASM consensus.
+
+@8.4
+Q: The recommended sleep duration for children aged 1–2 years is:
++ 11–14 hours
+- 8–10 hours
+- 9–12 hours
+- 16–20 hours
+E: Including naps.
+
+@8.4
+Q: The recommended sleep duration for infants aged 4–12 months is:
++ 12–16 hours
+- 8–10 hours
+- 10–13 hours
+- 18–22 hours
+E: Including naps.
+
+@8.4
+Q: The recommended sleep duration for children aged 3–5 years is:
++ 10–13 hours
+- 7–8 hours
+- 12–16 hours
+- 14–18 hours
+E: Including naps.
+
+@8.4
+Q: Why is no sleep duration recommendation given for infants under 4 months?
++ Variation in normal sleep is too large
+- They do not sleep
+- They sleep 24 hours
+- It is unknown whether they sleep
+E: Wide normal range.
+
+@8.4
+Q: Regularly sleeping less than recommended in teenagers is associated with increased:
++ Self-harm, suicidal thoughts and suicide attempts
+- Academic achievement
+- Height
+- Attention span
+E: Serious consequences.
+
+@8.4
+Q: Regularly sleeping more than recommended is associated with:
++ Hypertension, diabetes, obesity and mental health problems
+- Improved health in all cases
+- No consequences
+- Reduced obesity
+E: Both extremes carry risk.
+
+@8.4
+Q: Which behavioural cause of poor sleep in children is particularly emphasised?
++ Excessive screen time, especially video games, before bed
+- Reading paper books
+- Daytime outdoor play
+- Regular bedtime routine
+E: Screens disrupt circadian rhythm and cause arousal.
+
+@8.4
+Q: Which medications may cause poor sleep in children?
++ ADHD stimulants and SSRIs
+- Paracetamol
+- Fluoride supplements
+- Vitamin D
+E: Medication causes.
+
+@8.4
+Q: Maternal anxiety and depression in pregnancy are listed as:
++ Risk factors for poor sleep in the child
+- Protective factors
+- Unrelated
+- Causes of tonsillar hypertrophy
+E: Mental and emotional health causes.
+
+@8.4
+Q: Neurocognitive effects of insufficient sleep in children include:
++ Lower verbal, performance and full-scale IQ and poorer academic performance
+- Increased IQ
+- Improved memory
+- No effect
+E: Developmental impact.
+
+@8.4
+Q: Emotional and behavioural effects of poor sleep in children include:
++ Internalising (anxiety, depression) and externalising (aggression) behaviours
+- Improved mood regulation
+- Increased social skills
+- Reduced impulsivity
+E: Behavioural impact.
+
+@8.4
+Q: Physical developmental effects of insufficient sleep in children include:
++ Obesity, impaired glucose metabolism and high blood pressure
+- Reduced obesity
+- Improved glucose tolerance
+- Lower blood pressure
+E: Physical impact.
+
+@8.4
+Q: Which environmental factor contributes to poor sleep in children?
++ A noisy or stressful home with inconsistent routines
+- A quiet dark bedroom
+- Consistent bedtimes
+- Regular wind-down routines
+E: Environmental causes.
+
+@8.4
+Q: Sufficient sleep in children is associated with:
++ Improved attention, behaviour, learning, memory and emotional regulation
+- Increased hyperactivity
+- Reduced memory
+- Worse mental health
+E: Benefits.
+
+@8.5
+Q: The reduction of sleep in adolescents is driven by:
++ Biological, psychological and socio-cultural influences, not a lower need for sleep
+- A reduced biological need for sleep
+- Dietary changes only
+- Growth hormone deficiency
+E: Framing sentence.
+
+@8.5
+Q: Pubertal development is associated with which circadian change?
++ A phase delay (evening-type preference)
+- A phase advance
+- No change
+- Loss of circadian rhythm
+E: Biological driver.
+
+@8.5
+Q: In adolescents, homeostatic sleep pressure:
++ Builds more slowly with time awake
+- Builds faster
+- Does not exist
+- Is constant
+E: Combined with phase delay, makes early sleep difficult.
+
+@8.5
+Q: Weekend "catch-up" sleep in adolescents:
++ Further delays the biological night, perpetuating the cycle
+- Fully resolves weekday sleep debt without consequence
+- Advances the circadian phase
+- Has no effect
+E: Perpetuating mechanism.
+
+@8.5
+Q: How does device light affect adolescent sleep?
++ It suppresses melatonin and disrupts circadian rhythm
+- It increases melatonin
+- It advances sleep timing
+- It has no effect
+E: One of four electronic media mechanisms.
+
+@8.5
+Q: Later school start times are associated with:
++ More sleep, less sleepiness, better academic performance and fewer crashes
+- Less sleep
+- Worse academic outcomes
+- More tardiness
+E: Evidence for later starts.
+
+@8.5
+Q: Adolescent caffeine consumers are how much more likely to have difficulty sleeping?
++ Twice as likely
+- Equally likely
+- Ten times as likely
+- Half as likely
+E: Vicious cycle with morning sleepiness.
+
+@8.5
+Q: Adolescents sleeping less than 8 hours have approximately what increase in risk of suicide attempts?
++ Threefold
+- No increase
+- 10% increase
+- Twentyfold
+E: Mood and self-harm impact.
+
+@8.5
+Q: Which cognitive domain is selectively affected by sleep loss in adolescence?
++ Higher-level executive functions
+- Primary visual perception
+- Hearing thresholds
+- Olfaction
+E: Critical developmental period.
+
+@8.5
+Q: Increased risk-taking in adolescents is more associated with:
++ Irregular sleep patterns and self-reported sleep problems than sleep loss per se
+- Excess sleep
+- Regular sleep schedules
+- Early bedtimes
+E: Nuanced association.
+
+@8.5
+Q: Insufficient sleep in adolescents affects physical performance through:
++ Reduced hand–eye coordination and increased sports injury
+- Increased muscle strength
+- Improved reaction time
+- No effect
+E: Physical performance.
+
+@8.5
+Q: Which group of adolescents has particularly increased sleep-related crash rates?
++ Young males
+- Young females only
+- Non-drivers
+- Cyclists only
+E: Road safety.
+
+@8.5
+Q: The relationship between sleep and weight in adolescents is:
++ An inverse dose–response relationship (less sleep, more weight)
+- No relationship
+- Positive (more sleep, more weight)
+- Only in males
+E: Hormonal mechanisms.
+
+@8.5
+Q: Hormonal changes linking sleep loss to obesity in adolescents include:
++ Altered insulin, ghrelin, leptin and cortisol
+- Increased growth hormone only
+- Increased thyroxine only
+- Reduced cortisol only
+E: Metabolic mechanisms.
+
+@8.5
+Q: Impaired judgement from sleep loss in adolescents increases risky choices by:
++ Focusing on rewards rather than consequences
+- Focusing on consequences
+- Reducing reward sensitivity
+- Increasing caution
+E: Decision-making.
+
+@8.5
+Q: Caffeine in adolescents is associated with which wider behaviour pattern?
++ Other substance use and risk-taking, and inversely with academic achievement
+- Reduced substance use
+- Higher academic achievement
+- No associations
+E: Caffeine associations.
+
+@8.5
+Q: Which of the following is NOT one of the four mechanisms by which electronic media disrupt adolescent sleep?
++ Increasing homeostatic sleep pressure
+- Directly displacing sleep time
+- Allowing more night-time interaction with friends
+- Increasing mental, emotional and physiological arousal
+E: The fourth mechanism is light suppressing melatonin.
+
+@8.5
+Q: Stimulant medications in adolescents may disrupt sleep when used:
++ As a countermeasure to sleepiness or as performance enhancers
+- Only at bedtime as hypnotics
+- Never
+- Only by adults
+E: Other causes.
+
+@8.5
+Q: Females in adolescence are more likely to show which caffeine-related phenomenon?
++ Tolerance and withdrawal
+- Immunity to caffeine
+- Increased slow-wave sleep
+- Advanced sleep phase
+E: Sex differences.

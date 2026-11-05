@@ -1,0 +1,1191 @@
+@4.1
+Q: Which is a common reason for attendance at a dental sleep medicine consultation?
++ Snoring, suspected or diagnosed OSA, sleep bruxism or sleep-related orofacial pain
+- Routine scale and polish
+- Orthodontic retention only
+- Cosmetic whitening
+E: These are the typical presenting reasons.
+
+@4.1
+Q: In an elderly patient with multiple comorbidities, a reasonable treatment goal may be:
++ Improved quality of life with minimised side effects rather than a normalised AHI
+- Complete normalisation of AHI at any cost
+- No treatment under any circumstances
+- Maximum protrusion from the outset
+E: Goals should be individualised.
+
+@4.1
+Q: Before starting OAT, the dentist, physician and patient should agree on:
++ What treatment success means and how efficacy will be verified
+- The colour of the appliance
+- The laboratory to use
+- The billing code only
+E: Shared definition of success is essential.
+
+@4.1
+Q: A patient sleeping only five hours a night is fitted with a well-titrated appliance. What is the most likely outcome?
++ They may not feel well and may wrongly conclude the appliance has failed
+- Their sleepiness will resolve completely
+- Their AHI will worsen
+- They will need surgery
+E: Insufficient sleep blunts perceived benefit.
+
+@4.1
+Q: Which expectation should be discussed with a patient starting OAT?
++ Results vary, some dental changes may occur and ongoing follow-up is needed
+- Cure is guaranteed
+- No side effects will occur
+- No follow-up is needed
+E: Managing expectations is part of history taking.
+
+@4.1
+Q: Neck circumference, belt circumference, BMI and blood pressure are recorded at baseline because they:
++ Provide risk markers and a reference for future comparison
+- Determine the impression material
+- Replace the sleep study
+- Are required for billing only
+E: Baseline records allow monitoring.
+
+@4.1
+Q: Which radiographs are the default pre-treatment records before OAT?
++ Panoramic and lateral cephalometric radiographs
+- CBCT of the airway
+- MRI of the TMJ
+- Chest radiograph
+E: CBCT is not routinely indicated.
+
+@4.1
+Q: Routine CBCT airway analysis before OAT is NOT recommended because:
++ Of unjustified radiation and poor validity of static measurement of a dynamic airway
+- It is too inexpensive
+- It shows the airway too well
+- It replaces PSG
+E: Airway is dynamic; inter-examiner reliability is poor.
+
+@4.1
+Q: Which TMJ assessment is part of the DSM examination?
++ Symptoms, sounds, range and path of opening, and palpation of masticatory muscles
+- MRI of both joints in every patient
+- Arthroscopy
+- Condylar biopsy
+E: Clinical TMJ examination documents baseline status.
+
+@4.1
+Q: Recording the existing occlusion before OAT is important because:
++ It is the medicolegal baseline for later occlusal change
+- It determines AHI
+- It is required by the laboratory only
+- It replaces consent
+E: Occlusal change is expected; baseline is protective.
+
+@4.1
+Q: A periodontal evaluation before OAT should assess:
++ Attachment loss, mobility and prognosis of teeth that will bear the appliance
+- Only plaque index
+- Only gingival colour
+- Only probing on incisors
+E: Anchor teeth must be stable.
+
+@4.1
+Q: Which intraoral finding is part of the soft tissue examination in DSM?
++ Modified Mallampati class, tonsil grade, tongue scalloping and palatal vault
+- Caries risk only
+- Tooth shade
+- Restoration margins only
+E: These assess airway-related anatomy.
+
+@4.1
+Q: Diagnostic models and intra/extra-oral photographs are retained primarily as:
++ Records for comparison and medicolegal documentation
+- Marketing material
+- Billing items only
+- Laboratory instructions
+E: Baseline records allow monitoring of change.
+
+@4.1
+Q: During treatment planning the dentist should provide information on:
++ Sleep behavioural therapy, the device considered and all alternatives
+- Only the appliance cost
+- Only surgery
+- Only CPAP
+E: Written information including alternatives.
+
+@4.1
+Q: Which validated instruments are recommended to assess sleepiness and risk at the first DSM visit?
++ ESS and STOP-BANG
+- PHQ-9 alone
+- DMFT index
+- Mallampati only
+E: Validated tools for baseline comparison.
+
+@4.1
+Q: Cephalometric evaluation:
++ Is not always required but should be performed by appropriately trained professionals when necessary
+- Is mandatory in every patient
+- Replaces PSG
+- Is contraindicated
+E: Guideline position.
+
+@4.1
+Q: Which symptom should be specifically asked about in the DSM history as a feature of OSA?
++ Nocturia
+- Polydipsia
+- Haemoptysis
+- Diplopia
+E: Nocturia, morning headache and witnessed apnoeas are relevant.
+
+@4.1
+Q: The number of functional teeth, mobility, spacing and curve of Spee are assessed to determine:
++ Suitability of the dentition to retain an appliance
+- AHI severity
+- Sleep stage
+- Need for CPAP
+E: Dental factors determine feasibility.
+
+@4.1
+Q: Explaining additional therapies that may follow an inadequate response is part of:
++ Managing patient expectations
+- Diagnosis
+- Billing
+- Impression taking
+E: Patients should know OAT may need supplementing.
+
+@4.1
+Q: Malocclusion classification with overjet and overbite measurements is recorded because:
++ It provides a baseline for monitoring occlusal change and influences appliance design
+- It determines sleep stage
+- It is required for CPAP
+- It predicts insomnia
+E: Overjet/overbite are key change measures.
+
+@4.1
+Q: Signs of GORD at a DSM examination include:
++ Enamel erosion
+- Fluorosis
+- Tetracycline staining
+- Hypoplasia
+E: Reflux frequently coexists with OSA.
+
+@4.1
+Q: Family history of sleep disorders is recorded because:
++ OSA shows familial clustering
+- It determines appliance colour
+- It is irrelevant
+- It is required for billing
+E: Family history is a risk factor.
+
+@4.1
+Q: Sleep hygiene and sleep duration are discussed at the first visit because:
++ They influence the patient's perception of benefit even if not appliance efficacy
+- They determine AHI directly
+- They are unrelated to OSA outcomes
+- They replace the sleep study
+E: Fragmentation and short sleep worsen sleepiness.
+
+@4.1
+Q: Proposing various appliances should be guided by:
++ Oral health status and craniofacial morphology
+- Laboratory discounts
+- Insurer preference only
+- Appliance colour
+E: Individualised selection.
+
+@4.2
+Q: How do sedatives, opioids and neuromuscular blockers affect the upper airway?
++ They impair dilator function, increasing obstruction and respiratory failure risk
+- They improve dilator tone
+- They reduce AHI
+- They have no airway effect
+E: Particularly relevant perioperatively.
+
+@4.2
+Q: Even moderate alcohol intake in a patient using an oral appliance may:
++ Cause transient desaturation despite appliance use
+- Improve appliance efficacy
+- Eliminate snoring
+- Have no effect
+E: Alcohol undermines appliance benefit.
+
+@4.2
+Q: Recent upper respiratory infection is significant because it:
++ Raises perioperative airway risk, especially in children
+- Improves airway patency
+- Is irrelevant to airway management
+- Reduces OSA severity
+E: URI increases respiratory adverse events.
+
+@4.2
+Q: Passive smoking in children increases:
++ Perioperative respiratory adverse events
+- Airway diameter
+- Sleep quality
+- Lung volume
+E: Family smoking is a pediatric risk.
+
+@4.2
+Q: Which medical condition worsens airway function and complicates OSA management?
++ Chronic rhinosinusitis or allergic rhinitis
+- Hypothyroidism treated with thyroxine
+- Previous appendicectomy
+- Myopia
+E: Nasal and lower airway disease complicate management.
+
+@4.2
+Q: Obesity affects the upper airway by:
++ Increasing collapse and respiratory muscle dysfunction
+- Increasing airway diameter
+- Reducing collapsibility
+- Improving dilator tone
+E: Obesity contributes to OSA and postoperative respiratory failure.
+
+@4.2
+Q: Advanced age increases airway-related morbidity, particularly with:
++ Comorbidity and polypharmacy
+- Good dentition
+- Low BMI
+- High physical activity
+E: Older patients need careful assessment.
+
+@4.2
+Q: Smoking is relevant in medical history because it causes:
++ Chronic upper airway inflammation and increased morbidity
+- Improved mucociliary clearance
+- Reduced airway oedema
+- Better sleep
+E: Smoking is a risk factor.
+
+@4.2
+Q: The structured way to answer a question on medical history modifiers is to:
++ Name the factor, state its airway mechanism, then its morbidity consequence
+- List drugs alphabetically
+- Discuss billing codes
+- Describe impression materials
+E: Factor → mechanism → consequence.
+
+@4.2
+Q: Which drug class can induce sleep bruxism and RLS?
++ SSRIs/SNRIs
+- Beta-blockers
+- Statins
+- Proton pump inhibitors
+E: Medication history matters dentally.
+
+@4.2
+Q: Asthma and COPD in an OSA patient:
++ Worsen airway function and complicate management
+- Have no relevance
+- Improve CPAP tolerance
+- Cure OSA
+E: Respiratory comorbidities matter.
+
+@4.2
+Q: Children and infants are at higher risk of airway complications because of:
++ Anatomical and physiological differences
+- Larger airways
+- Lower oxygen consumption
+- Absent tonsils
+E: Preoperative airway history is crucial.
+
+@4.2
+Q: A patient on a new opioid prescription for back pain asks whether this affects his OSA. The best answer is:
++ Opioids can depress breathing and cause central apnoeas, so his physician should be informed
+- Opioids improve OSA
+- Opioids have no respiratory effect
+- He should increase his alcohol to compensate
+E: Opioids worsen SDB.
+
+@4.2
+Q: Muscle relaxants in a patient on OAT may:
++ Reduce airway patency and potentially reduce appliance efficacy
+- Increase appliance efficacy
+- Cure OSA
+- Eliminate bruxism permanently
+E: Ask about new medications at every review.
+
+@4.2
+Q: Smoking history in DSM matters partly because of increased susceptibility to:
++ Infection and cancer of the upper airway
+- Dental fluorosis
+- Enamel hypoplasia
+- Amelogenesis imperfecta
+E: Smoking has broad airway effects.
+
+@4.2
+Q: Which of the following best describes the effect of benzodiazepines on OSA?
++ Reduced muscle tone and blunted arousal leading to more and longer apnoeas
+- Increased airway tone
+- Reduced apnoea duration
+- No effect
+E: Sedative–OSA interaction.
+
+@4.2
+Q: Polypharmacy in older OSA patients:
++ Increases airway-related morbidity and complicates management
+- Reduces OSA risk
+- Improves appliance tolerance
+- Has no effect
+E: Medication review is essential.
+
+@4.3
+Q: COMISA refers to:
++ Comorbid insomnia and sleep apnoea
+- Combined mandibular and incisor spacing
+- Central obstructive mixed apnoea
+- Chronic oral mucosal irritation
+E: Both conditions must be treated.
+
+@4.3
+Q: In a patient with COMISA, reducing AHI alone:
++ Will not resolve the complaint; insomnia also requires treatment (e.g. CBT-I)
+- Cures the insomnia
+- Worsens OSA
+- Is unnecessary
+E: Insomnia is a comorbid disorder.
+
+@4.3
+Q: RLS/PLMD and SDB interact such that:
++ SDB exacerbates limb movements and vice versa, causing further arousals
+- They never co-occur
+- PLMD cures SDB
+- SDB eliminates RLS
+E: They frequently co-occur.
+
+@4.3
+Q: Why is clinical differentiation between narcolepsy and OSA unreliable?
++ Symptoms overlap, and SOREMPs on MSLT are also frequent in untreated OSA
+- Narcolepsy never causes sleepiness
+- OSA always causes cataplexy
+- Both are diagnosed by questionnaire
+E: Careful sleep studies are needed.
+
+@4.3
+Q: A shift worker with SDB is at higher risk of:
++ Sleepiness and accidents
+- Improved alertness
+- Lower cardiovascular risk
+- Reduced AHI
+E: SDB worsens shift work disorder.
+
+@4.3
+Q: The prevalence of depression in OSA patients is reported as approximately:
++ 21.8%
+- 1%
+- 50%
+- 90%
+E: Screen with a tool, confirm with established criteria.
+
+@4.3
+Q: The relationship between OSA and depression is best described as:
++ Mutual and not fully understood, with shared confounders, rather than simple cause-and-effect
+- OSA always causes depression
+- Depression always causes OSA
+- No relationship exists
+E: Association ≠ causation.
+
+@4.3
+Q: Which proposed mechanism links OSA and depression via serotonin?
++ Serotonin abnormalities in depression also affect upper airway dilator motor neurons via the hypoglossal nucleus
+- Serotonin increases loop gain
+- Serotonin causes tonsillar hypertrophy
+- Serotonin blocks adenosine
+E: Serotonergic input to hypoglossal motor neurons falls further in sleep.
+
+@4.3
+Q: Which pro-inflammatory cytokines are implicated in daytime sleepiness and depression in OSA?
++ IL-6 and TNF
+- IL-2 and IL-4
+- Interferon-alpha only
+- IL-10
+E: Inflammation is a proposed mechanism.
+
+@4.3
+Q: The effect of CPAP on depression in OSA is:
++ Not conclusive, with mixed evidence
+- Consistently curative
+- Consistently harmful
+- Never studied
+E: Some studies show benefit, others none.
+
+@4.3
+Q: Depression is a risk factor for:
++ Incomplete CPAP response
+- Better CPAP adherence
+- Lower AHI
+- Narcolepsy
+E: Depression may need independent management.
+
+@4.3
+Q: Which statement about insufficient sleep and OAT response is correct?
++ A patient not spending enough time in bed will not respond as expected to an appliance
+- Insufficient sleep improves appliance response
+- Sleep duration is irrelevant
+- Insufficient sleep reduces AHI
+E: Insufficient sleep blunts benefit.
+
+@4.3
+Q: Some antidepressants may induce or worsen:
++ RLS and periodic limb movements
+- Narcolepsy
+- Tonsillar hypertrophy
+- Primary snoring only
+E: Medication history relevance.
+
+@4.3
+Q: Psychiatric diagnoses reported in OSA include:
++ Depression, anxiety, PTSD, psychotic and bipolar disorders
+- Only schizophrenia
+- None
+- Only anorexia
+E: Broad psychiatric comorbidity.
+
+@4.3
+Q: OSA may contribute to antidepressant treatment failure. The best clinical implication is:
++ Consider screening for OSA in patients with treatment-resistant depression
+- Stop all antidepressants
+- Treat depression with an oral appliance
+- Ignore OSA in depressed patients
+E: OSA may undermine depression treatment.
+
+@4.3
+Q: Insulin resistance is relevant to the OSA–depression link because:
++ It contributes to depression as it does to OSA, acting as a shared factor
+- It protects against depression
+- It cures OSA
+- It is unrelated
+E: Shared metabolic confounders.
+
+@4.3
+Q: Narcolepsy coexisting with OSA would be expected to:
++ Compound sleepiness and cognitive impairment
+- Eliminate sleepiness
+- Improve appliance response
+- Reduce AHI
+E: Overlapping disorders compound symptoms.
+
+@4.3
+Q: Mood disorders associated with SDB may present with:
++ Insomnia or hypersomnia, creating a cycle of worsening sleep and mental health
+- Only improved sleep
+- Cataplexy
+- Sleepwalking
+E: Bidirectional cycle.
+
+@4.3
+Q: A patient with OSA treated successfully with CPAP remains sleepy, sleeping 5 h/night due to work. The most likely reason is:
++ Insufficient sleep
+- CPAP failure
+- Narcolepsy in all such cases
+- Appliance side effects
+E: Insufficient sleep is a common cause of residual sleepiness.
+
+@4.4
+Q: SDB is described as an independent risk factor for:
++ Hypertension, stroke, heart failure and arrhythmia
+- Osteoporosis
+- Glaucoma only
+- Dental caries
+E: Driven by intermittent hypoxia and sympathetic activation.
+
+@4.4
+Q: The relationship between OSA severity and incident hypertension shows:
++ A dose–response relationship independent of obesity
+- No relationship
+- An inverse relationship
+- A relationship only in women
+E: Greater severity → greater risk.
+
+@4.4
+Q: CPAP may improve blood pressure control particularly in:
++ Severe OSA or treatment-resistant hypertension
+- Normotensive patients only
+- Primary snoring
+- Central apnoea
+E: Greatest BP effect in severe/resistant cases.
+
+@4.4
+Q: GORD and OSA interact through:
++ Increased intrathoracic pressure swings and arousals promoting reflux
+- Reduced intrathoracic pressure
+- Increased lower oesophageal sphincter tone
+- Decreased arousals
+E: Each worsens the other.
+
+@4.4
+Q: A patient with OSA and GORD should be advised to avoid food or drink (other than water) before bed for at least:
++ 2 hours
+- 15 minutes
+- 30 minutes
+- 6 hours
+E: Reduces nocturnal reflux.
+
+@4.4
+Q: Metabolic syndrome and type 2 diabetes are linked to OSA through:
++ Intermittent hypoxia and fragmentation promoting insulin resistance and inflammation
+- Improved insulin sensitivity
+- Reduced inflammation
+- Lower triglycerides
+E: Independent association with moderate–severe SDB.
+
+@4.4
+Q: Neurocognitive decline associated with SDB affects:
++ Executive function, attention and memory, even at mild disease levels
+- Only motor skills
+- Only vision
+- Nothing measurable
+E: Cognitive effects in adults and children.
+
+@4.4
+Q: Why does the relationship between SDB and comorbidities present a "therapeutic opportunity"?
++ Treating SDB can positively affect management of associated chronic disease
+- Comorbidities cure SDB
+- Comorbidities prevent treatment
+- It reduces need for diagnosis
+E: Key examiner point.
+
+@4.4
+Q: A patient whose only complaint is snoring has poorly controlled hypertension. The best argument for investigating and treating possible OSA is:
++ Treating SDB may improve management of the hypertension
+- Snoring alone never needs assessment
+- Hypertension contraindicates OAT
+- Blood pressure is unrelated to sleep
+E: Comorbidity strengthens the case for assessment.
+
+@4.4
+Q: Depression, anxiety and neurocognitive decline with SDB show higher rates particularly in:
++ Women and post-menopausal populations
+- Children under 2
+- Young men only
+- Athletes
+E: Noted in the syllabus.
+
+@4.4
+Q: Cardiac arrhythmias linked to OSA include:
++ Atrial fibrillation and ventricular tachycardia
+- Only sinus bradycardia
+- None
+- Only supraventricular ectopics in children
+E: OSA is linked to AF and VT.
+
+@4.4
+Q: Coexistence of metabolic syndrome with obesity in SDB:
++ Further increases risk
+- Reduces risk
+- Has no effect
+- Cures OSA
+E: Additive risk.
+
+@4.4
+Q: Which mechanism links OSA to cardiovascular events through blood properties?
++ Increased platelet aggregation and hypercoagulability
+- Reduced platelet count
+- Anaemia
+- Reduced fibrinogen
+E: Also endothelial dysfunction.
+
+@4.4
+Q: Guidelines now recommend considering SDB management in:
++ Acute stroke and congestive heart failure
+- Appendicitis
+- Fractures
+- Cataract surgery only
+E: SDB affects outcomes in these conditions.
+
+@4.4
+Q: Which of the following is a consequence of SDB relevant to chronic kidney disease?
++ Severe SDB increases CKD risk
+- SDB protects the kidney
+- CKD never coexists with SDB
+- SDB cures CKD
+E: High prevalence in CKD.
+
+@4.4
+Q: The relevance of comorbidities in the SDB patient includes increased:
++ Morbidity, mortality, healthcare burden and reduced quality of life
+- Life expectancy
+- Productivity
+- Sleep quality
+E: Why the relationship matters.
+
+@4.4
+Q: SDB contributes to left ventricular hypertrophy and heart failure via:
++ Sympathetic activation, hypertension and intrathoracic pressure swings
+- Reduced afterload
+- Bradycardia only
+- Hypotension
+E: Cardiovascular mechanisms.
+
+@4.4
+Q: Which oral finding may prompt both reflux and OSA screening?
++ Palatal and occlusal enamel erosion
+- Interproximal caries
+- Gingival recession on one tooth
+- Fluorosis
+E: Erosion signals reflux.
+
+@4.4
+Q: The association between SDB and hypertension is driven by:
++ Repeated intermittent hypoxia and sympathetic activation
+- Increased parasympathetic tone
+- Low cortisol
+- Increased REM
+E: Core mechanism.
+
+@4.4
+Q: In a patient with OSA, uncontrolled atrial fibrillation and heart failure, the dentist should:
++ Ensure the physician is closely involved and favour objective follow-up of any OAT
+- Fit an appliance without communication
+- Ignore cardiac comorbidity
+- Recommend alcohol before bed
+E: Comorbidity raises stakes for efficacy verification.
+
+@4.5
+Q: Which four principles form the basis of biomedical ethics applied in DSM?
++ Autonomy, non-maleficence, beneficence and justice
+- Profit, efficiency, speed and convenience
+- Diagnosis, treatment, billing and discharge
+- Screening, referral, fitting and titration
+E: Plus veracity.
+
+@4.5
+Q: Informed consent for OAT should be obtained:
++ In writing, before fitting
+- Verbally after fitting
+- Only if side effects occur
+- At the one-year review
+E: Record potential side effects and expected longevity.
+
+@4.5
+Q: Veracity in DSM ethics requires:
++ Truthfulness about the limits of the evidence and likely side effects
+- Withholding side effect information
+- Guaranteeing cure
+- Following insurer instructions
+E: Honest disclosure.
+
+@4.5
+Q: The ethical "screening versus diagnosis" boundary means:
++ Dentists may screen and refer but may not diagnose SRBD
+- Dentists may diagnose OSA with questionnaires
+- Physicians screen and dentists diagnose
+- No boundary exists
+E: Scope of practice.
+
+@4.5
+Q: Consent for OAT should document:
++ Potential and probable side effects and the appliance's expected longevity
+- Only the fee
+- Only the laboratory name
+- Only the AHI
+E: Key consent elements.
+
+@4.5
+Q: Practising only within one's qualifications and expertise reflects:
++ Scope of competence (non-maleficence)
+- Justice
+- Billing compliance
+- Autonomy
+E: Do no harm by practising within competence.
+
+@4.5
+Q: Confidentiality in DSM is particularly relevant to:
++ Interprofessional communication and remote compliance monitoring
+- Laboratory colour selection
+- Appointment reminders only
+- Equipment sterilisation
+E: Privacy obligations apply to data sharing.
+
+@4.5
+Q: The principle of justice in DSM refers to:
++ Fairness and equity for all patients
+- Following court orders
+- Charging high fees
+- Choosing the cheapest appliance
+E: Equitable access.
+
+@4.5
+Q: Which ethical principle is most directly respected by discussing all alternatives including no treatment?
++ Autonomy
+- Justice
+- Non-maleficence
+- Fidelity to the laboratory
+E: Informed choice.
+
+@4.5
+Q: Patient-centred care in DSM requires:
++ Respecting the diversity of patients' needs and backgrounds
+- Treating all patients identically regardless of preference
+- Ignoring patient goals
+- Following manufacturer protocols only
+E: Individualised care.
+
+@4.6
+Q: Which is one of the four general principles of the multidisciplinary model?
++ The diagnosis of OSA should always be made by a physician
+- The dentist may diagnose OSA if a questionnaire is positive
+- Appliances may be fitted without training
+- Follow-up testing is optional
+E: Physician diagnosis is fundamental.
+
+@4.6
+Q: Appliances should be fitted by:
++ A qualified dentist trained and experienced in dental sleep medicine
+- Any dental technician
+- The patient at home
+- A pharmacist
+E: General principle 2.
+
+@4.6
+Q: Verification of treatment efficacy should be performed by:
++ The referring physician with PSG or sleep studies
+- The dentist using patient report alone
+- The dental laboratory
+- The bed partner
+E: General principle 3.
+
+@4.6
+Q: The dentist's role in the shared-care model is to:
++ Screen and provide the appliance, not to diagnose SDB
+- Diagnose and certify cure
+- Prescribe CPAP
+- Interpret PSG for diagnosis
+E: General principle 4.
+
+@4.6
+Q: A dentist should begin appliance therapy only after:
++ A written request or prescription from a physician who has assessed the patient
+- A positive STOP-BANG
+- A patient request alone
+- An ESS of >10
+E: Never start treatment without physician assessment.
+
+@4.6
+Q: A patient with primary snoring and no sleepiness requests an appliance. The correct action is:
++ Refer to exclude OSA before providing an appliance
+- Fit an appliance immediately
+- Refuse treatment permanently
+- Prescribe CPAP
+E: Snoring cannot be differentiated from OSA clinically.
+
+@4.6
+Q: Sleep bruxism with orofacial pain but no sleepiness, snoring or apnoea:
++ May be diagnosed and managed by the dentist
+- Requires a sleep physician in all cases
+- Requires PSG in all cases
+- Requires CPAP
+E: If accompanied by OSA symptoms, a sleep physician is required.
+
+@4.6
+Q: Level 3 portable monitors must record at least:
++ ≥4 channels including airflow/respiratory movement, heart rate/ECG and oxygen saturation
+- EEG, EOG and EMG
+- Oximetry only
+- Snoring only
+E: Level 4 records 1–2 bioparameters.
+
+@4.6
+Q: When a dentist uses oximetry or a home test during OAT, the data are used:
++ For titration purposes only, not for diagnosis or formal final assessment
+- To diagnose OSA
+- To certify cure
+- To bill the physician
+E: The physician verifies efficacy.
+
+@4.6
+Q: A written report to the referring practitioner should include:
++ Details of dental treatment and symptomatic feedback
+- Only the invoice
+- The dentist's diagnosis of OSA
+- Nothing; reports are optional
+E: Regular written communication is required.
+
+@4.6
+Q: Successful outcome in the shared-care setting is described as reduction of AHI/RDI/REI to:
++ <5 with a >50% reduction in these indices
+- <30
+- <15 only
+- Any reduction
+E: Shared-care definition.
+
+@4.6
+Q: In the staged treatment sequence, written consent is obtained:
++ Before fitting, including risks
+- After the first review
+- Only if side effects occur
+- At the final efficacy study
+E: Step 4 of the sequence.
+
+@4.6
+Q: If the dentist's titration has reached maximum comfortable advancement and symptoms persist, the dentist should:
++ Refer back to the referring physician
+- Continue advancing beyond comfort
+- Discharge the patient
+- Diagnose treatment failure and stop therapy unilaterally
+E: The physician may refer to a sleep specialist.
+
+@4.6
+Q: Who orders an unattended portable monitor for diagnosis?
++ A physician, as part of comprehensive sleep evaluation
+- The dental assistant
+- The dental laboratory
+- The patient directly online
+E: Diagnostic testing requires physician supervision.
+
+@4.6
+Q: Onward referral by the dentist to periodontics, orthodontics or prosthodontics is appropriate for:
++ Complications and coincidental conditions
+- Diagnosis of OSA
+- CPAP titration
+- Prescription of hypnotics
+E: Part of shared care.
+
+@4.6
+Q: Which statement about the "commonest way to lose marks" is correct?
++ Implying that the dentist diagnoses OSA or certifies success from their own monitor data
+- Recommending physician referral
+- Obtaining written consent
+- Recording baseline occlusion
+E: Scope-of-practice errors.
+
+@4.6
+Q: For primary snoring, objective follow-up sleep testing is:
++ Not required unless symptoms worsen or fail to resolve
+- Mandatory every 6 months
+- Always required by the dentist
+- Required before every adjustment
+E: Step 7 of sequence.
+
+@4.6
+Q: In the staged treatment sequence, objective portable monitor data collected after starting are:
++ For titration only
+- For diagnosis
+- For billing
+- For legal certification
+E: Step 6.
+
+@4.6
+Q: The follow-up protocol established jointly should include annual assessment of:
++ Efficacy, compliance, side effects and integrity of oral structures
+- Only appliance colour
+- Only fees
+- Only snoring
+E: Step 8 of sequence.
+
+@4.6
+Q: The physician's role after deciding on appliance therapy includes:
++ Sending a written referral/prescription with the diagnostic report and remaining involved
+- Fitting the appliance
+- Taking impressions
+- Managing dental side effects
+E: Shared responsibilities.
+
+@4.6
+Q: The dentist may manage which conditions within shared care?
++ SDB with appliances, sleep bruxism, dental consequences of GORD and orofacial pain
+- Narcolepsy
+- Central sleep apnoea
+- Heart failure
+E: Dental scope.
+
+@4.7
+Q: Sleep bruxism is defined as:
++ Masticatory muscle activity during sleep, rhythmic (phasic) or non-rhythmic (tonic), not a disorder in otherwise healthy individuals
+- A sleep disorder causing apnoea
+- A movement disorder in all individuals
+- Daytime clenching only
+E: International consensus definition.
+
+@4.7
+Q: According to consensus, sleep bruxism may be classified by consequence as:
++ Harmless, a risk factor or a protective factor
+- Mild, moderate or severe only
+- Central or obstructive
+- Primary only
+E: SB is a behaviour, not a disorder per se.
+
+@4.7
+Q: "Definite" sleep bruxism requires:
++ Self-report, clinical examination and instrumental assessment (e.g. PSG with EMG)
+- Self-report only
+- Clinical examination only
+- Tooth wear only
+E: Possible → probable → definite grading.
+
+@4.7
+Q: "Probable" sleep bruxism is based on:
++ Self-report plus clinical examination
+- Self-report alone
+- PSG alone
+- Questionnaire alone
+E: Grading system.
+
+@4.7
+Q: The proportion of adults with OSA who also exhibit sleep bruxism is approximately:
++ 30–50%
+- 1–2%
+- 5–10%
+- 90–100%
+E: SB is common in OSA.
+
+@4.7
+Q: Self-reported sleep bruxism prevalence in adults is approximately:
++ 8%
+- 0.5%
+- 25%
+- 60%
+E: Children/adolescents 14–46%.
+
+@4.7
+Q: The evidence that SB and SDB frequently co-occur is rated as:
++ Strong
+- Weak
+- Absent
+- Moderate
+E: Multiple studies show high comorbidity.
+
+@4.7
+Q: The evidence that SDB directly causes SB is rated as:
++ Weak
+- Strong
+- Conclusive
+- Moderate
+E: Inconsistent evidence.
+
+@4.7
+Q: The evidence that treating SDB can reduce SB, when temporally linked, is rated as:
++ Moderate
+- Strong
+- Absent
+- Weak
+E: Some case and intervention studies.
+
+@4.7
+Q: A conventional flat-plane (Michigan-type) stabilisation splint in a patient with untreated OSA may:
++ Increase AHI and snoring
+- Reduce AHI
+- Have no effect
+- Cure OSA
+E: Increased vertical dimension and posterior mandibular positioning reduce airway space.
+
+@4.7
+Q: Before fitting any occlusal splint for bruxism, the dentist should:
++ Screen for OSA signs and symptoms
+- Take a CBCT
+- Prescribe a hypnotic
+- Advance the mandible maximally
+E: If OSA is likely, a MAD may serve both purposes.
+
+@4.7
+Q: Sleep bruxism alone (no OSA features) is best managed first-line with:
++ An occlusal splint
+- A sleep study and MAD
+- CPAP
+- Hypoglossal nerve stimulation
+E: SB alone needs neither a sleep study nor mandibular advancement.
+
+@4.7
+Q: The "reactive–protective" hypothesis proposes that sleep bruxism:
++ Is triggered to restore airway patency after obstruction
+- Causes obstruction directly
+- Is unrelated to arousal
+- Only occurs in REM
+E: Bruxism may increase tone and reopen the airway.
+
+@4.7
+Q: Which finding argues AGAINST a protective role of SB in OSA?
++ More SB events precede apnoea–hypopnoea events than follow them
+- SB is common in OSA
+- Michigan splints increase AHI
+- Some OSA treatments reduce SB
+E: Temporal sequence does not support protection.
+
+@4.7
+Q: The most appropriate statement to a patient about bruxism and OSA is:
++ They frequently co-occur and share arousal mechanisms, but a direct causal relationship is not established
+- Your bruxism is caused by your apnoea
+- Your apnoea is caused by your bruxism
+- They are unrelated
+E: Refrain from implying causation.
+
+@4.7
+Q: Sleep bruxism episodes occur most commonly in:
++ N2–N3, in a cyclical pattern with micro-arousals
+- REM only
+- Wakefulness
+- N1 only
+E: Associated with arousals and autonomic activation.
+
+@4.7
+Q: A patient has SB with TMD and no signs of OSA. The recommended approach is:
++ Treat the TMD and avoid a MAD; do not refer for a sleep study
+- Fit a MAD immediately
+- Refer for PSG
+- Prescribe CPAP
+E: MAD is avoided until TMD is treated and OSA likelihood established.
+
+@4.7
+Q: The proportion of patients who cannot tolerate a MAD due to TMD is approximately:
++ 2%
+- 20%
+- 50%
+- 75%
+E: TMD is not a contraindication; only ~2% cannot tolerate.
+
+@4.7
+Q: Compared with traction devices, compression MAD designs cause:
++ Greater early masticatory myalgia and residual tongue pain
+- Less myalgia
+- No difference
+- Fewer TMJ symptoms
+E: Traction devices impose lower stress.
+
+@4.7
+Q: Long-term MAD use and the TMJ: which statement is correct?
++ Long-term use does not impair the joint; condylar translation is less than in maximum opening
+- Long-term use causes condylar resorption in most patients
+- MADs always worsen TMD
+- MADs cause disc perforation
+E: TMD symptoms may even reduce.
+
+@4.7
+Q: Mandibular exercises in patients with TMD using a MAD:
++ Reduce pain intensity and increase compliance
+- Worsen TMD
+- Are contraindicated
+- Increase AHI
+E: Cunali et al. evidence.
+
+@4.7
+Q: Which shared clinical feature links SB and OSA?
++ Both are commoner supine and both relate to arousals
+- Both occur only in REM
+- Both are cured by occlusal splints
+- Both are caused by caries
+E: Shared features and risk factors.
+
+@4.7
+Q: Which pharmacological option helps acute-stage SB and also treats TMD?
++ Botulinum toxin
+- Benzodiazepines long term
+- Opioids
+- SSRIs
+E: Otherwise avoid pharmacology for SB.
+
+@4.8
+Q: The relationship between pain and sleep is:
++ Bidirectional and cyclical
+- Unidirectional (pain affects sleep only)
+- Absent
+- Protective
+E: Pain disturbs sleep; poor sleep increases pain.
+
+@4.8
+Q: Short or disturbed sleep produces:
++ Hyperalgesia — increased sensitivity to painful stimuli
+- Analgesia
+- No change in pain
+- Increased morphine potency
+E: Sleep loss lowers pain thresholds.
+
+@4.8
+Q: Which neurotransmitters are implicated in regulating both pain and sleep?
++ Serotonin, noradrenaline and dopamine
+- Glycine only
+- Histamine only
+- Acetylcholine only
+E: Dysregulation affects both.
+
+@4.8
+Q: The ACR 1990 fibromyalgia classification required widespread pain for at least 3 months and tenderness at:
++ ≥11 of 18 tender point sites
+- ≥5 of 18 sites
+- ≥18 of 18 sites
+- ≥3 of 10 sites
+E: Palpation at ~4 kg; later criteria use WPI and SSS.
+
+@4.8
+Q: The prevalence of fibromyalgia is approximately:
++ 1–2%, ~80% female
+- 10–15%, mostly male
+- 0.01%
+- 25%
+E: Second most common rheumatic condition after OA.
+
+@4.8
+Q: Revised fibromyalgia criteria (ACR 2010/2016) replaced the tender point count with:
++ The Widespread Pain Index and Symptom Severity Scale
+- PSG
+- MRI
+- Blood tests
+E: Signal awareness of the revision.
+
+@4.8
+Q: Chronic fatigue syndrome prevalence is approximately:
++ 0.4–1.5%
+- 10%
+- 25%
+- 0.01%
+E: Overlaps with fibromyalgia.
+
+@4.8
+Q: Fibromyalgia symptoms are typically improved by:
++ Warm dry weather, heat, massage and mild exercise
+- Cold damp weather
+- Prolonged stationary posture
+- Unaccustomed exertion
+E: Aggravating vs relieving factors.
+
+@4.8
+Q: A shared feature of fibromyalgia and chronic fatigue syndrome is:
++ Perception of poor-quality, unrefreshing sleep
+- Cataplexy
+- Severe OSA in all cases
+- Normal sleep quality
+E: Both feature unrefreshing sleep.
+
+@4.8
+Q: Which inflammatory mediators are implicated in both pain and sleep pathways?
++ TNF-α and IL-6
+- IL-10 and TGF-β only
+- Histamine only
+- Insulin
+E: Pro-inflammatory cytokines.
+
+@4.8
+Q: Chronic pain management should:
++ Address sleep simultaneously, often in a multidisciplinary setting
+- Ignore sleep
+- Rely on opioids alone
+- Avoid psychological input
+E: Improving sleep improves pain tolerance.
+
+@4.8
+Q: Pain conditions commonly coexisting with fibromyalgia include:
++ TMJ pain, migraine and irritable bowel syndrome
+- Dental caries
+- Cataracts
+- Osteoporosis only
+E: Overlapping pain syndromes.
+
+@4.8
+Q: Which statement about pain and insomnia is correct?
++ Pain is a primary cause of insomnia and many chronic pain patients have insomnia
+- Pain never affects sleep onset
+- Insomnia reduces pain
+- Pain improves sleep continuity
+E: Bidirectional relationship.
+
+@4.8
+Q: HPA-axis dysfunction is relevant to pain and sleep because:
++ It is a shared mechanism contributing to both
+- It cures chronic pain
+- It is unrelated
+- It increases pain thresholds
+E: Shared mechanisms.
+
+@4.8
+Q: Which is true about treating pain-related sleep disturbance?
++ There is no rational established approach, and pain is not clearly the cause of disrupted sleep
+- Opioids are the established solution
+- CPAP is the established solution
+- Sleep hygiene alone is curative
+E: Evidence is limited.

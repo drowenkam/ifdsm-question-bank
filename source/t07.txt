@@ -1,0 +1,687 @@
+@7.1
+Q: Which patient characteristic predicts a better long-term response to OAT?
++ Younger age, less obesity and lower baseline AHI
+- Older age and higher BMI
+- REM-predominant OSA
+- Weight gain during treatment
+E: Better long-term response profile.
+
+@7.1
+Q: REM-predominant OSA, compared with NREM-predominant OSA, shows:
++ A lower response rate to OAT
+- A higher response rate
+- Identical response
+- Complete cure in all cases
+E: The splint is relatively poor at alleviating REM-predominant OSA.
+
+@7.1
+Q: In long-term OAT, the key question about an older patient is:
++ Whether the dentition can still anchor the device
+- Their exact chronological age
+- Whether they can afford CPAP
+- Whether they have grandchildren
+E: Age matters less than retention capacity.
+
+@7.1
+Q: Why might older adults show lower adherence to OAT in some studies?
++ Changes in dentition and mucosal tissue make adaptation harder
+- They sleep more
+- They do not snore
+- Appliances are not made for older adults
+E: Others show no age difference.
+
+@7.1
+Q: Significant weight gain during OAT is a specific trigger for:
++ Reassessment of fit and efficacy and repeat objective testing
+- Immediate discontinuation
+- Increasing vertical dimension
+- No action
+E: Weight changes alter airway anatomy.
+
+@7.1
+Q: A 10% weight gain during OAT would be expected to increase AHI by approximately:
++ 32%
+- 3%
+- 10%
+- 100%
+E: Weight–AHI relationship.
+
+@7.1
+Q: Alcohol consumed before sleep in a patient on OAT:
++ Exacerbates collapse and may cause desaturation despite appliance use
+- Improves appliance efficacy
+- Has no effect
+- Reduces snoring
+E: Advise avoidance before bed.
+
+@7.1
+Q: At every long-term review, the dentist should ask about:
++ New medications, especially sedatives, hypnotics, opioids and muscle relaxants
+- Favourite foods
+- Holiday plans
+- Shoe size
+E: Medications can reduce patency.
+
+@7.1
+Q: Poor sleep hygiene in a well-titrated OAT patient may:
++ Blunt daytime alertness gains and lead the patient to think the appliance has failed
+- Improve OAT efficacy
+- Reduce AHI
+- Have no effect
+E: Sleep quantity and hygiene matter.
+
+@7.1
+Q: Which change occurring during treatment is associated with a poorer long-term OAT response?
++ Weight gain
+- Weight loss
+- Improved sleep hygiene
+- Reduced alcohol intake
+E: Weight gain during treatment is related to failure.
+
+@7.1
+Q: Gender and PSG phenotype in some analyses are:
++ Unrelated to outcome, showing predictors are probabilistic, not deterministic
+- Perfect predictors
+- The only predictors
+- Irrelevant to all OSA
+E: Predictors are imperfect.
+
+@7.1
+Q: Which of the following is a long-term modifier of OAT outcome?
++ Medication change affecting CNS or muscle tone
+- Changing toothbrush brand
+- Changing impression material
+- Changing dental receptionist
+E: Medication change.
+
+@7.1
+Q: Weight loss during OAT may:
++ Improve outcomes and possibly allow reduced protrusion
+- Worsen OSA
+- Have no effect
+- Contraindicate OAT
+E: Reassess fit and efficacy.
+
+@7.1
+Q: In men, which anthropometric feature predicts better long-term OAT response?
++ Smaller neck circumference
+- Larger neck circumference
+- Taller height
+- Longer arms
+E: Neck circumference.
+
+@7.1
+Q: Emerging research explores combining OAT with:
++ Pharmacotherapy, though changes should be monitored closely
+- Alcohol
+- Benzodiazepines in all patients
+- Opioids
+E: Combined approaches.
+
+@7.1
+Q: A patient on OAT starts a benzodiazepine for anxiety. The dentist should:
++ Recognise it may reduce airway patency and communicate with the physician regarding efficacy
+- Ignore the medication
+- Increase protrusion to maximum immediately
+- Stop OAT
+E: Medication changes affect efficacy.
+
+@7.1
+Q: Adequate sleep duration in OAT patients helps by:
++ Stabilising architecture and reducing factors that worsen apnoea
+- Increasing AHI
+- Causing occlusal change
+- Reducing compliance
+E: Sleep hygiene supports success.
+
+@7.1
+Q: Which statement about positional OSA and long-term OAT is correct?
++ Positional OSA favours appliance response
+- Positional OSA predicts failure
+- Position is irrelevant
+- Positional OSA contraindicates OAT
+E: Favourable predictor.
+
+@7.1
+Q: Effectiveness of OAT is vulnerable over time to:
++ Bite change and ageing, requiring continuous re-evaluation
+- Improvements in sleep
+- Reduction in BMI only
+- Seasonal changes only
+E: Long-term vigilance.
+
+@7.1
+Q: A patient on OAT for 3 years has gained 12 kg. Which action is most appropriate?
++ Reassess symptoms and fit, consider re-titration and refer for objective testing
+- No action
+- Reduce protrusion
+- Discharge
+E: Weight gain triggers reassessment.
+
+@7.1
+Q: Muscle relaxants are relevant to long-term OAT because they:
++ May reduce airway patency and appliance efficacy
+- Improve dilator tone
+- Cure TMD permanently
+- Reduce occlusal change
+E: Medication effects.
+
+@7.1
+Q: Alcohol advice for OAT patients is to:
++ Avoid alcohol in the hours before bed
+- Drink alcohol to relax the jaw
+- Drink only with the appliance in place
+- Increase alcohol to improve sleep
+E: Reduces collapse.
+
+@7.1
+Q: The natural history of OSA with age and weight gain is:
++ Deterioration (worsening AHI)
+- Spontaneous resolution
+- No change
+- Improvement in all patients
+E: OSA is progressive.
+
+@7.1
+Q: Which is the best summary of Topic 7's central concept?
++ OSA is progressive and the appliance is a lifelong prosthesis; a static setting in a changing patient slowly fails
+- OSA is cured once the appliance is fitted
+- Follow-up is unnecessary
+- Appliances never need adjustment
+E: Organising idea.
+
+@7.2
+Q: Documenting the evolution of the initial complaint allows:
++ Tracking of effectiveness, symptom progression and adherence, with timely adjustment
+- Avoiding consent
+- Avoiding physician communication
+- Billing more items
+E: Purpose of documentation.
+
+@7.2
+Q: Self-reported measures used to track the complaint include:
++ ESS, sleep diaries and mobile applications
+- PSG raw data only
+- Cephalometric tracings
+- Dental radiographs
+E: Self-report tools.
+
+@7.2
+Q: Sleep-observer reports are typically provided by:
++ The bed partner or family
+- The dental laboratory
+- The insurer
+- The receptionist
+E: Observer data.
+
+@7.2
+Q: Why is the bed partner's report valuable?
++ They may detect recurrence of snoring or apnoeas before the patient notices
+- They diagnose OSA
+- They adjust the appliance
+- They replace PSG
+E: Often the only reporter of nocturnal phenotype.
+
+@7.2
+Q: The moment the perceived reason for treatment disappears (e.g. partner leaves) is:
++ A strong predictor of discontinuation
+- A sign of cure
+- Unrelated to adherence
+- A reason to increase protrusion
+E: Adherence risk.
+
+@7.2
+Q: Re-administering the same baseline questionnaires at yearly follow-up allows:
++ Valid comparison over time
+- Avoidance of physician involvement
+- Diagnosis of OSA by the dentist
+- Faster appointments only
+E: Consistent measures.
+
+@7.2
+Q: Objective data integrated into long-term records may include:
++ Compliance monitor data, PSG and oximetry
+- Patient's tax records
+- Dental shade guides
+- Laboratory invoices
+E: Objective integration.
+
+@7.2
+Q: Monitoring changes in self-reported sleepiness over time correlates with:
++ Long-term adherence and better outcomes
+- Worse adherence
+- Increased AHI
+- Appliance breakage
+E: Tracking matters.
+
+@7.2
+Q: Yearly follow-up should include changes in:
++ Sleep, blood pressure, weight and behavioural risk factors
+- Hair colour
+- Shoe size
+- Favourite foods
+E: Comprehensive review.
+
+@7.2
+Q: STOP-BANG items may be used in follow-up as:
++ A structured way to capture observer-reported and clinical risk features
+- A diagnostic test
+- A replacement for PSG
+- A billing tool
+E: Sleep-observer measures.
+
+@7.2
+Q: The bed partner is frequently the person who:
++ Perceives the benefit, while the patient bears the side effects
+- Bears the side effects
+- Diagnoses OSA
+- Fabricates the appliance
+E: Adherence dynamics.
+
+@7.2
+Q: The patient reports feeling fine, but the partner reports loud snoring has returned. The dentist should:
++ Document the observer report and investigate possible loss of efficacy
+- Ignore the partner
+- Accept the patient's view only
+- Discharge
+E: Observer data complement self-report.
+
+@7.2
+Q: App-based tracking of sleep symptoms is useful for:
++ Evolution tracking alongside regular follow-up
+- Diagnosing OSA
+- Replacing physician care
+- Fabricating appliances
+E: Supplementary tool.
+
+@7.2
+Q: Documentation of benefit the patient may under-report helps:
++ Reinforce adherence
+- Reduce adherence
+- Avoid follow-up
+- Increase side effects
+E: Value of observer data.
+
+@7.2
+Q: Which is NOT a recognised self-report measure for tracking the complaint?
++ Cephalometric ANB angle
+- ESS
+- Sleep diary
+- Mobile app symptom log
+E: ANB is a radiographic measure.
+
+@7.2
+Q: Documenting emerging problems such as discomfort or incomplete resolution allows:
++ Timely adjustment and support for adherence
+- Discharge
+- Legal avoidance of consent
+- Ignoring side effects
+E: Responsive care.
+
+@7.2
+Q: CPAP usage logs may be integrated into the record when:
++ Patients use CPAP alongside or alternating with OAT
+- The patient has primary snoring only
+- The patient has never used CPAP
+- The dentist wants to diagnose OSA
+E: Combination therapy records.
+
+@7.2
+Q: Why is "objective-seeming" data from the bed partner described this way?
++ It is observational and complements self-report but is not a validated physiological measure
+- It is identical to PSG
+- It replaces PSG
+- It is always inaccurate
+E: Complementary nature.
+
+@7.2
+Q: Tracking the evolution of the complaint helps detect:
++ Disease progression, adherence issues and appliance problems
+- Only appliance colour change
+- Nothing useful
+- Only billing errors
+E: Comprehensive surveillance.
+
+@7.3
+Q: Treatment modification in long-term OAT is necessary because:
++ OSA progresses, dental changes reduce effective advancement and side effects may increase
+- OSA always resolves
+- Appliances become more effective with age
+- Patients no longer need treatment
+E: Three drivers.
+
+@7.3
+Q: Why must an appliance sometimes be advanced over time even if OSA has not progressed?
++ Forward drift of the lower teeth relative to the upper reduces the effective advancement
+- The appliance shrinks
+- The mandible grows in adults
+- The patient's tongue shrinks
+E: Occlusal change erodes treatment effect.
+
+@7.3
+Q: The uncomfortable feature of compensating for occlusal drift is that:
++ Further protrusion to compensate may accelerate the side effect
+- It cures OSA
+- It reduces side effects
+- It is unnecessary
+E: A self-reinforcing cycle.
+
+@7.3
+Q: The optimal protrusive position is:
++ Unique to each patient and determined by careful repeated titration
+- Always 50%
+- Always 75%
+- Always 100%
+E: Individualised.
+
+@7.3
+Q: With significant OSA progression, OAT modification options include:
++ Greater advancement or a change of appliance type
+- Reducing protrusion to zero
+- Removing occlusal coverage
+- Increasing vertical opening only
+E: Re-adjust or switch design.
+
+@7.3
+Q: Increasing protrusion over time tends to increase:
++ Jaw stiffness, tooth discomfort and dry mouth
+- Comfort
+- Overjet
+- Overbite
+E: Side effect balance.
+
+@7.3
+Q: Concomitant conditions that should be optimised alongside OAT include:
++ Heart failure, asthma, chronic lung disease and nasal obstruction
+- Dental fluorosis
+- Myopia
+- Hair loss
+E: Comorbidity management.
+
+@7.3
+Q: Which novel salvage therapy is noted for PAP-intolerant patients with progressive OSA?
++ Hypoglossal nerve stimulation
+- Palatal implants
+- Soft palate lifters
+- Boil-and-bite devices
+E: Salvage option.
+
+@7.3
+Q: Maxillary or palatal expansion in adults may be considered to:
++ Increase volume and reduce collapsibility
+- Reduce nasal airflow
+- Increase AHI
+- Replace diagnosis
+E: Novel modification.
+
+@7.3
+Q: Which statement about the reversibility of OSA-related changes is correct?
++ Treating SDB can reduce inflammatory oedema and increase pharyngeal size
+- Changes are always irreversible
+- Treatment worsens oedema
+- Pharyngeal size is fixed
+E: Some processes are reversible.
+
+@7.3
+Q: For PAP users with progressive OSA, modification involves:
++ Regular fine-tuning of pressure settings
+- Fixed pressure for life
+- Discontinuation
+- Switching to hypnotics
+E: Other modalities.
+
+@7.3
+Q: Recognising progression requires:
++ An integrated, dynamic, personalised plan, often combining therapies
+- A single static treatment
+- No monitoring
+- Only surgery
+E: Personalised management.
+
+@7.3
+Q: Lifestyle measures for progressive OSA include:
++ Weight management, sleep position training and avoidance of alcohol and opioids
+- Increased alcohol
+- Sedative use
+- Daytime napping only
+E: Lifestyle modification.
+
+@7.3
+Q: Each follow-up during long-term OAT should assess:
++ Short- and long-term side effects, with modification to relieve discomfort
+- Only appliance cost
+- Only the patient's weight
+- Nothing
+E: Modification step 4.
+
+@7.3
+Q: Construction, fitting and adjustment of appliances during long-term care should be performed by:
++ A dentist with expertise in dental sleep medicine
+- Any untrained staff
+- The patient alone
+- The physician
+E: Expertise matters.
+
+@7.3
+Q: Prolonged appliance use produces dentoskeletal changes including:
++ Reduced overbite and overjet and altered incisor position
+- Increased overbite
+- Mandibular growth
+- Increased overjet
+E: Long-term dental change.
+
+@7.3
+Q: Nasal valve collapse and allergic rhinitis in a long-term OAT patient should be:
++ Treated with steroids or surgery as appropriate
+- Ignored
+- Treated by increasing vertical dimension
+- Treated with a stabilisation splint
+E: Optimise nasal airway.
+
+@7.3
+Q: In long-term follow-up, who should be involved in monitoring apnoea progress?
++ Both the dentist and sleep specialist
+- The dentist only
+- The laboratory
+- The insurer
+E: Joint monitoring.
+
+@7.3
+Q: The balance at the heart of long-term titration is between:
++ Therapeutic effect and side effects
+- Cost and colour
+- Speed and convenience
+- Laboratory and clinician
+E: Key consideration.
+
+@7.3
+Q: Myofunctional therapy in progressive OSA may be used as:
++ An adjunct to improve upper airway muscle function
+- A replacement for diagnosis
+- A cure for severe OSA alone
+- A contraindicated therapy
+E: Adjunctive option.
+
+@7.3
+Q: Home and laboratory PSG over time serve to:
++ Diagnose, grade and evaluate treatment effectiveness
+- Fabricate appliances
+- Replace dental review
+- Measure overjet
+E: Monitoring role.
+
+@7.4
+Q: The key takeaway of the yearly review is:
++ Thorough evaluation of appliance condition and fit combined with reinforcement of cleaning, handling and storage
+- Collecting fees only
+- Replacing the appliance every year
+- Repeating PSG yearly in all patients
+E: Annual review focus.
+
+@7.4
+Q: At the yearly review, appliance surface integrity is checked for:
++ Cracks, crazing and rough spots
+- Brand logos
+- Colour match to teeth
+- Laboratory stamp
+E: Surface integrity.
+
+@7.4
+Q: Why are even small cracks in an appliance significant?
++ They can harbour bacteria and compromise effectiveness
+- They improve retention
+- They are cosmetic only
+- They increase protrusion
+E: Patient education point.
+
+@7.4
+Q: Hardware such as screws and hinges should be checked for:
++ Corrosion and smooth movement without binding
+- Shine
+- Brand
+- Colour
+E: Mechanical function.
+
+@7.4
+Q: Fit and stability assessment at the yearly review includes:
++ Seating without rocking, retention on gentle traction and occlusal contacts without interference
+- Only appearance
+- Only patient satisfaction
+- Only appliance weight
+E: Fit assessment.
+
+@7.4
+Q: If a patient notices looseness of their appliance between annual reviews, they should:
++ Schedule an interim visit rather than waiting
+- Wait until next year
+- Use denture adhesive permanently
+- Stop wearing it without telling anyone
+E: Communicate proactively.
+
+@7.4
+Q: Material wear such as discolouration, thinning or deformation suggests:
++ The appliance may need repair or replacement
+- The appliance is improving
+- No action is needed
+- Increased efficacy
+E: Material wear check.
+
+@7.4
+Q: Bacterial and fungal growth on an appliance should be:
++ Assessed, with cleaning reinforced and replacement considered as needed
+- Ignored
+- Treated by boiling
+- Treated with toothpaste
+E: Hygiene review.
+
+@7.4
+Q: At the yearly review, which care instructions are reinforced?
++ Rinse after removal, soft brush with non-abrasive cleanser, weekly soak, dry storage in a ventilated case
+- Boil weekly and brush with toothpaste
+- Store wrapped in tissue
+- Leave in sunlight to dry
+E: Daily care.
+
+@7.4
+Q: If a patient terminates therapy, the dentist should:
++ Notify the medical provider
+- Do nothing
+- Inform only the laboratory
+- Destroy the records
+E: Shared care obligation.
+
+@7.4
+Q: Side effects detected at the yearly review should be:
++ Documented with presence, management and resolution, and communicated to the medical provider and general dentist
+- Ignored if mild
+- Recorded only verbally
+- Shared with the insurer only
+E: Documentation.
+
+@7.4
+Q: Before fabricating a replacement appliance for a patient previously treated by another dentist, the dentist should:
++ Perform a comprehensive DSM evaluation
+- Simply copy the old appliance
+- Avoid communication with the physician
+- Skip the examination
+E: Required for new patients.
+
+@7.4
+Q: If a patient was previously treated effectively, a replacement appliance can be:
++ Set to the same protrusion, though it may still need calibration
+- Set at maximum protrusion
+- Set at 0% protrusion
+- Made without impressions
+E: Replacement guidance.
+
+@7.4
+Q: Regarding a replacement appliance, the medical provider should:
++ Be notified, allowed to reassess, and decide whether efficacy verification is needed
+- Not be told
+- Fabricate the appliance
+- Approve the colour
+E: Communication before replacement.
+
+@7.4
+Q: Verifying that previously resolved symptoms remain resolved at the yearly review confirms:
++ Continuing efficacy
+- Appliance colour
+- Billing accuracy
+- Diagnosis
+E: Efficacy check.
+
+@7.4
+Q: At the end of the yearly review the dentist should:
++ Schedule the next annual review and make clear earlier review is available
+- Discharge permanently
+- Book a review in 10 years
+- Advise no further contact
+E: Scheduling.
+
+@7.4
+Q: The yearly review should screen for:
++ TMJ, intraoral tissue and occlusal side effects, and damage to teeth or restorations
+- Only appliance colour
+- Only patient payment
+- Only snoring
+E: Comprehensive screening.
+
+@7.4
+Q: Advising patients to avoid hot water and direct sunlight for their appliance prevents:
++ Warping and material deterioration
+- Bacterial growth only
+- Staining only
+- Increased retention
+E: Handling advice.
+
+@7.4
+Q: Offering to demonstrate cleaning at the yearly review helps:
++ Confirm the patient's understanding of care
+- Increase fees
+- Replace written instructions
+- Avoid documentation
+E: Patient education.
+
+@7.4
+Q: An appliance that rocks on seating indicates:
++ Loss of accurate fit requiring adjustment, reline or replacement
+- Ideal fit
+- Increased efficacy
+- Normal function
+E: Seating accuracy.
+
+@7.4
+Q: Appliance retention is verified at review by:
++ Gently tugging to confirm it resists displacement
+- Asking the patient to chew gum
+- Weighing it
+- Looking at it only
+E: Retention test.
+
+@7.4
+Q: Who determines whether efficacy of a new replacement appliance needs verification?
++ The medical provider
+- The dental laboratory
+- The receptionist
+- The insurer
+E: Physician decision.

@@ -1,0 +1,655 @@
+@5.6
+Q: The principal therapeutic variable in the construction bite is:
++ The horizontal (protrusive) component
+- The lateral component
+- The colour of registration material
+- The thickness of the plate
+E: Protrusion is the main therapeutic lever.
+
+@5.6
+Q: The usual initial protrusive setting is:
++ 50–70% of maximum protrusion
+- 10–20%
+- 90–100%
+- Exactly 100%
+E: AADSM 2025: 25–75% is within comfort and therapeutic range.
+
+@5.6
+Q: According to AADSM 2025, the acceptable initial protrusion range is:
++ 25–75% of maximum protrusion
+- 0–10%
+- 80–100%
+- Exactly 50%
+E: Within both comfort and therapeutic range.
+
+@5.6
+Q: The practical rule for initial protrusion is:
++ Start at about 50% and do not exceed 75% initially
+- Start at 100%
+- Start at 0% and never advance
+- Start at 90%
+E: Leave leeway for titration.
+
+@5.6
+Q: Why is the appliance not set at maximum protrusion initially?
++ It causes TMJ and muscle discomfort and does not guarantee improved efficacy
+- It reduces airway size
+- It is impossible to measure
+- It always cures OSA immediately
+E: Overprotrusion may even worsen SDB.
+
+@5.6
+Q: The typical vertical opening at the construction bite is approximately:
++ 2 mm interincisal
+- 0 mm
+- 8 mm
+- 15 mm
+E: The grey 2 mm George Gauge fork.
+
+@5.6
+Q: The George Gauge fork usually recommended is:
++ The 2 mm grey fork
+- The 5 mm white fork
+- The 10 mm fork
+- No fork
+E: The 5 mm white fork usually gives too much opening.
+
+@5.6
+Q: Excessive vertical opening (e.g. the 5 mm fork) tends to:
++ Promote mouth breathing and inhibit lip seal
+- Improve efficacy
+- Reduce TMJ discomfort
+- Reduce salivation
+E: Also increases collapsibility.
+
+@5.6
+Q: A patient's George Gauge readings are −3 mm (retruded) and +7 mm (protruded). The total protrusive range is:
++ 10 mm
+- 4 mm
+- 7 mm
+- 21 mm
+E: Add absolute values: 3 + 7 = 10 mm.
+
+@5.6
+Q: With a range of 10 mm from −3 to +7, registering at 60% of range means registering at:
++ +3 mm on the gauge
+- +6 mm on the gauge
+- 0 mm on the gauge
+- +7 mm on the gauge
+E: 60% of 10 = 6 mm from −3 → +3.
+
+@5.6
+Q: A patient's George Gauge readings are −4 and +5. The range is:
++ 9 mm
+- 1 mm
+- 5 mm
+- 20 mm
+E: 4 + 5 = 9 mm.
+
+@5.6
+Q: A patient has a range of 12 mm, retruded reading −2. Registering at 50% of range corresponds to a gauge reading of:
++ +4 mm
+- +6 mm
+- +2 mm
+- +10 mm
+E: 50% of 12 = 6 mm from −2 → +4.
+
+@5.6
+Q: The lateral (midline) component of the bite registration must be:
++ Reproducible at both centric and protrusion
+- Identical to the facial midline in all cases
+- Ignored
+- Maximally deviated
+E: Need not be identical, but reproducible.
+
+@5.6
+Q: When using the George Gauge, bite registration material should NOT be injected into:
++ The lower incisor clamp area
+- The posterior teeth area
+- The palatal area
+- The buccal corridor
+E: Avoid material in the incisal clamp.
+
+@5.6
+Q: After registration, posterior vertical clearance should be checked especially in:
++ Deep bite cases
+- Open bite cases
+- Edentulous cases
+- Class III cases only
+E: Ask the lab not to cover the sevens if needed.
+
+@5.6
+Q: Why might a centric occlusion record be taken at the bite registration appointment?
++ For fabrication of a morning occlusal guide
+- For CPAP mask fitting
+- For PSG scoring
+- For billing
+E: Morning aligner fabrication.
+
+@5.6
+Q: The neuromuscular (TENS) bite registration technique aims to:
++ Relax muscles to allow a physiological mandibular position before recording
+- Measure AHI
+- Maximise protrusion
+- Stimulate the hypoglossal nerve
+E: Reduces nociceptive input.
+
+@5.6
+Q: The phonetic bite registration technique uses:
++ Phonation of particular sounds to find a position that keeps the airway open
+- Radiographs
+- Electrical stimulation
+- Wax at maximum protrusion
+E: Speech-based positioning.
+
+@5.6
+Q: Under AADSM 2025 standards, which steps must be completed in person rather than via telehealth?
++ Impressions and the construction bite record
+- Screening questionnaires
+- All follow-ups
+- Appointment scheduling
+E: Also the comprehensive examination.
+
+@5.6
+Q: The proposed universal "70% of maximal advancement" threshold has been challenged because:
++ Dose–response curves differ by phenotype: non-responders improve early (0–50%), responders near maximum
+- 70% always cures OSA
+- 70% cannot be measured
+- It applies only to children
+E: Individual variation.
+
+@5.6
+Q: The degree of subsequent bite change is influenced by:
++ Appliance design, initial bite type, treatment duration and protrusion
+- Appliance colour
+- Patient's handedness
+- Impression tray size
+E: Multiple factors.
+
+@5.6
+Q: The classical construction bite practice described is registration at:
++ 60% of maximum protrusion with 2 mm vertical incisal separation
+- 100% protrusion with 10 mm separation
+- 0% protrusion with 0 mm separation
+- 30% protrusion with 8 mm separation
+E: Classical convention.
+
+@5.6
+Q: Construction bite devices such as the George Gauge offer:
++ Precise control and numeric documentation of advancement and vertical opening
+- No measurement capability
+- Automatic AHI measurement
+- Impression-free fabrication
+E: Mechanical measurement devices.
+
+@5.6
+Q: A typical increase of vertical dimension at the construction bite is described as:
++ Moderate, about 1–3 mm
+- 10–15 mm
+- None
+- 20 mm
+E: Minimal opening preferred.
+
+@5.7
+Q: Which impression material offers excellent accuracy, dimensional stability and elastic recovery from undercuts?
++ Addition silicone (PVS)
+- Alginate
+- Impression compound
+- Zinc oxide eugenol
+E: PVS is ideal for appliance fabrication.
+
+@5.7
+Q: Polyether impression material is especially useful in moist conditions because it is:
++ Hydrophilic
+- Hydrophobic
+- Rigid
+- Thermoplastic
+E: Good tear strength and accuracy.
+
+@5.7
+Q: Alginate is best suited for:
++ Diagnostic models and study casts, poured promptly
+- Final precision impressions stored for a week
+- Implant impressions
+- Long-term storage before pouring
+E: Poor dimensional stability.
+
+@5.7
+Q: Condensation silicone compared with addition silicone is:
++ Less dimensionally stable
+- More dimensionally stable
+- Identical
+- Not elastic
+E: Condensation by-products cause shrinkage.
+
+@5.7
+Q: For appliance fabrication, the impression should record the dentition plus approximately:
++ 3 mm of gingiva
+- 0 mm of gingiva
+- The full palate only
+- 15 mm of gingiva
+E: Captures adequate tissue for retention.
+
+@5.7
+Q: Some impression materials can reproduce detail to approximately:
++ 20–25 µm
+- 1 mm
+- 0.5 mm
+- 200 µm
+E: Detail reproduction requirement.
+
+@5.7
+Q: Which property allows an impression to be removed from undercuts without distortion?
++ Elasticity and tear strength
+- Rigidity
+- Hydrophobicity
+- Exothermic setting
+E: Requirements of impression materials.
+
+@5.7
+Q: Which factor is said to matter as much as the impression material itself?
++ Operator technique
+- Brand name
+- Tray colour
+- Room temperature only
+E: Technique is crucial.
+
+@5.7
+Q: A rigid tray is required for accurate impressions because:
++ Tray flexure causes distortion
+- It improves taste
+- It reduces cost
+- It increases working time
+E: Requirements include a rigid tray.
+
+@5.7
+Q: Polysulfide impression material is:
++ An older elastic material used where detail is critical
+- A hydrocolloid for study models
+- A thermoplastic
+- An inelastic material
+E: Material types.
+
+@5.7
+Q: When using a digital scan for appliance fabrication, the clinician should:
++ Verify the midline before and after scanning
+- Avoid recording the bite
+- Scan only one arch
+- Disregard occlusion
+E: Midline check.
+
+@5.7
+Q: The impression requirement of "dimensional stability" refers to:
++ Maintaining accuracy from removal until pouring
+- Resistance to staining
+- Ease of mixing
+- Taste acceptability
+E: Key property.
+
+@5.7
+Q: Advantages of digital scanning over conventional impressions include:
++ Greater accuracy and avoidance of material handling and storage issues
+- Lower accuracy
+- Need for alginate pouring
+- Inability to record occlusion
+E: Digital workflow.
+
+@5.7
+Q: Wettability of an impression material on moist tissues relates to:
++ Hydrophilicity
+- Rigidity
+- Setting temperature
+- Colour
+E: Polyether is inherently hydrophilic.
+
+@5.7
+Q: Ideal handling characteristics of impression materials include:
++ Suitable working time but short setting time, with appropriate viscosity and thixotropy
+- Long setting time and short working time
+- Very low viscosity only
+- Inelasticity
+E: Handling requirements.
+
+@5.7
+Q: Moisture control during impression taking matters because:
++ Moisture can compromise detail reproduction, especially with hydrophobic materials
+- It speeds setting
+- It improves taste
+- It is irrelevant
+E: Requirement list.
+
+@5.8
+Q: Which three elements of a laboratory request are the essential core?
++ Protrusion setting, vertical dimension and retention
+- Patient address, colour and fee
+- Shade, margin and contact points
+- Impression brand, tray size and box colour
+E: These determine function and comfort.
+
+@5.8
+Q: A laboratory request should specify the mandibular protrusion setting as:
++ A percentage of range or absolute advancement, plus the George Gauge reading used
+- The patient's AHI only
+- The ESS score
+- Not specified
+E: Precise documentation.
+
+@5.8
+Q: Where vertical clearance at the second molars is inadequate, the laboratory request should state:
++ "Do not cover the upper and lower second molars"
+- "Increase vertical by 10 mm"
+- "Cover all teeth with extra thick acrylic"
+- Nothing
+E: Occlusal considerations.
+
+@5.8
+Q: Typical time from impression to appliance delivery is:
++ 2–3 weeks
+- 1 day
+- 6 months
+- 1 year
+E: Standard turnaround.
+
+@5.8
+Q: Which item is NOT typically included in a laboratory request for an oral appliance?
++ The patient's PSG raw data file
+- Prescribing clinician details
+- Material specification
+- Vertical dimension/opening in mm
+E: The lab needs fabrication specifications, not diagnostic raw data.
+
+@5.8
+Q: Attachments sent with a laboratory request typically include:
++ Models or scans, bite registrations and photographs
+- The patient's blood tests
+- The CPAP machine
+- The consent form only
+E: Fabrication materials.
+
+@5.8
+Q: In the worked example specification, acrylic plates were described as having a thickness of:
++ 1.5–2 mm
+- 0.2 mm
+- 5–6 mm
+- 10 mm
+E: Full occlusal coverage clear acrylic.
+
+@5.8
+Q: In the worked example, the purpose of acrylic flanges fitting into slots on the lower plate was to:
++ Prevent posterior movement of the mandible while permitting free mouth opening
+- Lock the jaws completely
+- Increase vertical dimension
+- Retain the tongue
+E: Interlocking design.
+
+@5.8
+Q: Retention features specified on a laboratory request determine:
++ Whether the appliance stays stable and retains the prescribed setting
+- The patient's AHI
+- The CPAP pressure
+- The ESS score
+E: Essential core element.
+
+@5.8
+Q: Delivery instructions on a laboratory request may include:
++ Polishing, finishing and adjustment requirements
+- Sleep study scheduling
+- Medication dosing
+- CPAP mask size
+E: Fabrication finishing.
+
+@5.8
+Q: The laboratory request must be completed with:
++ Clinician signature and date
+- Patient's insurer stamp only
+- Physician signature only
+- No signature
+E: Formal prescription.
+
+@5.9
+Q: Before seating a new appliance, the dentist should:
++ Verify the prescription, inspect for defects and confirm mechanisms operate smoothly
+- Immediately advance to maximum
+- Skip disinfection
+- Send the patient home without trying it
+E: Pre-delivery checks.
+
+@5.9
+Q: When seating an appliance, it is recommended to engage:
++ The posterior bulge or clasps before anterior structures
+- Anterior structures first with force
+- Only one arch
+- The palate first
+E: Gentle seating.
+
+@5.9
+Q: Retention at delivery is tested by asking the patient to:
++ Swallow, speak ("pa–ta–ka"), open wide, and by gentle bilateral traction
+- Bite as hard as possible
+- Remove it with a tool
+- Sleep for an hour
+E: Device should resist displacement without discomfort.
+
+@5.9
+Q: If retention is insufficient at delivery, the dentist should:
++ Evaluate undercut engagement and adjust acrylic only in stress-bearing areas
+- Add denture adhesive
+- Remake immediately without evaluation
+- Ignore it
+E: Targeted adjustment.
+
+@5.9
+Q: The vertical dimension at delivery can be measured with:
++ A Willis gauge or from fixed landmarks (nose tip to chin)
+- A periodontal probe only
+- A sphygmomanometer
+- A pulse oximeter
+E: Compare with and without appliance.
+
+@5.9
+Q: The interincisal increase over habitual closing at delivery is typically:
++ 2–4 mm
+- 0 mm
+- 10–12 mm
+- 20 mm
+E: Should be tolerated without strain.
+
+@5.9
+Q: Protrusion at delivery is verified by:
++ The built-in millimetre scale or a protrusion gauge against the prescription
+- Patient estimate
+- Radiograph
+- Snoring recording
+E: Confirm match with prescription.
+
+@5.9
+Q: At delivery, when the patient closes in the protruded position, the dentist checks for:
++ Even bilateral posterior contacts without slide back to retrusion
+- Unilateral contact only
+- Anterior contact only
+- No contacts at all
+E: Stability check.
+
+@5.9
+Q: Mucosal blanching seen at delivery indicates:
++ A pressure point requiring adjustment
+- Ideal fit
+- Allergy
+- Infection
+E: Comfort and soft tissue checks.
+
+@5.9
+Q: High spots on an appliance at delivery are removed with:
++ A round bur, then the appliance is polished
+- A diamond disc on teeth
+- Heat
+- Sandpaper on the occlusal teeth
+E: Final adjustments.
+
+@5.9
+Q: Insertion and removal of the appliance should be demonstrated:
++ Over a soft surface
+- Over a hard floor
+- Without supervision
+- Only by the dental assistant to themselves
+E: Avoid breakage.
+
+@5.9
+Q: The first review after delivery should be within:
++ 2–4 weeks (AADSM: within 30 days)
+- 1 year
+- 6 months
+- 5 years
+E: Early review.
+
+@5.9
+Q: The delivery documentation should be:
++ Signed and dated by patient and team member, with one copy to the patient and one retained
+- Verbal only
+- Kept only by the patient
+- Sent only to the laboratory
+E: Written instructions, delivery form and warranty.
+
+@5.9
+Q: A water-based lubricant may be applied before initial seating to:
++ Ease insertion and reduce friction
+- Increase retention permanently
+- Disinfect the appliance
+- Adjust the protrusion
+E: Pre-delivery preparation.
+
+@5.9
+Q: Which question is asked at delivery to assess comfort?
++ Whether there are pressure points, gag triggers or tongue displacement
+- The patient's insurance number
+- The CPAP pressure
+- The PSG date
+E: Comfort assessment.
+
+@5.9
+Q: Premature occlusal interferences at delivery should be:
++ Identified and eliminated
+- Ignored
+- Increased
+- Recorded only
+E: Confirm no interferences.
+
+@5.9
+Q: Measures to minimise dental change and jaw discomfort discussed at delivery include:
++ Morning exercises and a morning repositioning device
+- Maximum protrusion
+- Removing all occlusal coverage
+- Wearing the appliance during the day
+E: Preventive measures.
+
+@5.9
+Q: At delivery, with the jaw relaxed and the appliance seated, the patient should feel:
++ No strain, pulling or muscle fatigue
+- Strong pulling at the TMJ
+- Severe tooth pain
+- Inability to swallow
+E: Comfort check for vertical dimension.
+
+@5.9
+Q: Emergency contact details provided at delivery are intended for:
++ Discomfort, pain or appliance problems between visits
+- Booking CPAP
+- Physician diagnosis
+- Laboratory billing
+E: Patient support.
+
+@5.10
+Q: Patients should be instructed to wear the appliance:
++ Every night for the whole duration of sleep
+- Only on weekends
+- Only when snoring is reported
+- During the day only
+E: Consistent use is essential.
+
+@5.10
+Q: Which cleaning instruction is correct for an oral appliance?
++ Use a soft brush with mild soap or denture cleaner in cool or warm water
+- Use toothpaste and hot water
+- Boil it weekly
+- Use bleach daily
+E: Toothpaste scratches; hot water warps.
+
+@5.10
+Q: Why should toothpaste be avoided when cleaning an appliance?
++ It is abrasive, causing scratches that harbour bacteria and cause odour
+- It increases retention too much
+- It changes the protrusion
+- It is too expensive
+E: Use non-abrasive cleanser.
+
+@5.10
+Q: Hot water should be avoided when cleaning an appliance because it:
++ Can warp the device
+- Increases bacterial growth
+- Changes the colour only
+- Increases retention
+E: Use cool or warm water.
+
+@5.10
+Q: Appliances should be stored:
++ Dry in a ventilated case, away from heat, sunlight, pets and children
+- Wrapped in tissue
+- Loose in a pocket
+- In hot water
+E: Proper storage.
+
+@5.10
+Q: How often should an appliance be disinfected in a denture-safe soak?
++ Weekly
+- Never
+- Hourly
+- Once a year
+E: Daily cleaning plus weekly disinfection.
+
+@5.10
+Q: Patients should rinse the appliance:
++ Immediately after removal
+- Only once a week
+- Never
+- Only before insertion after a month
+E: Prevents debris build-up.
+
+@5.10
+Q: The morning routine after removing the appliance should include:
++ Gentle jaw exercises and wearing the morning occlusal guide if provided
+- Immediate chewing of hard foods
+- Re-inserting the appliance for the day
+- Nothing
+E: Reposition the mandible.
+
+@5.10
+Q: Patients should contact the practice immediately if they notice:
++ Jaw pain, altered bite or worsening snoring
+- Mild salivation on night one
+- The appliance is clean
+- Improved sleep
+E: Early intervention.
+
+@5.10
+Q: Why should patients avoid food or drink other than water for 2 hours before bed?
++ To reduce reflux risk
+- To improve retention
+- To prevent appliance staining only
+- To increase protrusion
+E: GORD advice.
+
+@5.10
+Q: Before placing the appliance in its case, it should be:
++ Air dried
+- Soaked in hot water
+- Wrapped in tissue
+- Brushed with toothpaste
+E: Storage advice.
+
+@5.10
+Q: Regular brushing and flossing while using an appliance is important because:
++ The appliance can trap plaque against teeth, increasing caries and gingival risk
+- It improves AHI
+- It changes protrusion
+- It is unrelated
+E: Oral health maintenance.

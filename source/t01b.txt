@@ -1,0 +1,879 @@
+@1.7
+Q: Which cardiovascular condition is particularly associated with OSA and often difficult to control until OSA is treated?
++ Treatment-resistant hypertension
+- Hypotension
+- Mitral stenosis
+- Pericarditis
+E: OSA is a recognised cause of resistant hypertension; CPAP may improve BP control.
+
+@1.7
+Q: Which arrhythmia is notably linked with untreated OSA and may be harder to control?
++ Atrial fibrillation
+- First-degree heart block in athletes
+- Wolff–Parkinson–White syndrome
+- Sinus arrhythmia in children
+E: OSA is associated with atrial fibrillation (and ventricular tachycardia) that may be difficult to control.
+
+@1.7
+Q: Experimental sleep restriction and disruption of slow-wave and REM sleep has been shown to:
++ Lower pain thresholds and reduce the analgesic potency of morphine
+- Increase pain thresholds
+- Have no effect on pain perception
+- Increase morphine potency
+E: Sleep loss produces hyperalgesia and reduces antinociceptive potency of morphine.
+
+@1.7
+Q: In the OPPERA cohort, adults with ≥2 OSA signs/symptoms had what increase in incidence of first-onset TMD?
++ 73%
+- 13%
+- 30%
+- 300%
+E: ≥2 OSA signs/symptoms conferred a 73% greater incidence, independent of confounders, with OSA symptoms preceding TMD.
+
+@1.7
+Q: In the OPPERA case-control analysis, chronic TMD was how much more frequent in adults with a high versus low likelihood of OSA?
++ More than three times
+- Equal frequency
+- About 10% more
+- Half as frequent
+E: Chronic TMD was >3× more frequent in those with high likelihood of OSA.
+
+@1.7
+Q: Which is a proposed mechanism linking OSA with TMD?
++ Central sensitisation with impaired pain inhibition via reduced baroreflex sensitivity
+- Mandibular growth stimulation
+- Increased condylar bone density
+- Reduced sympathetic activity
+E: Proposed mechanisms: central sensitisation (baroreflex), sympathetic activation and sleep bruxism.
+
+@1.7
+Q: The most appropriate way to describe the OSA–TMD relationship to a patient is:
++ A robust association with plausible mechanisms, not an established causal relationship
+- OSA definitely causes TMD
+- TMD definitely causes OSA
+- There is no association
+E: Association ≠ causation is one of the three exam-wide themes; overclaiming loses marks.
+
+@1.7
+Q: Heavy snoring is thought to have an independent adverse effect on which structure?
++ The carotid arteries
+- The coronary sinus
+- The renal arteries
+- The aortic valve
+E: Vibration near the carotid bifurcation may cause endothelial injury and increased intima-media thickness.
+
+@1.7
+Q: Which metabolic consequence is linked with untreated OSA?
++ Type 2 diabetes and glucose intolerance
+- Hypoglycaemia
+- Lower triglycerides
+- Weight loss
+E: Intermittent hypoxia and fragmentation promote insulin resistance, dyslipidaemia and T2DM.
+
+@1.7
+Q: Which neurological outcome is associated with OSA?
++ Dementia and neurocognitive decline
+- Improved executive function
+- Reduced stroke risk
+- Protection from Parkinson's disease
+E: OSA is linked to neurocognitive decline, dementia and stroke.
+
+@1.7
+Q: The impact of OSA on an individual's quality of life includes:
++ Reduced quality of life, relationship difficulties from snoring and impaired alertness
+- Improved mood
+- Increased libido
+- Better concentration
+E: Individual impacts span alertness, mood, relationships and quality of life.
+
+@1.7
+Q: Which pathophysiological process most directly links OSA to cardiovascular disease?
++ Repeated intermittent hypoxia and sympathetic activation
+- Chronic hypercapnia only
+- Reduced blood viscosity
+- Increased parasympathetic tone
+E: Intermittent hypoxia and recurrent sympathetic surges drive hypertension, arrhythmia and vascular injury.
+
+@1.7
+Q: Untreated severe OSA is associated with which mortality outcome?
++ Increased mortality and premature death
+- Reduced all-cause mortality
+- No change in mortality
+- Mortality reduction only in women
+E: Untreated OSA increases mortality and premature death.
+
+@1.7
+Q: Which pain-related effect of CPAP has been reported?
++ Decreased pain sensitivity and increased pain tolerance
+- Increased pain sensitivity
+- Development of new TMD in most users
+- No effect on pain
+E: CPAP has been associated with reduced pain sensitivity and increased pain tolerance.
+
+@1.7
+Q: In the context of dental sleep medicine, the prevalence of TMD in OSA patients is reported as:
++ 2–52%
+- 0%
+- 90–100%
+- Exactly 28%
+E: TMD in OSA is reported at 2–52%; OSA in TMD ~28%.
+
+@1.7
+Q: Which practical conclusion follows from the OSA–TMD evidence?
++ Screen for TMD before starting appliance therapy
+- Never treat OSA patients with an appliance
+- Ignore TMD symptoms during OAT
+- Treat all TMD patients with CPAP
+E: The prevalence of TMD in OSA justifies baseline TMD screening before OAT.
+
+@1.7
+Q: Sleep bruxism is proposed as a mechanism linking OSA and TMD because:
++ It is more common in OSA and may contribute to masticatory muscle and joint overload
+- It reduces the incidence of TMD
+- It eliminates apnoeas
+- It is caused by mandibular advancement
+E: SB, commoner in OSA, is the third proposed mechanism for the OSA–TMD association.
+
+@1.8
+Q: Which societal consequence of OSA is of greatest public safety concern?
++ Increased risk of serious and fatal motor vehicle crashes
+- Increased library usage
+- Reduced healthcare spending
+- Improved workplace productivity
+E: Impaired reflexes and judgement increase crash and workplace accident risk.
+
+@1.8
+Q: The economic impact of OSA includes:
++ Reduced productivity, lost work hours, more sick leave and greater healthcare use
+- Lower healthcare utilisation
+- Increased productivity
+- Reduced work disability
+E: OSA disproportionately affects the middle-aged workforce with lost productivity and greater health resource use.
+
+@1.8
+Q: Which population is disproportionately affected economically by OSA?
++ The middle-aged workforce
+- Infants
+- Retirees only
+- Adolescents only
+E: Economic burden falls disproportionately on middle-aged workers.
+
+@1.8
+Q: OSA is described as a public health issue because:
++ It affects society through safety, economic and healthcare burdens, not just the individual
+- It is contagious
+- It only affects shift workers
+- It has no individual effects
+E: Beyond the individual, OSA affects public safety, productivity and healthcare costs.
+
+@1.8
+Q: Which social consequence of untreated sleep disorders is described?
++ Social withdrawal and reduced desire for interaction, contributing to loneliness
+- Increased social engagement
+- Improved relationships
+- Reduced depression
+E: Sleep disorders worsen depression and anxiety and contribute to withdrawal and loneliness.
+
+@1.8
+Q: A bus driver with suspected OSA reports falling asleep at traffic lights. The most appropriate dental response is:
++ Urgent referral to a physician with explicit advice about driving
+- Fit an appliance immediately and advise he may continue driving
+- Wait until the next routine recall
+- Advise caffeine only
+E: Sleepiness while driving in a commercial driver warrants urgent assessment and explicit driving advice.
+
+@1.8
+Q: Workplace safety concerns from OSA are greatest in:
++ Safety-critical occupations such as transport and heavy machinery operation
+- Desk-based jobs only
+- Remote workers only
+- Occupations with no machinery
+E: Sleepiness-related errors are most dangerous in safety-critical roles.
+
+@1.8
+Q: Which statement about OSA and healthcare costs is correct?
++ Untreated OSA increases healthcare resource use
+- Untreated OSA reduces costs
+- Treatment always increases total costs
+- OSA has no effect on health spending
+E: Greater healthcare utilisation is a recognised societal burden.
+
+@1.8
+Q: Why is objective appliance compliance documentation particularly important for commercial transport workers?
++ It may be required as legal proof of treatment for fitness-to-work purposes
+- It replaces the need for a diagnosis
+- It shows AHI directly
+- It is only for insurance marketing
+E: Compliance data support legal and insurance documentation in safety-sensitive occupations.
+
+@1.8
+Q: Which is a societal consequence of insufficient sleep in adolescents?
++ Increased crash rate, particularly in young males
+- Lower accident rates
+- Improved academic outcomes
+- Reduced risk-taking
+E: Adolescent sleep loss increases sleep-related crashes, especially in young males.
+
+@1.8
+Q: Snoring that disturbs the bed partner contributes to which societal or relational burden?
++ Bed-partner sleep deprivation, social disharmony and relationship difficulty
+- Improved partner sleep
+- No effect on partners
+- Increased partner alertness
+E: Snoring causes social disharmony and partner sleep deprivation, depression and fatigue.
+
+@1.8
+Q: Shift workers with untreated SDB are at particular risk of:
++ Increased sleepiness and accidents
+- Improved circadian alignment
+- Lower cardiovascular risk
+- Reduced sleepiness
+E: SDB compounds shift-work sleep disruption, increasing accident risk.
+
+@1.8
+Q: An employer asks whether OSA is relevant to occupational health. The best answer is:
++ Yes — untreated OSA increases errors, accidents, absenteeism and work disability
+- No — OSA only affects night-time
+- Only if the employee snores at work
+- Only in employees over 70
+E: OSA affects workplace safety, productivity and disability.
+
+@1.8
+Q: Which mental health effect of untreated sleep disorders has societal implications?
++ Worsening depression and anxiety
+- Reduced psychiatric illness
+- Elimination of anxiety
+- Improved resilience
+E: Sleep disorders worsen depression and anxiety, adding to societal burden.
+
+@1.9
+Q: Which feature distinguishes insomnia from short sleep duration?
++ Insomnia requires daytime impairment despite adequate opportunity for sleep
+- Insomnia requires less than 5 hours of sleep
+- Short sleepers always have daytime impairment
+- Insomnia occurs only with inadequate opportunity for sleep
+E: A person who sleeps 5 hours and functions well is a short sleeper, not an insomniac.
+
+@1.9
+Q: ICSD-3/ICSD-3-TR criteria for chronic insomnia disorder require symptoms at least:
++ 3 nights per week for at least 3 months
+- 1 night per week for 1 month
+- Every night for 2 weeks
+- 5 nights per week for 6 months
+E: ≥3 nights/week for ≥3 months; the older "one month" criterion was ICSD-2/DSM-IV.
+
+@1.9
+Q: The "at least one month" duration criterion for chronic insomnia comes from:
++ ICSD-2/DSM-IV, now superseded
+- ICSD-3-TR
+- DSM-5
+- AASM Scoring Manual v3
+E: Older material used one month; current criteria require three months.
+
+@1.9
+Q: Insomnia symptoms (without necessarily meeting disorder criteria) affect approximately:
++ 33–50% of adults
+- 1–2% of adults
+- 5–15% of adults
+- 75–90% of adults
+E: Symptoms 33–50%; with distress/impairment 10–15%; chronic disorder 5–15%.
+
+@1.9
+Q: Among patients with medical or psychiatric comorbidity, insomnia prevalence is approximately:
++ 50–75%
+- 5–10%
+- 15–20%
+- 95–100%
+E: Insomnia is highly prevalent (50–75%) in comorbid populations.
+
+@1.9
+Q: The dominant pathophysiological model of chronic insomnia is:
++ Hyperarousal across both sleep and wake
+- Reduced sympathetic activity
+- Structural brain lesion
+- Low cortisol
+E: Hyperarousal with heightened sympathetic and HPA-axis activity perpetuates insomnia.
+
+@1.9
+Q: Which finding is a recognised physiological correlate of insomnia?
++ Increased high-frequency (beta/gamma) EEG activity during NREM
+- Reduced whole-body metabolic rate
+- Lower body temperature
+- Decreased cortisol near sleep onset
+E: Correlates include increased beta/gamma EEG, metabolic rate, cortisol/ACTH and body temperature.
+
+@1.9
+Q: First-line treatment for chronic insomnia disorder is:
++ Cognitive behavioural therapy for insomnia (CBT-I)
+- Zolpidem
+- Melatonin
+- Quetiapine
+E: CBT-I is first line, without tolerance or adverse drug effects.
+
+@1.9
+Q: Which CBT-I components have the strongest evidence?
++ Stimulus control and sleep restriction
+- Sleep hygiene and relaxation
+- Cognitive therapy alone
+- Sleep hygiene alone
+E: Stimulus control and sleep restriction are the most evidence-supported of the five components.
+
+@1.9
+Q: Which CBT-I component is considered the weakest and insufficient as monotherapy?
++ Sleep hygiene
+- Stimulus control
+- Sleep restriction
+- Cognitive therapy
+E: Sleep hygiene alone is insufficient for chronic insomnia.
+
+@1.9
+Q: CBT-I typically produces marked improvements in all of the following EXCEPT:
++ A large immediate increase in total sleep time
+- Sleep onset latency
+- Wake after sleep onset
+- Sleep efficiency
+E: TST improves only modestly initially, augmenting over time; SOL, WASO and SE improve markedly.
+
+@1.9
+Q: Which is a recognised risk factor for insomnia?
++ Female sex and increasing age
+- Male sex and youth
+- High socioeconomic status
+- Full employment
+E: Risk factors include female sex, age, comorbidity, shift work, unemployment and low SES.
+
+@1.9
+Q: In children, insomnia (reported by caregivers) commonly presents as:
++ Bedtime resistance, frequent night awakenings and inability to sleep independently
+- Early morning awakening only
+- Cataplexy
+- Excessive daytime napping only
+E: Paediatric insomnia features bedtime resistance and difficulty sleeping independently.
+
+@1.9
+Q: Comorbid insomnia and sleep apnoea (COMISA) is best managed by:
++ Treating both conditions, e.g. CBT-I alongside OSA therapy
+- Treating the OSA only, as insomnia will resolve
+- Hypnotics alone
+- Ignoring the insomnia
+E: Insomnia is a comorbid disorder warranting separate treatment; reducing AHI alone will not resolve the complaint.
+
+@1.9
+Q: Why are second-generation antipsychotics such as quetiapine increasingly used for insomnia?
++ Dissatisfaction with other options rather than evidence of superiority
+- Proven superiority over CBT-I
+- They are first line in guidelines
+- They have no side effects
+E: Their increasing use reflects dissatisfaction, not evidence.
+
+@1.9
+Q: A characteristic PSG phenomenon in chronic insomnia is the "reverse first-night effect", meaning:
++ Better sleep on the first laboratory night than the second
+- Worse sleep on the first night than the second
+- REM appears only on the first night
+- Sleep is identical on both nights
+E: Insomniacs may sleep better in the novel lab environment on the first night.
+
+@1.9
+Q: PSG is NOT routinely indicated in chronic insomnia unless:
++ A breathing or movement disorder is suspected, diagnosis is uncertain or treatment has failed
+- The patient requests it
+- The patient is over 40
+- The patient has insomnia for more than 3 months
+E: PSG is reserved for suspected SDB/PLMD, diagnostic uncertainty, treatment failure or violent arousals.
+
+@1.9
+Q: Which is required for a diagnosis of insomnia?
++ At least one daytime impairment such as fatigue, mood disturbance or poor concentration
+- A sleep efficiency below 50%
+- PSG confirmation
+- Objective short sleep under 4 hours
+E: Both nocturnal symptoms and daytime dysfunction are required.
+
+@1.9
+Q: Short-term insomnia disorder refers to:
++ Clinically significant insomnia not meeting the frequency/duration criteria for chronic insomnia
+- Insomnia lasting longer than 3 months
+- Insomnia caused only by caffeine
+- Insomnia in short people
+E: Short-term insomnia disorder fails chronic frequency/duration thresholds but is clinically significant.
+
+@1.10
+Q: A central apnoea is defined by cessation of airflow for ≥10 s with:
++ Absent respiratory effort
+- Continued respiratory effort
+- Paradoxical thoracoabdominal movement
+- Snoring throughout
+E: The discriminator between central and obstructive apnoea is respiratory effort, detected by RIP belts.
+
+@1.10
+Q: Central sleep apnoea is considered the primary diagnosis when central apnoeas constitute at least:
++ 50% of apnoeas
+- 10% of apnoeas
+- 25% of apnoeas
+- 90% of apnoeas
+E: CSA is primary when ≥50% of apnoeas are central.
+
+@1.10
+Q: A mixed apnoea is one that:
++ Begins as central and ends as obstructive
+- Begins as obstructive and ends as central
+- Has no desaturation
+- Occurs only in REM
+E: Mixed apnoeas start without effort and end with obstructed effort.
+
+@1.10
+Q: Cheyne–Stokes breathing is most commonly associated with:
++ Heart failure and stroke
+- Obesity hypoventilation only
+- Allergic rhinitis
+- Primary snoring
+E: Cheyne–Stokes respiration is a CSA pattern seen in heart failure and stroke.
+
+@1.10
+Q: Which drug class is a recognised cause of central sleep apnoea?
++ Opioids
+- SSRIs
+- Antihistamines
+- Beta-blockers
+E: Opioids cause dose-dependent respiratory depression with central apnoeas and ataxic breathing.
+
+@1.10
+Q: Adaptive servo-ventilation (ASV) is contraindicated in:
++ Symptomatic heart failure with reduced ejection fraction
+- Opioid-induced CSA
+- Treatment-emergent CSA
+- High-altitude periodic breathing
+E: ASV is contraindicated in symptomatic HFrEF.
+
+@1.10
+Q: Non-hypercapnic central sleep apnoea is typically driven by:
++ High loop gain
+- Reduced central drive ("won't breathe")
+- Neuromuscular weakness ("can't breathe")
+- Low arousal threshold only
+E: Non-hypercapnic CSA reflects ventilatory instability (high loop gain).
+
+@1.10
+Q: Obesity hypoventilation syndrome is defined by:
++ Obesity with awake hypercapnia not otherwise explained
+- Obesity with normal awake CO2 and snoring
+- Central apnoeas in heart failure
+- Hypoxaemia without hypercapnia
+E: OHS requires obesity with awake hypercapnia not attributable to another cause.
+
+@1.10
+Q: Catathrenia is best described as:
++ Slow, monotone, groaning expiratory vocalisation during sleep
+- Loud inspiratory snoring
+- Teeth grinding
+- Talking in sleep
+E: Catathrenia is a benign expiratory groaning often mistaken for a parasomnia.
+
+@1.10
+Q: Upper airway resistance syndrome (UARS) typically presents in:
++ Young, non-obese women with fatigue and insomnia rather than sleepiness
+- Elderly obese men with severe hypoxaemia
+- Children with enlarged tonsils only
+- Patients with heart failure
+E: UARS produces repetitive RERAs without qualifying events; ICSD-3 includes it within the OSA spectrum.
+
+@1.10
+Q: How does ICSD-3 classify UARS?
++ As part of the OSA spectrum captured by the RDI, not a separate entity
+- As a distinct disorder separate from OSA
+- As a form of central apnoea
+- As a parasomnia
+E: ICSD-3 does not recognise UARS separately.
+
+@1.10
+Q: Primary snoring is defined as:
++ Habitual snoring without significant apnoea or oxygen desaturation
+- Snoring with AHI >15
+- Snoring only in REM sleep
+- Snoring with excessive sleepiness and AHI >5
+E: Primary snoring requires exclusion of OSA by a physician.
+
+@1.10
+Q: Which proportion of OSA patients do not snore?
++ About one third
+- About one tenth
+- About one half
+- None
+E: ~⅓ of OSA patients don't snore, and ~⅓ of snorers have no OSA.
+
+@1.10
+Q: Heavy snoring has been defined as snoring for more than what proportion of sleep time?
++ 50%
+- 5%
+- 20%
+- 90%
+E: Heavy snoring (>50% of sleep time) may injure the carotid endothelium.
+
+@1.10
+Q: Which management of primary snoring was associated with an unacceptably high extrusion rate?
++ Palatal implants
+- Radiofrequency palatal stiffening
+- Mandibular advancement devices
+- Weight loss
+E: Palatal implants (three midline implants) had high extrusion, limited durability and potential to worsen OSA.
+
+@1.10
+Q: For primary snoring in a dentate patient, which treatment is described as first-line after assessment by both dentist and sleep physician?
++ A custom mandibular advancement device
+- Palatal implants
+- Laser-assisted uvulopalatoplasty
+- Tracheostomy
+E: MAD is first-line in dentate patients once OSA has been excluded.
+
+@1.10
+Q: CPAP pressures that typically abolish simple snoring are:
++ 4–6 cmH2O
+- 1–2 cmH2O
+- 12–15 cmH2O
+- 20–25 cmH2O
+E: Low pressures of 4–6 cmH2O generally eliminate simple snoring.
+
+@1.10
+Q: A daily smartphone-based myofunctional regimen over 8 weeks reduced acoustically measured snoring rate by about:
++ 22%
+- 2%
+- 50%
+- 90%
+E: The 15-min daily regimen reduced snoring rate by ~22% — low risk but significant commitment for modest gain.
+
+@1.10
+Q: In a sham-controlled study of snoring devices, a placebo (sham) device:
++ Exacerbated snoring
+- Eliminated snoring
+- Was equivalent to a custom titratable MAD
+- Reduced AHI to <5
+E: A sham placebo exacerbated snoring, while custom titratable devices outperformed thermoplastic ones.
+
+@1.10
+Q: Positional therapy for snoring is effective in:
++ Most non-apnoeic supine-dominant snorers, but not those with OSA
+- All patients with OSA
+- Only patients with central apnoea
+- Patients who snore in all positions
+E: Positional devices reduce snoring in most non-apnoeic snorers (AHI <5) but not in OSA.
+
+@1.10
+Q: Which statement about benzodiazepines and snoring is correct?
++ They increase NREM snoring and upper airway resistance even in healthy people
+- They reduce snoring by deepening sleep
+- They have no effect on the airway
+- They increase dilator muscle tone
+E: Benzodiazepine reduction is part of graded snoring management.
+
+@1.10
+Q: Nasal surgery as a primary anti-snoring procedure is:
++ Of uncertain and inconsistent benefit, but useful as a preliminary or adjunctive step
+- Always curative
+- Contraindicated in all cases
+- Superior to MAD therapy
+E: Septoplasty/turbinate reduction is indicated only with symptoms and objective obstruction, mostly as an adjunct.
+
+@1.10
+Q: Sleep-related hypoxaemia disorder is characterised by:
++ Sustained desaturation without a comparable rise in CO2
+- Hypercapnia with normal oxygen
+- Central apnoeas with normal saturation
+- Snoring without desaturation
+E: Distinguish from hypoventilation, where CO2 retention occurs.
+
+@1.10
+Q: The relationship between CSA and OSA is described as:
++ Bidirectional, with mixed pictures present in many sleep apnoea patients
+- Mutually exclusive
+- Unrelated
+- CSA always precedes OSA
+E: Central events can provoke obstructive events in vulnerable anatomy and vice versa.
+
+@1.11
+Q: NREM parasomnias (disorders of arousal) typically arise from which stage?
++ N3
+- REM
+- N1
+- Wakefulness
+E: Confusional arousals, sleepwalking and sleep terrors arise from N3 in the first third of the night.
+
+@1.11
+Q: Which feature is typical of NREM disorders of arousal?
++ Amnesia for the event, occurring in the first third of the night
+- Vivid dream recall
+- Occurrence mainly in the last third of the night
+- Loss of REM atonia
+E: Disorders of arousal are typically amnestic and early in the night; commoner in children.
+
+@1.11
+Q: REM sleep behaviour disorder is characterised by:
++ Loss of REM atonia with dream enactment
+- Sleepwalking from N3
+- Cataplexy
+- Restless legs in the evening
+E: RBD involves loss of REM atonia and dream-enacting behaviour, typically in older men.
+
+@1.11
+Q: RBD is an important prodrome of which group of diseases?
++ Alpha-synucleinopathies (Parkinson's disease, dementia with Lewy bodies, MSA)
+- Tauopathies such as Alzheimer's disease only
+- Demyelinating diseases
+- Prion diseases
+E: RBD frequently precedes synucleinopathies; neurological evaluation is warranted.
+
+@1.11
+Q: Delayed sleep–wake phase disorder is most typical of:
++ Adolescents
+- Older adults
+- Infants
+- Shift workers aged over 60
+E: Adolescents show a circadian phase delay; advanced phase is more typical of older adults.
+
+@1.11
+Q: Restless legs syndrome is characterised by:
++ An urge to move the legs, worse in the evening and at rest, relieved by movement
+- Leg jerks occurring only in REM sleep
+- Pain relieved by rest
+- Morning leg weakness
+E: RLS (Willis–Ekbom disease) is associated with iron deficiency and dopaminergic dysfunction.
+
+@1.11
+Q: RLS is associated with:
++ Iron deficiency and dopaminergic dysfunction
+- Vitamin C excess
+- Hypercalcaemia
+- Hyperthyroidism exclusively
+E: Iron deficiency and dopaminergic dysfunction underlie RLS.
+
+@1.11
+Q: An abnormal periodic limb movement index in adults is greater than:
++ 15 per hour
+- 1 per hour
+- 5 per hour
+- 30 per hour
+E: PLMI >15/h in adults (>5/h in children); PLMD additionally requires associated sleep disturbance.
+
+@1.11
+Q: Narcolepsy type 1 is caused by:
++ Loss of hypocretin/orexin neurons, typically with cataplexy
+- Excess histamine
+- Adenosine deficiency
+- Upper airway collapse
+E: NT1 = orexin deficiency with cataplexy; NT2 lacks cataplexy.
+
+@1.11
+Q: MSLT findings supporting narcolepsy are:
++ Mean sleep latency ≤8 min with ≥2 SOREMPs
+- Mean sleep latency ≥15 min with no SOREMPs
+- One SOREMP with latency of 20 min
+- Mean sleep latency of 30 min
+E: MSL ≤8 min with ≥2 SOREMPs supports narcolepsy, though SOREMPs also occur in untreated OSA.
+
+@1.11
+Q: Which is classified as a central disorder of hypersomnolence?
++ Kleine–Levin syndrome
+- Restless legs syndrome
+- Sleep bruxism
+- Catathrenia
+E: Central hypersomnolence disorders include narcolepsy, idiopathic hypersomnia, Kleine–Levin and insufficient sleep syndrome.
+
+@1.11
+Q: Sleep bruxism is grouped in the sleep disorder classification under:
++ Sleep-related movement disorders
+- Parasomnias of REM sleep
+- Circadian rhythm disorders
+- Central disorders of hypersomnolence
+E: Sleep bruxism and rhythmic movement disorder sit with RLS/PLMD as sleep-related movement disorders.
+
+@1.11
+Q: Recurrent isolated sleep paralysis and nightmare disorder are classified as:
++ REM parasomnias
+- NREM disorders of arousal
+- Circadian rhythm disorders
+- Sleep-related breathing disorders
+E: Along with RBD, these are REM-related parasomnias.
+
+@1.11
+Q: Advanced sleep–wake phase disorder is most typical of:
++ Older adults
+- Adolescents
+- Toddlers
+- University students
+E: Older adults tend toward early sleep and early waking.
+
+@1.11
+Q: A sleep study shows a patient entering sleep directly into REM. This most suggests:
++ Narcolepsy
+- Primary snoring
+- Obstructive sleep apnoea only
+- Insomnia
+E: Sleep-onset REM is a hallmark of narcolepsy (though can occur with sleep deprivation or OSA).
+
+@1.11
+Q: Which finding on PSG should prompt neurological referral rather than a change in appliance plan?
++ REM sleep without atonia consistent with RBD
+- Supine-predominant OSA
+- Mild residual snoring
+- REM rebound after treatment
+E: RBD changes the referral pathway given its link with neurodegeneration.
+
+@1.11
+Q: Insufficient sleep syndrome should be considered when:
++ Sleepiness results from chronically curtailed time in bed
+- Sleep latency exceeds 60 minutes nightly
+- Apnoeas exceed 30 per hour
+- Cataplexy is present
+E: Insufficient sleep is a common cause of sleepiness and blunts perceived benefit of OSA treatment.
+
+@1.11
+Q: Shift work disorder and jet lag are classified as:
++ Circadian rhythm sleep–wake disorders
+- Parasomnias
+- Movement disorders
+- Breathing disorders
+E: Both result from misalignment between the circadian clock and the required sleep schedule.
+
+@1.12
+Q: SSRIs and SNRIs characteristically:
++ Suppress REM and prolong REM latency, and may induce RLS, bruxism and nightmares
+- Increase REM sleep markedly
+- Shorten REM latency
+- Have no effect on sleep architecture
+E: Drug-induced sleep bruxism makes this class especially relevant to dentists.
+
+@1.12
+Q: Benzodiazepines alter sleep architecture by:
++ Increasing N2 and reducing REM and N3
+- Increasing N3 and REM
+- Eliminating N2
+- Increasing REM only
+E: Benzodiazepines improve sleep onset but increase N2 and reduce SWS and REM; dependence and cognitive effects are risks.
+
+@1.12
+Q: Alcohol before bed typically:
++ Shortens sleep latency, suppresses REM in the first half with rebound in the second, and worsens OSA
+- Increases REM in the first half
+- Improves airway tone
+- Consolidates sleep without fragmentation
+E: Alcohol fragments sleep and reduces dilator tone while blunting arousal.
+
+@1.12
+Q: Caffeine disrupts sleep primarily by:
++ Antagonising adenosine receptors
+- Agonising GABA receptors
+- Blocking orexin receptors
+- Stimulating melatonin release
+E: Caffeine blocks adenosine (the mediator of sleep pressure); half-life ~5 h.
+
+@1.12
+Q: The approximate half-life of caffeine is:
++ 5 hours
+- 30 minutes
+- 1 hour
+- 24 hours
+E: With a ~5 h half-life, afternoon caffeine can still affect sleep.
+
+@1.12
+Q: Which effect of caffeine on sleep is dose-dependent?
++ Reduction of slow-wave sleep
+- Increase in total sleep time
+- Reduction of WASO
+- Shortening of sleep onset latency
+E: Caffeine prolongs SOL, increases WASO and reduces SWS dose-dependently.
+
+@1.12
+Q: Suvorexant acts as:
++ An orexin receptor antagonist
+- A melatonin receptor agonist
+- A benzodiazepine receptor agonist
+- An adenosine antagonist
+E: Suvorexant blocks orexin signalling; ramelteon is a melatonin agonist.
+
+@1.12
+Q: Which agent is recommended AGAINST for treating chronic insomnia in AASM guidance?
++ Over-the-counter diphenhydramine
+- Zolpidem
+- Low-dose doxepin
+- Suvorexant
+E: OTC antihistamines, herbal/nutritional substances (melatonin, valerian, tryptophan) and barbiturates are recommended against.
+
+@1.12
+Q: Melatonin as a hypnotic for chronic insomnia is:
++ Not recommended by AASM guidance
+- First-line treatment
+- Superior to CBT-I
+- Contraindicated in all adults
+E: Melatonin as a hypnotic is among agents recommended against for chronic insomnia.
+
+@1.12
+Q: Why can a benzodiazepine be harmful in untreated OSA?
++ It reduces dilator tone and blunts arousal, causing longer and more frequent apnoeas
+- It increases loop gain
+- It stimulates the genioglossus
+- It lowers Pcrit
+E: Sedatives raise the arousal threshold and relax the airway; the same mechanism is therapeutic only in the low-ArTH endotype with concurrent OSA treatment.
+
+@1.12
+Q: Opioid use in a patient with SDB results in a net:
++ Adverse effect, through respiratory depression and central apnoeas despite possible pain relief
+- Beneficial effect on breathing
+- Neutral effect
+- Increase in REM sleep only
+E: Opioids impair architecture and respiratory control; the net effect in SDB is adverse.
+
+@1.12
+Q: Dexmedetomidine is noted for which sleep effect?
++ Improved sleep quality in ICU settings, with bradycardia and hypotension as adverse effects
+- Induction of REM behaviour disorder
+- Severe insomnia
+- Narcolepsy
+E: It improves ICU sleep quality but can cause bradycardia and hypotension.
+
+@1.12
+Q: Sedating antidepressants such as low-dose doxepin and trazodone typically:
++ Reduce sleep latency and increase slow-wave sleep, with risk of long-term oversedation
+- Increase sleep latency
+- Suppress slow-wave sleep completely
+- Cause cataplexy
+E: Sedating antidepressants shorten latency and increase SWS.
+
+@1.12
+Q: Nicotine affects sleep by:
++ Acting as a stimulant and causing nocturnal withdrawal arousals
+- Increasing slow-wave sleep
+- Acting as a hypnotic
+- Reducing airway inflammation
+E: Nicotine is stimulating and withdrawal causes arousals; smoking also inflames the upper airway.
+
+@1.12
+Q: Sleep hygiene includes which recommendation?
++ Avoid caffeine, tobacco and heavy meals near bedtime and keep a regular schedule
+- Take long evening naps
+- Exercise vigorously just before bed
+- Use devices in bed to relax
+E: Sleep hygiene covers stimulants, alcohol, exercise timing, naps, time in bed and environment.
+
+@1.12
+Q: A patient taking an SSRI presents with new tooth wear and jaw pain on waking. The most relevant consideration is:
++ Drug-induced sleep bruxism
+- Narcolepsy
+- Hypothyroidism
+- Primary snoring
+E: SSRIs/SNRIs can induce bruxism — a key pharmacological link for dentists.
+
+@1.12
+Q: Which medication class has been suggested (with an appropriate indication) for treatment of chronic insomnia?
++ Short/intermediate-acting benzodiazepine receptor agonists such as zolpidem or eszopiclone
+- Barbiturates
+- Valerian root
+- Tryptophan supplements
+E: Z-drugs, temazepam, ramelteon, suvorexant and sedating antidepressants are among suggested agents.
+
+@1.12
+Q: Eszopiclone (~3 mg) is being investigated in OSA to:
++ Raise the arousal threshold in the low-arousal-threshold endotype
+- Lower loop gain
+- Increase genioglossus responsiveness
+- Reduce body weight
+E: Raising arousal threshold targets the "A" in PALM.

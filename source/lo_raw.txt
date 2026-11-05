@@ -1,0 +1,78 @@
+1.1|Health benefits of normal sleep
+1.2|Physiology of normal sleep
+1.3|Pathophysiology of SDB including anatomic and non-anatomic factors
+1.4|Prevalence and Comorbidities of SDB
+1.5|Risk factors of SDB including age and gender 
+1.6|Signs and symptoms of SDB
+1.7|Impact of sleep disorders on the individual
+1.8|Impact of sleep disorders on society
+1.9|Prevalence, pathophysiology, and the clinical features of insomnia
+1.10|Other respiratory sleep disorders
+1.11|Other non-respiratory sleep disorders
+1.12|The effects of pharmacotherapeutics on sleep
+2.1|Normal sleep architecture and respiratory parameters on polysomnography
+2.2|Pathological sleep architecture and respiratory parameters on polysomnography
+2.3|Interpretation of polysomnogram and how its influences treatment recommendations such as behavioural therapies, CPAP, oral appliance, surgery, pharmacotherapeutics
+2.4|Interpretation of treatment efficacy on polysomnogram
+2.5|Comparison of attended (laboratory based) and unattended (home) PSG including their indications, advantages, and disadvantages.
+2.6|Other types of sleep testing such as vigilance testing (multiple sleep latency test MSLT and maintenance of Wakefulness test MWT) including their indications, method, and interpretation
+2.7|Screening for sleep disordered breathing
+3.1|History of oral appliance therapy
+3.2|Mechanism of action of oral appliance therapy
+3.3|Indications, contraindication, advantages, and disadvantages for oral appliance therapy
+3.4|Positive Airways Pressure therapies (CPAP, APAP, ASV, BiPAP) indications, contraindication, advantages, and disadvantages
+3.5|Surgical options for sleep disordered breathing (rare)
+3.6|Other therapies (positional therapy, sleep hygiene, weight loss, cognitive behavioural therapy)
+3.7|Other emerging therapies (pharmacology, Expiratory positive airway pressure (EPAP) valve, Hypoglossal Nerve Simulation, exercises, etc.)
+3.8|Combination therapies
+3.9|Oral appliance therapy efficacy compared to other treatment options
+3.10|Concepts of Mean Disease Alleviation (effectiveness), efficacy and compliance
+3.11|Understand current practice guidelines and role of evidence-based practice and concepts of best practice
+4.1|Dental sleep medicine history taking including reason for attendance, goal setting and managing expectations
+4.2|Medical history taking including effects of age, obesity, drugs/medications, alcohol, smoking, other sleep disorders and comorbidities on the upper airway and overall morbidity 
+4.3|Relationship of sleep disordered breathing to other sleep-related problems (narcolepsy, RLS, PLMD/S, insomnia, insufficient sleep, shift workers syndrome) 
+4.4|Understand the relevance of medical comorbidities (hypertension, cardiovascular disease, metabolic syndrome, GORD, depression, anxiety, neurocognitive decline) associated with sleep disordered breathing. 
+4.5|Ethics and informed consent
+4.6|Working as part of a multi-disciplinary team and how to provide optimal care and communication to referring physician and interested parties
+4.7|Sleep bruxism and relationship with sleep disordered breathing  
+4.8|Pain and sleep
+5.1|Clinical practice guideline for oral appliance therapy in the treatment of obstructive sleep apnoea
+5.2|Mechanism of action of oral appliance on the upper airway
+5.3|Indications and contraindications for oral appliance therapy
+5.4|Considerations for different appliance designs including advantages and disadvantages of each, manufacturing materials and fabrication techniques 
+5.5|Selecting the best device designs based on history, examination, sleep study findings, and patient preferences
+5.6|Rationale for initial bite registration position, including vertical, horizontal, and lateral components and discuss of various bite registration techniques
+5.7|Understand impression material available and requirement for an accurate impression 
+5.8|Writing a laboratory request for device fabrication 
+5.9|To deliver a retentive device along with assessing fit, comfort, vertical dimension, and protrusion at delivery
+5.10|Delivery of device home care instructions 
+6.1|Reverting to patient’s chief complaint, history, signs, and symptoms in the titration process.  
+6.2|Reviewing signs and symptoms during follow-up appointments
+6.3|Consideration and assessing the need for referral for objective testing of the efficacy of the oral appliance 
+6.4|Treatment sleep study protocols for confirming oral appliance efficacy and need for further titration 
+6.5|Oral appliance efficacy, long-term effectiveness, and limitations 
+6.6|Treatment adherence and need for monitoring compliance
+7.1|Impact of age, weight change, alcohol use, medication change, sleep hygiene/quantity, etc., with long-term oral appliance therapy
+7.2|Relevance and documentation of evolution in patient’s initial complaint based on self-reported and sleep-observer measures
+7.3|Treatment modification related to progressive nature of sleep disordered breathing 
+7.4|Reiterating appliance condition, stability, and care at yearly review appointments 
+8.1|Prevalence of snoring and obstructive sleep apnoea in children
+8.2|Etiology and pathophysiology of snoring and obstructive sleep apnoea in children
+8.3|Signs and symptoms of sleep disordered breathing in children and adolescents
+8.4|Other causes of poor or insufficient sleep in children and impact on their development
+8.5|Other causes of poor or insufficient sleep in adolescents and impact on cognition, physical performance, impulse control and decision making
+8.6|Screening of children and adolescents for sleep disordered breathing
+8.7|Treatment of snoring and obstructive sleep apnoea in children and adolescents including surgical options, CPAP, orthodontic treatment, and other therapies
+8.8|Differences in sleep disordered breathing in children and adults
+8.9|The relationship between sleep disordered breathing associated with underlying medical conditions and syndromes 
+8.10|Referral pathways for children and adolescents for diagnosis and treatment
+9.1|Diagnosis of sleep disordered breathing by a physician
+9.2|Knowledge of record keeping requirements including baseline sleep study data, ongoing clinical notes, treatment planning, study models, informed consent and interprofessional communication
+9.3|Use of correct and appropriate item codes for billing patients privately and for Department of Veterans Affairs
+9.4|Ethics in dental sleep medicine
+10.1|Obtaining informed consent for treatment 
+10.2|Understand evidence-based expectations of oral appliance side effects
+10.3|Understand mandibular protrusion effect on cranio-facial structures including the soft tissue, teeth and TMJs 
+10.4|Use of occlusal guide and morning exercises for prevention and management of oral appliance side effects
+10.5|Management of side effects 
+10.6|Decision-making regarding suspending or abandoning oral appliance therapy for various clinical scenarios

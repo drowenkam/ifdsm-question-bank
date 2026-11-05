@@ -1,0 +1,711 @@
+@3.6
+Q: Strictly defined, positional OSA means:
++ Non-supine AHI <5
+- Supine AHI greater than non-supine AHI
+- More than 50% of events supine
+- Any positional variation in AHI
+E: Supine-predominant is not the same as strictly positional OSA.
+
+@3.6
+Q: The goal of positional therapy is to:
++ Reduce supine sleep time to zero
+- Increase supine sleep
+- Increase REM sleep
+- Lower CPAP pressure
+E: The patient must be motivated and adherent.
+
+@3.6
+Q: The main limitation of traditional positional therapy methods (e.g. tennis ball technique) is:
++ Poor long-term adherence from discomfort
+- Excessive cost
+- Requirement for surgery
+- Dental side effects
+E: Newer vibratory devices are better tolerated but give little objective compliance data.
+
+@3.6
+Q: Compared with positional therapy in positional OSA, OAT produces:
++ Similar AHI reduction but greater improvement in sleepiness and non-supine AHI
+- Worse AHI reduction
+- No difference in any outcome
+- Worse sleepiness outcomes
+E: OAT has advantages over positional therapy alone.
+
+@3.6
+Q: In children, the position associated with the lowest AHI is:
++ Prone
+- Supine
+- Seated
+- Lateral only
+E: Unlike adults, children's AHI is lowest prone.
+
+@3.6
+Q: Which mechanism explains why weight loss improves OSA?
++ Reduced parapharyngeal fat loading and increased lung volume improving tracheal traction
+- Increased tongue size
+- Increased loop gain
+- Increased vertical dimension
+E: Weight loss reduces collapsibility.
+
+@3.6
+Q: The target BMI often cited for weight reduction in OSA is:
++ <30 kg/m²
+- <18 kg/m²
+- <35 kg/m²
+- <40 kg/m²
+E: Effect is greatest with high starting BMI (35–45).
+
+@3.6
+Q: Which weight-loss drug was withdrawn due to myocardial infarction and stroke risk?
++ Sibutramine
+- Liraglutide
+- Tirzepatide
+- Orlistat
+E: Sibutramine was withdrawn.
+
+@3.6
+Q: Orlistat acts by:
++ Inhibiting gastrointestinal lipase
+- Acting as a GLP-1 agonist
+- Suppressing appetite centrally
+- Blocking adenosine
+E: Reduces fat absorption.
+
+@3.6
+Q: The main limitation of weight loss as OSA treatment is:
++ It is hard to achieve and especially to sustain
+- It never reduces AHI
+- It increases cardiovascular risk
+- It is expensive
+E: Feasible and potentially curative, but maintenance is difficult.
+
+@3.6
+Q: Sleep behavioural therapy includes:
++ Sleep hygiene, sleeping position, weight control and avoiding sedatives including alcohol
+- CPAP titration
+- Mandibular advancement
+- Surgery
+E: Provide written information on all of these.
+
+@3.6
+Q: CBT is particularly valuable in OSA patients with:
++ Comorbid insomnia (COMISA)
+- Primary snoring
+- Positional OSA only
+- Down syndrome
+E: Both conditions must be treated.
+
+@3.6
+Q: CBT and motivational enhancement have been shown to:
++ Improve CPAP adherence
+- Reduce CPAP adherence
+- Replace CPAP
+- Increase AHI
+E: Behavioural interventions help PAP use.
+
+@3.6
+Q: A very low calorie diet combined with exercise and supervised counselling has been shown to:
++ Reduce weight, waist circumference and AHI
+- Increase AHI
+- Have no effect on OSA
+- Cure OSA in all patients
+E: Arguably first-line for mild OSA with obesity.
+
+@3.6
+Q: Newer smart positional devices (e.g. NightShift) work by:
++ Detecting supine position and delivering a vibratory stimulus
+- Delivering positive pressure
+- Advancing the mandible
+- Stimulating the hypoglossal nerve
+E: They generally provide no objective compliance data.
+
+@3.6
+Q: Positional therapy indication should be established by:
++ PSG positional data
+- Patient preference alone
+- Bed partner report alone
+- Cephalometric analysis
+E: Objective positional data are needed.
+
+@3.6
+Q: Evidence quantifying the specific effect of sleep hygiene on OSA is:
++ Limited
+- Strong and conclusive
+- Shows it cures OSA
+- Shows it worsens OSA
+E: Sleep hygiene is supportive.
+
+@3.6
+Q: Which GLP-1-related agent has shown reduction of both AHI and body weight in OSA with obesity?
++ Tirzepatide
+- Sibutramine
+- Phentermine alone
+- Diphenhydramine
+E: Tirzepatide (SURMOUNT-OSA) is a major recent development.
+
+@3.6
+Q: Combining CPAP with weight loss provides:
++ Incremental reductions in insulin resistance, triglycerides and blood pressure versus either alone
+- No additional benefit
+- Worse outcomes
+- Higher AHI
+E: Combination therapy benefits metabolic outcomes.
+
+@3.6
+Q: Which statement about the effect size of weight loss on OSA is correct?
++ The effect is greatest with a high starting BMI
+- The effect is greatest at normal BMI
+- Weight loss never affects AHI
+- Only surgical weight loss affects AHI
+E: Higher starting BMI → larger benefit.
+
+@3.7
+Q: Hypoglossal nerve stimulation selection criteria include:
++ BMI <35, AHI 20–50 and non-concentric retropalatal collapse
+- BMI >40 and AHI >80
+- Complete concentric collapse
+- Grade 4 tonsils
+E: Concentric collapse and large tonsils are exclusions.
+
+@3.7
+Q: Which finding on DISE excludes a patient from hypoglossal nerve stimulation?
++ Complete concentric collapse at the velum
+- Anteroposterior collapse
+- Partial lateral collapse
+- Tongue base collapse
+E: Complete concentric collapse is a key exclusion.
+
+@3.7
+Q: The hypoglossal nerve stimulator has a sensing lead placed in the:
++ Fourth intercostal space to detect inspiration
+- Submental region
+- Carotid sheath
+- Nasal cavity
+E: It stimulates CN XII in time with inspiration.
+
+@3.7
+Q: Reported adherence to hypoglossal nerve stimulation is approximately:
++ 86%
+- 20%
+- 40%
+- 100%
+E: Better than CPAP.
+
+@3.7
+Q: Nasal EPAP valves work by:
++ Allowing easy inhalation but resisting exhalation, creating positive end-expiratory pressure
+- Delivering positive pressure from a motor
+- Advancing the mandible
+- Stimulating the genioglossus
+E: Disposable one-way resistor valves.
+
+@3.7
+Q: The approximate expiratory pressure generated by the Provent EPAP device is:
++ ~8 cmH2O
+- ~1 cmH2O
+- ~20 cmH2O
+- ~30 cmH2O
+E: Theravent generates 2–6 cmH2O.
+
+@3.7
+Q: EPAP devices are contraindicated in:
++ Nasal obstruction
+- Mild OSA
+- Positional OSA
+- Patients who travel
+E: Requires nasal breathing.
+
+@3.7
+Q: Which emerging pharmacotherapy combination targets poor upper airway muscle responsiveness?
++ Atomoxetine plus oxybutynin
+- Acetazolamide plus oxygen
+- Eszopiclone plus zolpidem
+- Modafinil plus caffeine
+E: Noradrenergic–antimuscarinic combination.
+
+@3.7
+Q: Modafinil/armodafinil in OSA is indicated for:
++ Residual excessive sleepiness despite effective PAP with no other identifiable cause
+- Primary treatment of OSA
+- Reducing AHI
+- Insomnia
+E: It does not treat the OSA itself.
+
+@3.7
+Q: Acetazolamide in OSA targets:
++ High loop gain
+- Low arousal threshold
+- Poor muscle responsiveness
+- Passive anatomy
+E: Carbonic anhydrase inhibitor stabilising ventilatory control.
+
+@3.7
+Q: Orofacial myofunctional therapy:
++ Strengthens upper airway muscles and reduces snoring and AHI in mild–moderate OSA or as an adjunct
+- Replaces CPAP in severe OSA
+- Is contraindicated in OSA
+- Works by advancing the mandible
+E: Exercise-based adjunct.
+
+@3.7
+Q: A recognised limitation of EPAP devices is:
++ No objective compliance data and possible treatment-emergent central apnoea
+- Requirement for electricity
+- Large size
+- Mask leak
+E: Also ongoing expense and variable tolerance.
+
+@3.7
+Q: EPAP valves may serve as a reasonable:
++ "CPAP holiday" option, ideally verified with PSG in situ
+- Permanent replacement for all patients
+- Diagnostic test
+- Treatment for central apnoea
+E: Useful for travel.
+
+@3.7
+Q: Hypoglossal nerve stimulation outcomes include:
++ Reduced AHI, ODI and ESS with improved SAQLI and FOSQ
+- Increased AHI
+- Reduced adherence
+- Weight gain
+E: STAR trial outcomes.
+
+@3.7
+Q: Grade 3–4 tonsils are relevant to hypoglossal nerve stimulation because they:
++ Are an exclusion criterion
+- Are required for eligibility
+- Improve outcomes
+- Have no effect
+E: Large tonsils exclude HNS.
+
+@3.7
+Q: Which therapy combination is described for low arousal threshold plus high loop gain?
++ Acetazolamide plus eszopiclone
+- Atomoxetine plus oxybutynin
+- CPAP plus modafinil
+- MAD plus positional therapy
+E: Pharmacological endotype combinations.
+
+@3.7
+Q: The most significant recent pharmacological development in OSA treatment is:
++ GLP-1 receptor agonist therapy such as tirzepatide
+- Barbiturates
+- Antihistamines
+- Opioids
+E: Addresses both metabolic and respiratory components.
+
+@3.7
+Q: Hypoglossal nerve stimulation works by:
++ Stimulating genioglossus protrusion during inspiration to maintain patency
+- Advancing the maxilla
+- Delivering positive pressure
+- Removing tonsils
+E: Neuromodulation of airway dilator.
+
+@3.7
+Q: Which device is under study as an emerging OSA therapy?
++ Oral negative pressure devices
+- Palatal implants
+- Soft palate lifters
+- Boil-and-bite appliances
+E: Also high-flow nasal cannula.
+
+@3.8
+Q: Combining an oral appliance with CPAP in severe OSA can:
++ Reduce AHI, ODI and the required CPAP pressure versus either alone
+- Increase the required CPAP pressure
+- Worsen adherence in all cases
+- Eliminate the need for diagnosis
+E: Lower pressures may improve comfort and adherence.
+
+@3.8
+Q: OAT combined with nasal or oral EPAP in incomplete OAT responders:
++ Significantly reduces AHI further, though sleep efficiency may be lower
+- Has no effect
+- Increases AHI
+- Replaces CPAP in all patients
+E: Combination improves AHI.
+
+@3.8
+Q: Using OAT and CPAP interchangeably (alternating nights) can:
++ Improve overall effectiveness by increasing time on treatment while reducing burden of each
+- Reduce adherence
+- Increase side effects of both
+- Increase AHI
+E: Patients may trade symptom-free days for fewer adverse events.
+
+@3.8
+Q: A patient on OAT has residual supine-predominant events. A logical combination therapy is:
++ OAT plus positional therapy
+- OAT plus hypnotics
+- OAT plus increased vertical dimension
+- OAT plus alcohol
+E: Positional therapy targets residual supine events.
+
+@3.8
+Q: A dentist may contribute to OAT–CPAP combination therapy by:
++ Fabricating custom interfaces or masks that attach to the appliance
+- Prescribing CPAP pressures
+- Diagnosing the OSA
+- Performing DISE
+E: Custom interfaces facilitate combination.
+
+@3.8
+Q: Combination therapy for OSA generally offers:
++ Higher efficacy but with limited evidence
+- Lower efficacy
+- Strong long-term evidence in all combinations
+- No benefit
+E: Evidence remains limited.
+
+@3.8
+Q: CPAP combined with modafinil is used for:
++ Residual sleepiness despite effective CPAP
+- Reducing CPAP pressure
+- Central apnoea
+- Insomnia
+E: Modafinil addresses residual sleepiness.
+
+@3.8
+Q: The mechanistic rationale for combination therapy in OSA is that:
++ Many patients have both anatomical and non-anatomical impairments
+- All patients have identical phenotypes
+- Single therapies always cure OSA
+- Anatomy is irrelevant
+E: PALM supports multi-target treatment.
+
+@3.8
+Q: A patient with severe OSA cannot tolerate CPAP above 14 cmH2O. Adding a MAD may:
++ Lower the required pressure, improving tolerance
+- Increase the required pressure
+- Make CPAP unnecessary in all cases
+- Worsen apnoea
+E: OAT + CPAP lowers pressure requirements.
+
+@3.8
+Q: Which pharmacological combination pairs a hypnotic with oxygen?
++ Oxygen with a hypnotic for high loop gain plus low arousal threshold
+- Atomoxetine with oxybutynin
+- Modafinil with caffeine
+- GLP-1 with orlistat
+E: Endotype-based combinations.
+
+@3.8
+Q: Combination therapy may be categorised as:
++ Pre-phase plus adjunctive, adjunctive plus mainstream, or multiple mainstream therapies
+- Only two surgeries combined
+- Only drug combinations
+- Diagnosis plus treatment
+E: Classification from snoring/OSA management.
+
+@3.9
+Q: Approximate indirect AHI reductions are:
++ CPAP ~75%, OAT ~42%, UPPP ~30%
+- CPAP ~42%, OAT ~75%, UPPP ~30%
+- CPAP ~30%, OAT ~42%, UPPP ~75%
+- All approximately 50%
+E: CPAP most efficacious.
+
+@3.9
+Q: Adherence comparisons show:
++ CPAP lower, OAT higher, positional therapy similar to OAT
+- CPAP highest
+- All equal
+- OAT lowest
+E: OAT is better tolerated.
+
+@3.9
+Q: Reduction in Epworth score is:
++ Similar across CPAP, MAD, exercise and weight loss
+- Much greater with CPAP
+- Absent with MAD
+- Greatest with UPPP
+E: Subjective sleepiness improves similarly.
+
+@3.9
+Q: Which appliance type generally outperforms tongue retaining devices?
++ Mandibular advancement devices
+- Soft palate lifters
+- Boil-and-bite devices
+- Nasal dilators
+E: MADs outperform TRDs, especially in mild OSA.
+
+@3.9
+Q: Adjustable (titratable) MADs compared with fixed MADs:
++ Have higher response rates
+- Have lower response rates
+- Are equivalent
+- Are not recommended
+E: Titratability improves outcomes.
+
+@3.9
+Q: The conclusion regarding CPAP vs OAT health outcomes is that:
++ Real-world effectiveness is comparable for many outcomes despite CPAP's greater efficacy
+- OAT is ineffective
+- CPAP always produces better health outcomes
+- Neither improves outcomes
+E: BP, sleepiness, neurocognition, QoL and possibly CV mortality are comparable.
+
+@3.9
+Q: An individual participant data meta-analysis in severe OSA found CPAP vs MAD health outcomes to be:
++ Comparable
+- Strongly favouring CPAP
+- Strongly favouring MAD
+- Not measured
+E: Trzepizur et al. 2021.
+
+@3.9
+Q: Exercise and weight loss reduce AHI to a degree:
++ Similar to MAD
+- Greater than CPAP
+- Not at all
+- Greater than surgery
+E: Comparable to MAD in indirect comparisons.
+
+@3.9
+Q: OAT is appropriate first-line for:
++ Mild–moderate OSA, and severe OSA where CPAP is refused, not tolerated or ineffective
+- Severe OSA in all patients
+- Central apnoea
+- OHS
+E: Standard summary statement.
+
+@3.9
+Q: Compared with CPAP, OAT tends to produce superior:
++ Quality-of-life outcomes in some comparisons and patient preference
+- AHI reduction
+- Oxygen saturation
+- Arousal index reduction
+E: Preference and some QoL outcomes favour OAT.
+
+@3.9
+Q: Newer appliance designs report efficacy for specific devices of up to:
++ 95%
+- 10%
+- 30%
+- 50%
+E: Reported by some studies, depending on definitions.
+
+@3.9
+Q: Which outcome is NOT generally found to be comparable between CPAP and OAT?
++ AHI reduction
+- Daytime sleepiness
+- Blood pressure
+- Quality of life
+E: CPAP reduces AHI more.
+
+@3.10
+Q: Mean disease alleviation (MDA) is calculated as:
++ Efficacy × compliance
+- Efficacy + compliance
+- Efficacy ÷ compliance
+- AHI reduction alone
+E: MDA reflects real-world effectiveness.
+
+@3.10
+Q: Reported MDA for oral appliances versus CPAP is approximately:
++ 51% vs 50%
+- 25% vs 75%
+- 75% vs 25%
+- 90% vs 40%
+E: Lower efficacy offset by greater adherence.
+
+@3.10
+Q: Efficacy is best defined as:
++ The maximum potential benefit under ideal/controlled conditions
+- Real-world benefit
+- Hours of use per night
+- Patient satisfaction
+E: Efficacy sets the upper limit of benefit.
+
+@3.10
+Q: Compliance (adherence) is defined as:
++ The extent to which patients correctly follow medical advice, often % of prescribed therapy used
+- The maximal AHI reduction
+- The cost of therapy
+- The patient's satisfaction score
+E: Determines how much efficacy is realised.
+
+@3.10
+Q: A treatment with 90% efficacy used 30% of the time yields an approximate MDA of:
++ 27%
+- 60%
+- 90%
+- 120%
+E: 0.9 × 0.3 = 0.27.
+
+@3.10
+Q: A treatment with 50% efficacy used 90% of the time yields an approximate MDA of:
++ 45%
+- 50%
+- 90%
+- 140%
+E: 0.5 × 0.9 = 0.45.
+
+@3.10
+Q: Mean nightly use reported for MAD vs CPAP is approximately:
++ 6.5 vs 5.2 hours
+- 5.2 vs 6.5 hours
+- 3 vs 8 hours
+- Identical
+E: Greater MAD use offsets lower efficacy.
+
+@3.10
+Q: A legitimate criticism of MDA comparisons is:
++ Inconsistent definitions of compliance across studies
+- It ignores efficacy
+- It ignores compliance
+- It cannot be calculated
+E: Comparability limited by definitions.
+
+@3.10
+Q: "Effective AHI" refines MDA by:
++ Accounting for AHI during untreated hours of sleep
+- Ignoring untreated hours
+- Using only REM AHI
+- Using only supine AHI
+E: Effective AHI weights treated and untreated time.
+
+@3.10
+Q: The MDA concept explains why:
++ A less efficacious but better-tolerated therapy can produce similar health outcomes
+- CPAP always outperforms OAT
+- Compliance is irrelevant
+- Efficacy is irrelevant
+E: Efficacy ≠ effectiveness.
+
+@3.10
+Q: Effectiveness differs from efficacy in that effectiveness reflects:
++ Benefit achieved in real-world conditions
+- Benefit in laboratory conditions only
+- Cost of therapy
+- Device design
+E: Effectiveness incorporates adherence.
+
+@3.10
+Q: A patient's appliance reduces AHI by 60% when worn, and they wear it for 75% of sleep time. MDA is:
++ 45%
+- 60%
+- 75%
+- 15%
+E: 0.6 × 0.75 = 0.45.
+
+@3.10
+Q: In the treatment effectiveness profile diagram, the shaded area represents:
++ The product of efficacy and compliance, reflecting likely health outcomes
+- Cost of therapy
+- Side effect burden
+- Sleep efficiency
+E: Equal areas imply equal effectiveness.
+
+@3.11
+Q: Evidence-based dentistry integrates:
++ Best available evidence, clinical expertise and patient values/circumstances
+- Expert opinion only
+- Manufacturer recommendations only
+- Insurance requirements only
+E: Three core components of EBD.
+
+@3.11
+Q: The first step of evidence-based practice is to:
++ Ask a focused, clinically relevant question
+- Apply the results
+- Appraise the evidence
+- Evaluate outcomes
+E: Question → Search → Appraise → Apply → Evaluate.
+
+@3.11
+Q: Which step of EBD involves critically appraising validity using evaluation tools?
++ Appraisal
+- Search
+- Application
+- Evaluation
+E: Appraisal assesses validity.
+
+@3.11
+Q: The governing clinical practice guideline for OAT is:
++ The AASM/AADSM guideline for treatment of OSA and snoring with oral appliance therapy (2015 update)
+- The ICSD-3-TR
+- The AASM Scoring Manual v3
+- The ADA caries guideline
+E: Ramar et al. 2015, supplemented by AADSM 2025 standards.
+
+@3.11
+Q: The purpose of clinical practice guidelines is to:
++ Standardise care, reduce unwarranted variation and ensure effective and safe interventions
+- Replace clinical judgement entirely
+- Increase cost
+- Limit patient choice
+E: Guidelines support decision-making.
+
+@3.11
+Q: Best practice is defined as:
++ The highest achievable standard for an intervention, informed by evidence and leading to optimal outcomes
+- The cheapest available treatment
+- The most popular treatment
+- The newest technology
+E: EBP is the mechanism for identifying and maintaining best practice.
+
+@3.11
+Q: Which is a component of best practice in dental sleep medicine?
++ Written informed consent before treatment and appropriate recognised training
+- Selecting appliances based on insurer reimbursement
+- Diagnosing OSA in the dental chair
+- Avoiding communication with physicians
+E: Best practice also includes record keeping and avoiding conflicts of interest.
+
+@3.11
+Q: Appliance selection should never be determined solely by:
++ Insurer requirements or commercial relationships
+- Clinical examination
+- Patient preference
+- Sleep study findings
+E: Conflicts of interest must be avoided.
+
+@3.11
+Q: Guidelines are developed by aggregating empirical evidence with:
++ Non-research evidence such as case reports, scientific principles and expert opinion
+- Marketing material
+- Patient testimonials only
+- Insurance data only
+E: Combination of evidence types.
+
+@3.11
+Q: The final step of EBD involves:
++ Evaluating health and patient-reported outcomes to inform future care
+- Asking a question
+- Searching the literature
+- Appraising evidence
+E: Evaluation closes the loop.
+
+@3.11
+Q: The medical equivalent of EBD steps includes:
++ Ask, acquire, appraise, aggregate, apply, assess
+- Plan, do, study, act
+- Diagnose, treat, follow-up
+- Screen, refer, discharge
+E: Six A's.
+
+@3.11
+Q: Which is a benefit of guideline-based best practice?
++ Improved outcomes, reduced cost and minimised error
+- Increased variation in care
+- Elimination of patient choice
+- Guaranteed cure
+E: Benefits of best practice.
+
+@3.11
+Q: Awareness of which legal obligation is listed as part of best practice in DSM?
++ Driving guidelines and fitness-to-drive obligations
+- Firearms licensing
+- Building regulations
+- Food safety rules
+E: Sleepiness and driving have legal implications.
+
+@3.11
+Q: Dentistry is defined to include evaluation and treatment of conditions of the oral cavity and maxillofacial area and:
++ Their impact on the human body
+- Only cosmetic concerns
+- Diagnosis of systemic disease
+- Sleep medicine diagnosis
+E: Broad definition.

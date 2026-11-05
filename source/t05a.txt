@@ -1,0 +1,807 @@
+@5.1
+Q: The joint guideline governing OAT is the AASM/AADSM clinical practice guideline published in:
++ 2015
+- 1995
+- 2005
+- 2023
+E: Ramar et al., "an update for 2015", supplemented by AADSM 2025 standards.
+
+@5.1
+Q: According to the 2015 guideline, before initiating OAT the presence or absence of OSA must be determined in order to:
++ Identify patients at risk of complications and provide a baseline for effectiveness
+- Determine the appliance colour
+- Satisfy the laboratory
+- Avoid the need for follow-up
+E: Diagnosis first.
+
+@5.1
+Q: The 2015 guideline recommends that sleep physicians prescribe an oral appliance rather than no treatment for adults who request treatment of:
++ Primary snoring without OSA
+- Central sleep apnoea
+- Narcolepsy
+- Insomnia
+E: Recommendation 1.
+
+@5.1
+Q: For adults with OSA who are intolerant of CPAP or prefer alternative therapy, the 2015 guideline recommends:
++ An oral appliance rather than no treatment
+- No treatment
+- Surgery in all cases
+- Hypnotics
+E: Recommendation 2.
+
+@5.1
+Q: The 2015 guideline recommends that qualified dentists use:
++ A custom, titratable appliance over non-custom devices
+- Boil-and-bite devices as first choice
+- Tongue retaining devices routinely
+- Non-titratable monoblocs only
+E: Recommendation 3.
+
+@5.1
+Q: The 2015 guideline recommends that sleep physicians conduct follow-up sleep testing to:
++ Improve or confirm treatment efficacy rather than follow up without testing
+- Diagnose bruxism
+- Measure overjet
+- Assess appliance colour stability
+E: Recommendation 4.
+
+@5.1
+Q: The 2015 guideline recommends that physicians and qualified dentists instruct patients to:
++ Return for periodic office visits with both clinicians
+- Never return once fitted
+- See only the physician
+- See only the dentist
+E: Recommendation 5.
+
+@5.1
+Q: The sixth 2015 guideline recommendation concerns:
++ Dentist oversight to survey for dental side effects and occlusal change
+- CPAP pressure titration
+- Surgical referral criteria
+- Paediatric expansion
+E: Most side effects are dental.
+
+@5.1
+Q: Why are custom titratable appliances recommended over non-custom devices?
++ They reduce AHI, arousal index and ODI and improve oxygen saturation to a greater extent
+- They are cheaper
+- They require no impressions
+- They avoid all side effects
+E: Neither significantly alters sleep architecture, but custom devices improve physiological parameters more.
+
+@5.1
+Q: Why is follow-up sleep testing recommended after appliance titration?
++ Subjective feedback alone is insufficient to determine the optimal setting
+- It is required for billing
+- It diagnoses bruxism
+- It replaces dental review
+E: Data-driven adjustments improve efficacy.
+
+@5.1
+Q: Once optimal fit and efficacy are established, follow-up visits are recommended:
++ Every 6 months in the first year, then at least annually
+- Weekly indefinitely
+- Only if problems arise
+- Every 5 years
+E: Guideline follow-up schedule.
+
+@5.1
+Q: The treatment objective for primary snoring (without OSA or UARS) is to:
++ Reduce snoring to a subjectively acceptable level
+- Achieve AHI <1
+- Eliminate all sound
+- Normalise oxygen saturation
+E: Objective for snoring.
+
+@5.1
+Q: The treatment objective for OSA with OAT is:
++ Resolution of signs and symptoms and normalisation of AHI and oxyhaemoglobin saturation
+- Snoring reduction only
+- Weight loss
+- Improved occlusion
+E: Objective for OSA.
+
+@5.1
+Q: For severe OSA, the guideline suggests:
++ An initial trial of nasal CPAP because of greater effectiveness
+- OAT as first choice in all cases
+- No treatment
+- Positional therapy alone
+E: OAT for those intolerant or preferring alternatives.
+
+@5.1
+Q: According to AADSM 2025, in the confirmed absence of OSA, a patient with primary snoring:
++ May commence treatment at the qualified dentist's discretion without further referral
+- Must undergo annual PSG
+- Requires CPAP
+- Cannot be treated
+E: Once OSA is excluded.
+
+@5.1
+Q: Additional sleep testing during OAT should be considered when there is:
++ Recurrent symptoms, substantial weight change or a new relevant comorbidity
+- A new appliance colour
+- A change in dentist
+- A missed appointment
+E: Triggers for retesting.
+
+@5.1
+Q: The purposes of follow-up visits include:
++ Monitoring adherence, device deterioration, oral structures and worsening OSA
+- Selling new appliances
+- Diagnosing narcolepsy
+- Measuring CPAP pressure
+E: Comprehensive follow-up.
+
+@5.1
+Q: The drop-out rate from OAT is highest during:
++ The first year
+- Year 5
+- Year 10
+- After retirement
+E: Reducing early drop-out is a specific aim.
+
+@5.1
+Q: The guideline states the treating dentist should ideally:
++ Hold diplomate certification in DSM or seek "qualified dentist" designation
+- Have no specific training
+- Be an orthodontist only
+- Be a physician
+E: Training expectation.
+
+@5.1
+Q: Why does the guideline consider that the benefit of OAT outweighs the risk even though it is less efficacious than CPAP?
++ Greater adherence, fewer discontinuations from side effects, and low likelihood of harm
+- It is more efficacious than CPAP
+- It is free
+- It requires no follow-up
+E: Rationale for recommendation 2.
+
+@5.1
+Q: Which statement about custom vs non-custom appliances and sleep architecture is correct?
++ Neither significantly affects sleep architecture or efficiency
+- Custom devices greatly increase N3
+- Non-custom devices abolish REM
+- Both reduce sleep efficiency
+E: But custom devices improve other physiological parameters.
+
+@5.1
+Q: Adjustments made by the dentist based on physician-obtained sleep test data produce:
++ Greater long-term improvement with fewer side effects
+- Worse outcomes
+- No difference
+- Increased side effects
+E: Collaborative data-driven care.
+
+@5.2
+Q: The primary mode of action of a MAD is:
++ Improvement in passive pharyngeal anatomy
+- Increased loop gain
+- Increased arousal threshold
+- Increased genioglossus activity
+E: Reduced collapsibility.
+
+@5.2
+Q: Which patient characteristic predicts a favourable appliance response?
++ Younger, female, lower BMI and lower baseline AHI
+- Older, male, high BMI and high AHI
+- REM-predominant OSA
+- High CPAP pressure requirement
+E: Responder profile.
+
+@5.2
+Q: Which cephalometric feature is associated with appliance responders?
++ Shorter soft palate and decreased hyoid-to-mandibular-plane distance
+- Longer soft palate
+- Increased hyoid-to-mandibular-plane distance
+- Prognathic mandible
+E: Cephalometric predictors.
+
+@5.2
+Q: The best available method for predicting appliance success is:
++ An overnight test with a remotely controlled mandibular positioner
+- Clinical/craniofacial assessment alone
+- ESS score
+- Patient age
+E: Rated "excellent" vs clinical prediction "poor".
+
+@5.2
+Q: Nasopharyngoscopy as a predictor of OAT success is rated:
++ Fair to good
+- Excellent
+- Poor
+- Useless
+E: Remotely controlled positioner is best.
+
+@5.2
+Q: Absence of the pterygomandibular raphe (present in ~64% of people) predicts:
++ Better appliance response
+- Worse appliance response
+- No difference
+- Contraindication to OAT
+E: Greater advancement and AHI reduction.
+
+@5.2
+Q: Which endoscopic finding predicts appliance success?
++ Tongue base collapse
+- Complete concentric palatal collapse
+- Complete laterolateral oropharyngeal collapse
+- Epiglottic collapse only
+E: Concentric and complete lateral collapse predict deterioration.
+
+@5.2
+Q: Approximately what proportion of patients achieve a clinically meaningful effect (OSA at least halved) with OAT?
++ Two thirds
+- One tenth
+- One third
+- All patients
+E: ~⅔ benefit; ~⅓ unlikely to benefit.
+
+@5.2
+Q: OAT success rates are up to ~80% in mild OSA and approximately what in more severe disease?
++ ~60%
+- ~10%
+- ~30%
+- ~95%
+E: Success falls with severity.
+
+@5.2
+Q: Persistent snoring on appliance treatment has been related to:
++ Insufficient apnoea control and poor adherence
+- Excellent apnoea control
+- Overtreatment
+- Allergy to acrylic
+E: A useful marker for further assessment.
+
+@5.2
+Q: Which endotype predicts better appliance response?
++ Less collapsible airway, lower loop gain and higher arousal threshold
+- Highly collapsible airway with high loop gain
+- Low arousal threshold with high loop gain
+- Concentric collapse
+E: Endotypic predictors.
+
+@5.2
+Q: Weight increase during OAT is associated with:
++ Treatment failure
+- Improved response
+- No effect
+- Reduced side effects
+E: Monitor weight.
+
+@5.2
+Q: Demographic, anthropometric and polysomnographic data:
++ Only weakly inform appliance efficacy
+- Perfectly predict response
+- Are irrelevant
+- Replace trial-based methods
+E: Hence objective verification is needed.
+
+@5.2
+Q: Health effects reported with OAT include:
++ Reduced blood pressure, improved endothelial and cardiac function
+- Increased blood pressure
+- Worsened endothelial function
+- No effect on cardiovascular parameters
+E: Similar to CPAP for BP.
+
+@5.2
+Q: Long-term appliance efficacy has been reported as good up to approximately:
++ 10 years
+- 6 months
+- 1 year
+- 30 years
+E: But real-world effectiveness declines with natural history.
+
+@5.2
+Q: Which statement about MAD dose–response is correct?
++ Airway enlargement, muscle activity and minimum SaO2 improve dose-dependently with protrusion
+- Protrusion has no effect beyond 1 mm
+- Greater protrusion always worsens OSA
+- Only vertical opening matters
+E: Dose dependence.
+
+@5.2
+Q: Polysomnographic predictors of good appliance response include:
++ Supine-dependent OSA and a lower required CPAP pressure
+- REM-predominant OSA
+- High CPAP pressure
+- Predominantly central events
+E: PSG predictors.
+
+@5.2
+Q: Inspiratory tongue movement during advancement on imaging may be:
++ Beneficial in responders, minimal, or counterproductive in non-responders
+- Always beneficial
+- Always harmful
+- Irrelevant
+E: Tongue dynamics vary.
+
+@5.2
+Q: The mechanism of OAT compared with CPAP is:
++ Less predictable, even long term
+- More predictable
+- Identical
+- Unknown
+E: Hence verification.
+
+@5.2
+Q: OAT effect on daytime sleepiness in mild–moderate OSA is:
++ Unclear, though improvement is seen versus placebo in severe OSA
+- Always greater than CPAP
+- Always worse than placebo
+- Absent in all trials
+E: Low arousal threshold subgroup may benefit more subjectively.
+
+@5.3
+Q: Which is an indication for OAT?
++ Moderate–severe OSA where CPAP cannot be tolerated or adhered to
+- Central sleep apnoea
+- Obesity hypoventilation syndrome
+- Narcolepsy
+E: Indications.
+
+@5.3
+Q: Severe OSA is best described as which type of contraindication to OAT?
++ Relative — trial CPAP first, but OAT is appropriate if CPAP fails
+- Absolute
+- No contraindication; OAT is first line
+- Contraindicated in all cases
+E: Relative contraindication.
+
+@5.3
+Q: Which is a contraindication to OAT?
++ Severe periodontal disease with loose teeth
+- Class II division 1 malocclusion
+- Mild crowding
+- Retrognathia
+E: Teeth must be stable.
+
+@5.3
+Q: Why are non-apnoeic snorers without daytime symptoms often better suited to OAT than CPAP?
++ They tolerate CPAP poorly; most agree to try but the majority give up
+- CPAP is ineffective for snoring
+- OAT is cheaper than nothing
+- They have central apnoea
+E: Appliances are a good alternative.
+
+@5.3
+Q: Which of the following is NOT a contraindication to OAT?
++ Mild OSA in a patient with good dentition
+- Inadequate protrusion <6 mm
+- Severe gag reflex
+- Poor oral hygiene with significant caries
+E: Mild OSA is a classic indication.
+
+@5.3
+Q: A patient has a maximum protrusion of 4 mm. OAT is:
++ Contraindicated because protrusion is inadequate
+- Ideal
+- Indicated at 100% protrusion
+- Indicated with a TRD only if dentate
+E: <6 mm is a contraindication.
+
+@5.3
+Q: Ongoing significant dental or orthodontic treatment is:
++ A contraindication, as treatment will alter fit
+- An indication
+- Irrelevant
+- An advantage
+E: Defer OAT.
+
+@5.3
+Q: Implant-retained appliance cases fall under which consideration?
++ Adequacy of retention — inadequate retention is a contraindication
+- Absolute indication
+- Irrelevant
+- Always contraindicated
+E: Retention is key.
+
+@5.3
+Q: Snoring is often:
++ The only reason a patient attended a sleep clinic
+- Always associated with OSA
+- Never treated with OAT
+- A contraindication to OAT
+E: Snoring drives many referrals.
+
+@5.3
+Q: A 45-year-old with mild OSA, good dentition, protrusion 10 mm and preference to avoid CPAP. OAT is:
++ Indicated as a primary option
+- Contraindicated
+- Only appropriate after surgery
+- Only appropriate after failed CPAP
+E: Mild–moderate OSA as primary option.
+
+@5.3
+Q: Active severe TMJ pain in an OSA patient seeking OAT should be:
++ Treated before starting OAT
+- Ignored
+- Treated with maximum protrusion
+- Treated with CPAP only
+E: Reduce drop-out by treating TMD first.
+
+@5.3
+Q: Poor oral hygiene is a contraindication because:
++ It increases risk of caries and periodontal damage under the appliance
+- It improves retention
+- It reduces efficacy of CPAP
+- It causes central apnoea
+E: Oral health must be optimised.
+
+@5.3
+Q: An anterior open bite prevents MAD use because:
++ There is no posterior clearance for the appliance
+- The incisors are too long
+- It causes central apnoea
+- It increases overjet
+E: Contraindication.
+
+@5.4
+Q: Off-the-shelf boil-and-bite appliances are not recommended because they:
++ Cannot be reliably titrated, have unverifiable settings and poor retention
+- Are too expensive
+- Are too accurate
+- Require laboratory fabrication
+E: They fail the AADSM effective-appliance definition.
+
+@5.4
+Q: The Lateral Push design (e.g. Herbst-type) uses:
++ Bilateral metal piston-like arms pushing the mandibular overlay forward
+- Elastomeric straps pulling the mandible
+- Angled dorsal posts interlocking with maxillary blocks
+- An anterior screw
+E: Fine titration ~0.1 mm; robust.
+
+@5.4
+Q: A disadvantage of the Lateral Push design is that:
++ Metal arms may impinge on soft tissue and the mandible may drop
+- It cannot be titrated
+- It has no retention requirement
+- It is extremely fragile
+E: Needs good retention on both arches.
+
+@5.4
+Q: The Lateral Pull design is titrated by:
++ Swapping straps of different lengths
+- Turning a midline screw
+- Replacing dorsal blocks
+- Heating the appliance
+E: Titration is gross (0.5–1 mm).
+
+@5.4
+Q: A disadvantage of Lateral Pull straps is:
++ Fracture or stretching, gross titration and lifting of the less retentive component
+- Excessive rigidity
+- Impossible to titrate
+- Requirement for implants
+E: Strap issues.
+
+@5.4
+Q: The Interlocking Dorsal design is typically titrated by:
++ Screws in the maxillary blocks (e.g. 10 turns = +1 mm)
+- Swapping strap lengths
+- Swapping entire overlays
+- An anterior strap
+E: Unattached mechanism.
+
+@5.4
+Q: In a typical interlocking dorsal design, 10 screw turns advance the mandible by:
++ 1 mm
+- 0.1 mm
+- 5 mm
+- 10 mm
+E: ~0.1 mm per turn.
+
+@5.4
+Q: The Precision Post design is titrated by:
++ Swapping an overlay for one with a different setting
+- Turning lateral pistons
+- Adjusting straps
+- Adjusting an anterior screw
+E: Dual posts interlock perpendicularly.
+
+@5.4
+Q: A monobloc appliance:
++ Restricts jaw movement and may cause TMJ discomfort, though advancement is good
+- Allows full lateral movement
+- Is always titratable by screws
+- Has two separate components
+E: Overlays fused occlusally.
+
+@5.4
+Q: The Anterior Pull design is particularly suitable for patients with:
++ Poor dexterity, as adjustment is accessible at the front
+- Severe gag reflex
+- Anterior open bite
+- Edentulous mandible
+E: Easy, fine titration 0.1–0.3 mm.
+
+@5.4
+Q: A disadvantage of Anterior Pull designs is:
++ Force concentration on anterior teeth with greater vertical dimension and tongue irritation
+- Impossible titration
+- Very gross titration only
+- No retention requirement
+E: Anterior loading.
+
+@5.4
+Q: Traction designs compared with compression designs:
++ Impose lower stress, with less early myalgia and tongue pain
+- Impose higher stress
+- Are identical
+- Cannot be titrated
+E: Fig 5.3 taxonomy.
+
+@5.4
+Q: Unattached bilateral interlocking designs may reduce efficacy in supine sleep because:
++ The mandible can drop open when supine
+- They push the mandible backward
+- They prevent titration
+- They increase loop gain
+E: Elastics may help.
+
+@5.4
+Q: Adding elastics to prevent mouth opening with a MAD:
++ Halved supine apnoea frequency in one study
+- Doubled apnoeas
+- Had no effect
+- Caused TMJ dislocation
+E: Mouth opening reduces efficacy.
+
+@5.4
+Q: Increasing the vertical opening of an appliance:
++ Increases pharyngeal collapsibility and reduces efficacy
+- Improves efficacy
+- Has no effect
+- Eliminates side effects
+E: Smaller vertical opening preferred.
+
+@5.4
+Q: Acrylic (PMMA) appliances retain by:
++ Frictional resistance, and can be relined and repaired
+- Flexion into undercuts only
+- Magnetic attachment
+- Suction
+E: Needs ~5 mm clearance.
+
+@5.4
+Q: Nylon (polyamide PA12) appliances:
++ Are lighter, more robust, need ~3 mm clearance, but cannot be relined or repaired
+- Are heavier than acrylic
+- Can be easily relined
+- Need ~8 mm clearance
+E: Better for bruxers.
+
+@5.4
+Q: A disadvantage of nylon appliances is that they:
++ Stain easily and have gross titration (0.5–1 mm)
+- Break easily in bruxers
+- Cannot be CAD-CAM manufactured
+- Need more clearance than acrylic
+E: Polishing is important.
+
+@5.4
+Q: For a heavy bruxer, the preferred appliance material is:
++ Nylon or cobalt-chrome
+- Soft EVA
+- Thin acrylic only
+- Alginate
+E: Less breakage.
+
+@5.4
+Q: Cobalt-chrome in appliances is:
++ Extremely durable and good for bruxers but expensive and limited to framework designs
+- Cheap and flexible
+- Unsuitable for bruxers
+- Easily relined
+E: Material properties.
+
+@5.4
+Q: EVA (ethylene-vinyl acetate) is:
++ Good at impact absorption, but its effectiveness in sleep apnoea appliances is debated
+- The gold standard for OSA appliances
+- Extremely rigid
+- A metal alloy
+E: Common in mouthguards.
+
+@5.4
+Q: Leaving molars uncovered by an appliance risks:
++ Movement or over-eruption of those teeth
+- Better retention
+- Reduced side effects
+- Increased efficacy
+E: All teeth should generally be covered.
+
+@5.4
+Q: Compared with conventional impressions, digital scanning is:
++ More accurate; the midline should be checked before and after scanning
+- Less accurate
+- Unusable for appliances
+- Identical in all respects
+E: Digital workflows.
+
+@5.4
+Q: Appliances marketed on theories of airway and bone remodelling without peer-reviewed evidence are:
++ Not recommended
+- Recommended first line
+- Superior to custom titratable devices
+- Required by guidelines
+E: No demonstrated superiority.
+
+@5.4
+Q: Between-device differences in symptom and AHI outcomes are:
++ Clinically small
+- Very large
+- Determined only by material
+- Determined only by colour
+E: Side effects result from protrusion, not specific design.
+
+@5.4
+Q: Hard materials compared with soft elastomeric appliances:
++ Give better protection against tooth movement
+- Cause more tooth movement
+- Are less durable
+- Cannot cover all teeth
+E: Coverage considerations.
+
+@5.4
+Q: 3D printing (DLP/SLA) of appliances offers:
++ High customisation, accuracy, and potential for fast in-house replacement
+- Lower accuracy than casts
+- No customisation
+- Mandatory metal frameworks
+E: Fabrication methods.
+
+@5.5
+Q: Which finding is included in the "at risk anatomically" checklist?
++ Low hyoid — hyoid to mandibular plane >15 mm
+- High hyoid
+- Shallow palatal vault
+- Mallampati class I
+E: Targeted documentation checklist.
+
+@5.5
+Q: A deep curve of Spee in an appliance candidate means:
++ Insufficient vertical clearance at the second molars — consider not covering them
+- Excellent clearance
+- Contraindication to all OAT
+- Need for maximum protrusion
+E: Inform the laboratory.
+
+@5.5
+Q: For a patient with TMD and a strong gag reflex, preferred design features are:
++ Traction mechanism with minimal vertical opening and bulk
+- Compression mechanism with maximum bulk
+- Full palatal coverage with thick acrylic
+- Maximum vertical opening
+E: Minimise stress and bulk.
+
+@5.5
+Q: Retrognathia favours an appliance and is a specific problem for CPAP because of:
++ Mask leakage
+- Excessive pressure
+- Cost
+- Noise
+E: Skeletal pattern considerations.
+
+@5.5
+Q: A patient with severe arthritis of the hands may benefit from which design?
++ An anterior adjustment mechanism
+- A lateral strap design requiring frequent swapping
+- A design adjusted only with a tiny key on the posterior
+- A non-titratable device
+E: Dexterity matters.
+
+@5.5
+Q: Before starting OAT, allergic rhinitis should be:
++ Treated, without needing to wait for complete resolution
+- Ignored
+- Treated only after titration is complete
+- Considered an absolute contraindication
+E: Nasal patency improves outcomes.
+
+@5.5
+Q: The choice of appliance belongs to:
++ The qualified dentist and the patient
+- The insurer
+- The manufacturer
+- The laboratory
+E: Avoid conflicts of interest.
+
+@5.5
+Q: A tongue retaining device may be considered when:
++ Teeth are missing or jaw alignment precludes a MAD
+- The patient has a full healthy dentition
+- The patient has central apnoea
+- The patient has severe nasal obstruction
+E: Rarely used alternative.
+
+@5.5
+Q: Which sleep study finding favours an adjustable over a fixed MAD?
++ Adjustable MADs have higher response rates in general
+- Fixed devices are better for severe OSA
+- Fixed devices are better for positional OSA
+- There is no difference
+E: Titratability improves outcomes.
+
+@5.5
+Q: In a Class III arch relationship, appliance design must consider:
++ Altered mechanics and direction of unwanted tooth movement
+- That OAT is always contraindicated
+- That protrusion is not required
+- That vertical opening must be maximised
+E: Arch relationship affects mechanics.
+
+@5.5
+Q: Tonsil grade is assessed by:
++ Depressing the tongue and asking the patient to say "ah"
+- Asking the patient to protrude the tongue without phonation
+- Cephalometric radiograph
+- Palpation of the neck
+E: Brodsky technique differs from Mallampati.
+
+@5.5
+Q: Which patient preference factors are relevant to appliance selection?
++ Perceived comfort, ease of use, durability and cost
+- Appliance brand advertising
+- Insurer preference only
+- Laboratory location
+E: Patient preference matters.
+
+@5.5
+Q: A long airway (long neck) and thick neck are listed as:
++ "At risk anatomically" findings
+- Protective factors
+- Contraindications to CPAP
+- Irrelevant
+E: Checklist findings.
+
+@5.5
+Q: Scalloping of the tongue is the practical sign of:
++ A large tongue relative to the arch
+- A small tongue
+- Ankyloglossia only
+- Geographic tongue
+E: Tongue size is hard to define directly.
+
+@5.5
+Q: Severe maxillomandibular deformity in an OAT candidate:
++ May need specialised (e.g. orthognathic) treatment
+- Is ideal for a boil-and-bite device
+- Has no relevance
+- Requires maximum vertical opening
+E: Skeletal pattern.
+
+@5.5
+Q: Bruxism favours which design configuration?
++ A robust material (nylon or cobalt-chrome) and two-piece design
+- Soft EVA monobloc
+- Thin acrylic with partial coverage
+- No appliance under any circumstances
+E: Design selection.
+
+@5.5
+Q: Which statement about nasal patency in appliance selection is correct?
++ It does not itself treat OSA but improves treatment outcome
+- It is irrelevant
+- It cures OSA
+- It contraindicates OAT
+E: Assess and treat first.
+
+@5.5
+Q: Teeth that will anchor an appliance should:
++ Not be mobile
+- Be mobile to allow adaptation
+- Be heavily restored only
+- Be primary teeth
+E: Stable anchorage is essential.
+
+@5.5
+Q: Which factor relating to cognition and vision may influence appliance design?
++ Ability to adjust and handle the appliance independently
+- Ability to read the ESS
+- Colour preference
+- Shoe size
+E: Dexterity, cognition and visual acuity matter.

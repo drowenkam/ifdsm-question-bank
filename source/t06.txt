@@ -1,0 +1,951 @@
+@6.1
+Q: During titration, the dentist should assess efficacy primarily by:
++ Monitoring resolution of the patient's original symptoms and chief complaint
+- Measuring overjet only
+- Checking appliance colour
+- Asking the laboratory
+E: Return to the chief complaint.
+
+@6.1
+Q: Reassessment after insertion should occur within:
++ 30 days, using the same questionnaires as at baseline
+- 6 months
+- 1 year
+- 5 years
+E: Same tools allow quantification of change.
+
+@6.1
+Q: Why should the same questionnaires used at baseline be repeated during titration?
++ So that change can be quantified
+- To satisfy the laboratory
+- Because new tools are illegal
+- To avoid physician involvement
+E: Comparable measures.
+
+@6.1
+Q: Objective data obtained by the dentist (portable monitor or oximetry) are used:
++ For titration purposes only
+- For diagnosis of OSA
+- For final efficacy certification
+- For billing the physician
+E: Scope-of-practice rule.
+
+@6.1
+Q: In a representative titration protocol, the initial setting is:
++ 50% of maximum protrusion
+- 100% of maximum protrusion
+- 0%
+- 90%
+E: Then acclimatisation.
+
+@6.1
+Q: The acclimatisation period in the representative protocol is approximately:
++ 2 weeks
+- 1 day
+- 6 months
+- 1 year
+E: Followed by ~6 weeks of patient-led adjustment.
+
+@6.1
+Q: In the representative protocol, while symptoms persist, the patient advances:
++ One to two increments (0.2–0.4 mm) per night
+- 5 mm per night
+- 2 mm per week
+- Nothing
+E: Small incremental steps.
+
+@6.1
+Q: During titration, the vertical dimension is:
++ Held constant
+- Increased with each step
+- Reduced with each step
+- Adjusted daily
+E: Isolate the protrusive variable.
+
+@6.1
+Q: Titration should continue until:
++ Symptoms are adequately improved or further protrusion causes discomfort
+- Maximum protrusion is reached regardless of symptoms
+- One week has passed
+- The patient stops snoring once
+E: Balance efficacy and tolerance.
+
+@6.1
+Q: Compared with CPAP titration, OAT titration typically takes:
++ Longer — around 2–5 months
+- Less than one night
+- Exactly one week
+- Several years
+E: The TMJ needs time to adapt.
+
+@6.1
+Q: During OAT titration, which typically improves first?
++ Symptoms improve before the AHI
+- AHI improves before symptoms
+- Both improve simultaneously in all patients
+- Neither improves
+E: Hence objective verification.
+
+@6.1
+Q: If symptoms worsen or significant new side effects appear during titration, the dentist should:
++ Return to a previous well-tolerated position or reduce the size of future steps
+- Immediately advance to maximum
+- Discontinue therapy permanently
+- Ignore the side effects
+E: Reverting strategy.
+
+@6.1
+Q: The main reasons for reverting to a previous setting include:
++ Resolving unacceptable side effects and balancing efficacy against tolerance
+- Speeding up titration
+- Reducing appointment numbers
+- Increasing protrusion faster
+E: Avoid premature abandonment.
+
+@6.1
+Q: Why is it important not to abandon titration prematurely over minor side effects?
++ It would give a suboptimal outcome
+- Minor side effects are always permanent
+- It saves time
+- It is required by insurers
+E: Manage, don't abandon.
+
+@6.1
+Q: Which appliance material is easier to titrate because the scale is visible?
++ Nylon
+- Acrylic
+- EVA
+- Alginate
+E: Acrylic needs incremental screw turns.
+
+@6.1
+Q: In long-term series, appliances had been continuously advanced over time partly to:
++ Compensate for the shift in dental occlusion
+- Reduce side effects
+- Improve appearance
+- Satisfy insurers
+E: Occlusal drift reduces effective advancement.
+
+@6.1
+Q: All adjustments, patient feedback and side effects during titration should be:
++ Documented meticulously
+- Kept verbal only
+- Recorded only at the final visit
+- Not recorded
+E: Documentation.
+
+@6.1
+Q: Decisions about using home tests or oximetry should be made in concert with:
++ The patient, medical provider and qualified dentist
+- The dentist alone
+- The laboratory
+- The insurer alone
+E: Collaborative decision.
+
+@6.1
+Q: The relationship between AHI improvement and mandibular advancement is:
++ Dose-dependent
+- Unrelated
+- Inverse
+- Only seen at 100%
+E: Basis for titration.
+
+@6.1
+Q: Titration of an oral appliance can be performed by:
++ The patient or the dentist, following an agreed protocol
+- Only the physician
+- Only the laboratory
+- Only the bed partner
+E: Patient-led adjustment is common.
+
+@6.1
+Q: The dentist must be able to interpret portable monitor results accurately, monitoring mainly:
++ Changes in respiratory sleep parameters with treatment
+- The diagnosis of OSA
+- The diagnosis of narcolepsy
+- Cardiac arrhythmias for treatment
+E: Interpretation for titration.
+
+@6.1
+Q: Rather than advancing straight to 75% when symptoms persist, best practice is to:
++ Always leave leeway and advance gradually
+- Jump to 100%
+- Stop titration
+- Increase vertical opening
+E: Gradual titration.
+
+@6.2
+Q: Excessive salivation early in OAT typically:
++ Settles after a few weeks
+- Is permanent
+- Indicates allergy
+- Requires immediate discontinuation
+E: Common and transient.
+
+@6.2
+Q: A patient reports their bite feels "off" in the morning. This is:
++ A recognised effect that should be monitored and recorded
+- A sign of OSA cure
+- Unrelated to the appliance
+- An indication for maximum protrusion
+E: Bite changes need monitoring.
+
+@6.2
+Q: Long-term appliance use typically decreases:
++ Overbite and overjet
+- Lower facial height
+- Maximum opening
+- Intercanine width
+E: Occlusal change direction.
+
+@6.2
+Q: At follow-up, appliance condition is checked for:
++ Cracks, warping and wear affecting fit and efficacy
+- Colour preference
+- Brand logo
+- Patient's signature
+E: Appliance integrity.
+
+@6.2
+Q: Return of snoring, sleepiness or fatigue at follow-up suggests:
++ Possible loss of effectiveness warranting further assessment and possibly testing
+- Successful treatment
+- Need to reduce protrusion
+- Need to stop all follow-up
+E: Effectiveness review.
+
+@6.2
+Q: Jaw and TMJ discomfort during early OAT:
++ Usually improves, but persistent or severe symptoms need management or adjustment
+- Is always permanent
+- Requires surgery
+- Is never seen
+E: Monitor and manage.
+
+@6.2
+Q: Which question best assesses tolerance and adherence at follow-up?
++ Whether the patient is comfortable wearing it every night and whether side effects reduce use
+- The patient's favourite food
+- The appliance colour
+- The patient's insurer
+E: Adherence review.
+
+@6.2
+Q: Coordination with the sleep physician at follow-up includes:
++ Discussing alternatives if the appliance is intolerable or ineffective
+- Asking the physician to adjust the appliance
+- Requesting the physician fabricate a new device
+- Nothing
+E: Shared care.
+
+@6.2
+Q: Dental and skeletal changes in long-term users should be monitored periodically to:
++ Prevent irreversible problems
+- Increase sales
+- Avoid documentation
+- Replace consent
+E: Monitoring prevents harm.
+
+@6.2
+Q: Gingival irritation from an appliance at follow-up should be:
++ Identified and the appliance adjusted or polished
+- Ignored
+- Treated with maximum protrusion
+- Treated by increasing vertical opening
+E: Soft tissue care.
+
+@6.2
+Q: The approach to transient side effects includes:
++ Reassurance and education on how to manage them
+- Immediate discontinuation
+- Ignoring patient reports
+- Increasing protrusion
+E: Education and support.
+
+@6.2
+Q: Tooth pain on waking during early OAT is:
++ A common short-term side effect, usually transient
+- Diagnostic of caries
+- A reason for permanent discontinuation
+- Never reported
+E: Short-term effects.
+
+@6.2
+Q: Dry mouth during OAT may suggest:
++ Mouth breathing or excessive vertical dimension
+- Excellent nasal breathing
+- Allergy to nylon
+- OSA cure
+E: Consider vertical and nasal factors.
+
+@6.2
+Q: At each follow-up, signs and symptoms should be:
++ Recorded and discussed
+- Ignored if the patient seems happy
+- Recorded only by the physician
+- Recorded annually only
+E: Systematic review.
+
+@6.2
+Q: Confirming retention and stability at follow-up ensures:
++ The appliance maintains the prescribed setting through the night
+- The appliance looks attractive
+- The patient pays
+- Diagnosis is correct
+E: Fit determines efficacy.
+
+@6.2
+Q: Clicking or sounds from the TMJ during OAT should be:
++ Recorded and monitored, with management if persistent or painful
+- Treated with immediate surgery
+- Ignored entirely
+- Treated with maximum protrusion
+E: TMJ review.
+
+@6.2
+Q: A patient's partner reports snoring has returned after 18 months. The first step is to:
++ Assess appliance condition, adherence, weight change and need for re-titration or testing
+- Discharge the patient
+- Increase vertical dimension by 10 mm
+- Tell the patient snoring is normal
+E: Systematic evaluation.
+
+@6.2
+Q: Excessive salivation can be managed initially by:
++ Reassurance and a towel on the pillow
+- Antisialagogue drugs in all cases
+- Stopping treatment
+- Increasing protrusion
+E: Usually resolves in 2–3 weeks.
+
+@6.3
+Q: Subjective feedback alone is insufficient to confirm OAT efficacy because:
++ Appliances may worsen OSA in some patients and placebo effects are known
+- Patients always lie
+- Subjective data are illegal
+- Symptoms never change
+E: Objective verification needed.
+
+@6.3
+Q: Referral for objective testing of appliance efficacy is especially important in:
++ Moderate and severe OSA
+- Primary snoring
+- Patients without OSA
+- Patients who do not snore
+E: Subjective report is unreliable.
+
+@6.3
+Q: Follow-up sleep testing for primary snoring is:
++ Not indicated unless symptoms worsen or fail to resolve
+- Mandatory every year
+- Required before every adjustment
+- Performed by the dentist for diagnosis
+E: Guideline exception.
+
+@6.3
+Q: Which event should trigger referral for repeat objective testing during OAT?
++ Significant weight change or a new relevant comorbidity
+- New appliance case
+- Change of toothbrush
+- Missed hygiene appointment
+E: Disease may progress.
+
+@6.3
+Q: A patient with severe OSA using a MAD as an alternative to CPAP should have:
++ Mandatory follow-up PSG to verify efficacy
+- No follow-up testing
+- Only questionnaire follow-up
+- Dentist-performed diagnosis only
+E: Follow-up PSG is mandatory in these patients.
+
+@6.3
+Q: The referring physician's role after appliance titration is to:
++ Verify efficacy with appropriate sleep testing and remain involved in ongoing evaluation
+- Fabricate the appliance
+- Adjust the appliance
+- Manage dental side effects
+E: Physician verification.
+
+@6.3
+Q: If the follow-up efficacy report is unsatisfactory, the dentist should:
++ Extend titration or review the treatment plan with the patient
+- Discharge the patient
+- Ignore the report
+- Diagnose CSA
+E: Further titration or alternatives.
+
+@6.3
+Q: Objective testing may also be used to:
++ Compare a trial device with the final appliance to confirm optimal protrusion
+- Diagnose caries
+- Measure overjet
+- Select impression material
+E: Testing purposes.
+
+@6.3
+Q: A patient reports complete resolution of snoring and feels much better. The correct conclusion is:
++ Success is not yet established; arrange objective assessment and physician verification
+- Treatment is a complete success
+- The patient no longer needs follow-up
+- The patient can stop wearing the appliance
+E: Complete response needs AHI <5.
+
+@6.3
+Q: Persistent symptoms despite apparent good adherence should lead to:
++ Referral for objective testing and physician review
+- Discharge
+- Increasing vertical dimension
+- Stopping documentation
+E: Reasons to refer.
+
+@6.3
+Q: Why might a patient feel better on an appliance while the AHI is unchanged?
++ Placebo effect
+- Appliances always cure OSA
+- AHI is unrelated to OSA
+- Patients cannot perceive sleep
+E: Known placebo effects.
+
+@6.3
+Q: The dentist should obtain from the physician:
++ A follow-up efficacy report
+- The patient's tax return
+- The patient's CPAP machine
+- Nothing
+E: Shared documentation.
+
+@6.3
+Q: Guiding further adjustment where the optimal setting is uncertain is:
++ A reason to refer for objective testing
+- A reason to discharge
+- Not relevant
+- A reason to diagnose narcolepsy
+E: Objective data guide titration.
+
+@6.3
+Q: Regular written communication with the physician should cover:
++ Treatment plan, progress and follow-up
+- Only billing
+- Only appointment times
+- Nothing
+E: Shared care.
+
+@6.3
+Q: A patient on OAT develops new atrial fibrillation. The most appropriate action is:
++ Refer for objective reassessment of OSA control, as a new relevant comorbidity has arisen
+- Continue without change
+- Increase protrusion to maximum
+- Stop OAT immediately without physician input
+E: New comorbidity triggers retesting.
+
+@6.3
+Q: Which statement about appliances worsening OSA is correct?
++ Appliances may worsen OSA in some patients, which is why objective verification is required
+- Appliances never worsen OSA
+- Appliances always worsen OSA
+- Only CPAP can worsen OSA
+E: Rationale for testing.
+
+@6.3
+Q: Where should final efficacy verification be performed for an OSA patient?
++ By the physician using PSG or an appropriate home sleep test with the appliance in place
+- By the dentist using a questionnaire
+- By the laboratory
+- By the patient using a phone app
+E: Physician responsibility.
+
+@6.4
+Q: The "signs and symptoms only" pathway to the therapeutic position ends with:
++ Verification of efficacy by the physician
+- Discharge by the dentist
+- Dentist diagnosis of cure
+- Laboratory confirmation
+E: Both pathways end with physician verification.
+
+@6.4
+Q: In the "multimethod positioning" pathway, the dentist may use:
++ Pulse oximetry, high-resolution oximetry or HSAT for titration
+- PSG to diagnose OSA
+- CBCT to measure AHI
+- MSLT to titrate
+E: Data supplement titration.
+
+@6.4
+Q: In both titration pathways, the dentist's objective data:
++ Supplement the titration decision but never replace physician verification
+- Replace physician verification
+- Are used for diagnosis
+- Are not permitted
+E: Key principle.
+
+@6.4
+Q: Advancement during titration should continue until:
++ Target values are attained, cannot be improved, or the maximum comfortable position is reached
+- 100% protrusion in all cases
+- The first night of use
+- The laboratory instructs otherwise
+E: Endpoint criteria.
+
+@6.4
+Q: A home sleep test is commonly used to:
++ Confirm efficacy after initial fitting and titration
+- Diagnose narcolepsy
+- Titrate CPAP in children
+- Replace the dental exam
+E: Attended PSG is more comprehensive.
+
+@6.4
+Q: Attended PSG with the appliance in place serves:
++ Both titration and final assessment
+- Only diagnosis
+- Only billing
+- No purpose
+E: Comprehensive assessment.
+
+@6.4
+Q: If the calibrated position is subtherapeutic, the next step is:
++ Physician and dentist discuss further calibration, adjunctive or alternative treatment
+- Discharge the patient
+- Increase vertical dimension to 10 mm
+- Continue without discussion
+E: Collaborative decision.
+
+@6.4
+Q: A patient with a subtherapeutic result may, in consultation with the physician:
++ Elect to continue therapy
+- Never continue therapy
+- Be refused all treatment
+- Be diagnosed by the dentist
+E: Patient–physician joint decision.
+
+@6.4
+Q: The remotely controlled mandibular positioner allows:
++ Single-night objective titration during PSG to identify optimal advancement
+- Fabrication of the appliance
+- Diagnosis of bruxism
+- Measurement of occlusal change
+E: Best predictor of success.
+
+@6.4
+Q: DISE combined with a remotely controlled positioner allows:
++ Titration under direct visualisation of the airway
+- Impression taking
+- Measurement of AHI at home
+- Treatment of TMD
+E: Advanced method.
+
+@6.4
+Q: Trial-based methods outperform prediction from patient characteristics because:
++ Demographic, anthropometric and PSG data only weakly inform efficacy
+- Patient characteristics are illegal to use
+- They are cheaper
+- They avoid physician involvement
+E: Honest limitation.
+
+@6.4
+Q: Following the follow-up study, the sleep physician analyses results using:
++ The AHI to assess severity on treatment
+- Overjet measurements
+- The ESS alone
+- Appliance colour
+E: Physician interpretation.
+
+@6.4
+Q: The follow-up study can also identify:
++ New or persistent adverse effects and need for further titration
+- Caries
+- Periodontal pockets
+- Impression errors
+E: Additional information.
+
+@6.4
+Q: After titration, monitoring frequency recommended is:
++ Monthly for the first six months, then at least annually
+- Weekly for life
+- Every 5 years only
+- Never
+E: Monitoring schedule.
+
+@6.4
+Q: In the multimethod pathway, HSAT or PSG ordered by whom forms part of efficacy verification?
++ The physician
+- The dental laboratory
+- The dental receptionist
+- The patient's employer
+E: Physician-ordered testing.
+
+@6.4
+Q: Which method of predicting appliance outcome is rated "poor"?
++ Clinical/craniofacial prediction
+- Remotely controlled mandibular positioner
+- Nasopharyngoscopy
+- DISE with positioner
+E: Clinical prediction is weakest.
+
+@6.4
+Q: After the dentist selects, fits and titrates the appliance, the patient undergoes:
++ A follow-up study wearing the appliance at the dentist-determined setting
+- A diagnostic study without the appliance only
+- No further testing
+- MSLT only
+E: Process step 2.
+
+@6.4
+Q: Further titration, modification, redesign or remake is appropriate when:
++ Objective results show inadequate AHI reduction or adverse effects
+- The patient is satisfied and AHI <5
+- The appliance is new
+- The physician is unavailable
+E: Responsive management.
+
+@6.4
+Q: High-resolution oximetry in the dentist's hands is used for:
++ Guiding titration
+- Diagnosing OSA
+- Certifying fitness to drive
+- Diagnosing CSA
+E: Titration only.
+
+@6.4
+Q: The two accepted pathways to the therapeutic position differ in that:
++ One adds dentist-administered objective measures before physician verification
+- One excludes the physician
+- One uses no clinical assessment
+- One uses CPAP
+E: Signs-and-symptoms vs multimethod.
+
+@6.5
+Q: The approximate proportion of patients achieving AHI <5 with OAT is:
++ 37%
+- 5%
+- 64%
+- 90%
+E: AHI <10 ~52%; ≥50% reduction ~64%.
+
+@6.5
+Q: The approximate proportion achieving ≥50% AHI reduction with OAT is:
++ 64%
+- 15%
+- 37%
+- 95%
+E: Commonly used "success" definition.
+
+@6.5
+Q: The approximate proportion achieving AHI <10 with OAT is:
++ 52%
+- 10%
+- 37%
+- 85%
+E: Near-complete response.
+
+@6.5
+Q: OAT reduces snoring by approximately:
++ 45%, but does not eliminate it
+- 5%
+- 100%
+- 90%
+E: Snoring reduced, not abolished.
+
+@6.5
+Q: In appliance trials, ESS changed on average from approximately:
++ 11.2 to 7.8
+- 7.8 to 11.2
+- 20 to 2
+- No change
+E: Reduction in sleepiness.
+
+@6.5
+Q: Patient-reported improvement in sleep quality and snoring with OAT is approximately:
++ 90–95%
+- 10–15%
+- 30–40%
+- 50%
+E: High satisfaction.
+
+@6.5
+Q: Mean blood pressure reduction reported with OAT is approximately:
++ 4.2 mmHg
+- 0.1 mmHg
+- 20 mmHg
+- 40 mmHg
+E: Similar to CPAP.
+
+@6.5
+Q: OAT is said to cure mild–moderate OSA in approximately:
++ 40–50%, with significant improvement in a further 10–20%
+- 5%
+- 90–100%
+- None
+E: Efficacy figures.
+
+@6.5
+Q: The best way to state OAT efficacy in an examination is to:
++ Quote the figure with its definition (e.g. ~64% achieve ≥50% reduction but ~37% reach AHI <5)
+- Quote a single percentage without definition
+- State that OAT always cures OSA
+- State that OAT never works
+E: Definitions explain variation.
+
+@6.5
+Q: Why does the real-world effectiveness of OAT decline over time?
++ Discontinuation, natural progression of AHI with age and weight gain, and bite change
+- Appliances become more effective
+- OSA always resolves
+- Patients sleep more
+E: Long-term considerations.
+
+@6.5
+Q: Sustained effectiveness of OAT has been reported in some studies for up to:
++ Five years
+- One week
+- Three months
+- 50 years
+E: Long-term efficacy good to ~10 years in some reports.
+
+@6.5
+Q: OAT is generally not ideal above which BMI?
++ 35 kg/m²
+- 20 kg/m²
+- 25 kg/m²
+- 28 kg/m²
+E: Higher BMI predicts failure.
+
+@6.5
+Q: A patient has persistent snoring on OAT but no other symptoms. Before accepting this, the dentist should:
++ Verify OSA control objectively, as persistent snoring may indicate insufficient apnoea control
+- Accept it as success
+- Discharge the patient
+- Increase vertical dimension
+E: Snoring as a marker.
+
+@6.5
+Q: A patient has a residual AHI of 10 on OAT with no symptoms. A reasonable consideration is:
++ Weigh the small residual risk against the burden of escalation, considering effective AHI
+- Immediate surgery
+- Discontinue all therapy
+- Diagnose CSA
+E: Treat the patient, not just the number.
+
+@6.5
+Q: A residual AHI of 5–15 on treatment carries:
++ Only a small risk to health
+- A large immediate risk of death
+- No risk at all
+- Risk equal to untreated severe OSA
+E: Context for residual disease.
+
+@6.5
+Q: Residual AHI with ongoing symptoms on OAT represents:
++ Inadequate control requiring further titration, combination therapy or referral
+- Complete response
+- Acceptable outcome without action
+- Primary snoring
+E: Clearly inadequate.
+
+@6.5
+Q: Long-term dental changes that limit OAT include:
++ Reduced overbite and overjet with fewer occlusal contacts
+- Increased overjet
+- Increased overbite
+- Increased occlusal contacts
+E: Limitation of therapy.
+
+@6.5
+Q: OAT effects on sleep architecture include increases in:
++ Slow-wave sleep percentage and REM duration
+- N1
+- Arousal index
+- WASO
+E: Improved architecture.
+
+@6.5
+Q: Health outcomes of OAT compared with CPAP in the short term, even in severe OSA, are:
++ Comparable, with greater adherence to the splint
+- Much worse
+- Much better
+- Not studied
+E: Phillips 2013 and later work.
+
+@6.5
+Q: Published OAT "success" figures range from 37% to 95% mainly because:
++ Definitions of success differ
+- Appliances differ in colour
+- Patients differ in height
+- Sleep labs differ in location
+E: Definition-driven variation.
+
+@6.5
+Q: Apnoea control with OAT ranges from 50–70% depending on:
++ Initial severity
+- Appliance colour
+- Patient height
+- Impression material
+E: Severity matters.
+
+@6.5
+Q: OAT benefits beyond AHI include improvements in:
++ Endothelial and left ventricular function
+- Bone density
+- Visual acuity
+- Hearing
+E: Cardiovascular benefits.
+
+@6.6
+Q: The AADSM definition of OAT compliance is wearing the appliance:
++ For ≥80% of the night on ≥5 nights per week
+- For ≥4 hours on 70% of nights
+- Every night without exception
+- For ≥2 hours per night
+E: Patients should also sleep ≥7 hours.
+
+@6.6
+Q: The AADSM compliance definition also specifies that patients should sleep a minimum of:
++ 7 hours
+- 4 hours
+- 5 hours
+- 10 hours
+E: And wear the appliance for the duration of sleep.
+
+@6.6
+Q: Objective OAT adherence at 1 month is approximately:
++ 80%
+- 20%
+- 40%
+- 99%
+E: Falling to ~67% at 6 months, then stable.
+
+@6.6
+Q: Objective OAT adherence at 6 months is approximately:
++ 67%
+- 20%
+- 40%
+- 95%
+E: Then stable through 1 year.
+
+@6.6
+Q: Mean objective appliance use is approximately:
++ 6.1–6.7 hours per night
+- 1–2 hours per night
+- 3 hours per night
+- 10 hours per night
+E: On ~83% of days per week.
+
+@6.6
+Q: How do objective and subjective estimates of OAT use compare?
++ They are broadly similar, unlike CPAP where patients over-report
+- Patients greatly under-report OAT use
+- Patients greatly over-report OAT use
+- Objective data are not available
+E: Notable contrast with CPAP.
+
+@6.6
+Q: Embedded compliance micro-sensors in appliances typically measure:
++ Temperature to determine wear time
+- AHI
+- Oxygen saturation in all models
+- EEG
+E: Some also measure head position; newer models may incorporate oximetry.
+
+@6.6
+Q: The single most important diagnostic function of objective compliance monitoring is:
++ Distinguishing device inefficacy from poor compliance
+- Billing
+- Marketing
+- Measuring overjet
+E: Know whether to advance or address behaviour.
+
+@6.6
+Q: A challenge of embedding compliance sensors in appliances is:
++ Saliva ingress and power supply/battery toxicity
+- They are too large to fit any appliance
+- They measure AHI incorrectly
+- They require CPAP
+E: Technical challenges.
+
+@6.6
+Q: Which factor is associated with better OAT adherence?
++ Perceived benefit, device comfort, larger baseline overjet and being partnered
+- Psychological comorbidity
+- Dental discomfort
+- Loss of bed partner
+E: Adherence predictors.
+
+@6.6
+Q: Why may loss of a bed partner reduce appliance adherence?
++ Benefit (reduced snoring) is perceived by the partner while side effects are experienced by the wearer
+- Appliances require two people to insert
+- Partners pay for appliances
+- Partners measure AHI
+E: Reason for treatment disappears.
+
+@6.6
+Q: The four most important factors in a patient's choice of treatment are:
++ Effectiveness, transportability, embarrassment and cost
+- Colour, size, weight and smell
+- Brand, laboratory, material and insurer
+- Age, sex, height and weight
+E: Patient decision factors.
+
+@6.6
+Q: Non-compliant patients should be:
++ Referred to their medical provider to consider alternative therapies
+- Discharged without notification
+- Advanced to maximum protrusion
+- Told OSA is not important
+E: Untreated OSA carries long-term risk.
+
+@6.6
+Q: Discontinuation of OAT specifically due to side effects is approximately:
++ 7.5%
+- 0.1%
+- 30%
+- 60%
+E: Side effects contribute to 20–30% of all discontinuations.
+
+@6.6
+Q: Compliance monitoring supports legal and insurance documentation, notably in:
++ Safety-sensitive transport occupations
+- Paediatric patients only
+- Patients with no job
+- Cosmetic dentistry
+E: Proof of compliance may be mandatory.
+
+@6.6
+Q: Using CPAP compliance standards (≥4 h/night), approximately what proportion of appliance users would be compliant?
++ ~92%
+- ~20%
+- ~50%
+- ~10%
+E: Reflects high appliance use.
+
+@6.6
+Q: Appliances are generally replaced approximately every:
++ 2–3 years, depending on usage and hygiene
+- 3 months
+- 10 years
+- 25 years
+E: Assess integrity annually.
+
+@6.6
+Q: For long-term efficacy, patients should be referred to their physician for reassessment approximately every:
++ Five years
+- Month
+- Six months
+- Twenty years
+E: OSA worsens with age and weight gain.
+
+@6.6
+Q: If maximum advancement is reached and symptoms persist at the six-month review, the dentist should:
++ Refer to the referring physician, who may refer to a sleep specialist
+- Continue indefinitely without change
+- Diagnose CSA
+- Discharge the patient
+E: Step 5 of provision.
+
+@6.6
+Q: A residual AHI in a poorly adherent patient is primarily:
++ A compliance problem, not a titration problem
+- A titration problem only
+- Evidence of CSA
+- Evidence of appliance cure
+E: Why objective adherence data matter.

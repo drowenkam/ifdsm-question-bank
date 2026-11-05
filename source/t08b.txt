@@ -1,0 +1,687 @@
+@8.6
+Q: The most widely used paediatric SDB screening questionnaire is:
++ The Paediatric Sleep Questionnaire (PSQ)
+- The STOP-BANG
+- The Berlin questionnaire
+- The NoSAS score
+E: PSQ has four subscales.
+
+@8.6
+Q: The PSQ has how many items in its SDB scale?
++ 22
+- 8
+- 11
+- 50
+E: >8 of 22 positive (>0.33) suggests SDB.
+
+@8.6
+Q: The four PSQ subscales are:
++ Breathing, behaviour, sleepiness and other
+- Snoring, BMI, age and neck
+- Pain, mood, fatigue and appetite
+- Teeth, gums, tongue and palate
+E: Structure of PSQ.
+
+@8.6
+Q: The ESS-CHAD is a modified paediatric Epworth for ages:
++ 6–16
+- 0–2
+- 18–65
+- 65+
+E: ≥10 indicates sleepiness.
+
+@8.6
+Q: The OSA-18 questionnaire assesses:
++ Quality of life and SDB symptoms
+- Bruxism only
+- Dental caries risk
+- Tonsil size
+E: Complementary to the PSQ.
+
+@8.6
+Q: FAIREST-6 is:
++ A dental screening tool of six red flags for paediatric SDB
+- A CPAP mask
+- An adult questionnaire
+- A cephalometric analysis
+E: Every item is routinely observed by dentists.
+
+@8.6
+Q: Which is one of the FAIREST-6 red flags?
++ Ankyloglossia (restricted tongue range of motion)
+- Dental caries
+- Gingival recession
+- Fluorosis
+E: Six red flags.
+
+@8.6
+Q: The FAIREST-6 mouth-breathing item tests:
++ Difficulty with sustained nasal breathing for three minutes
+- Ability to whistle
+- Ability to swallow
+- Lip strength with a dynamometer
+E: Functional test.
+
+@8.6
+Q: FAIREST-6 risk grading is:
++ 2 = mild, 4 = moderate, 6 = severe red flags
+- 1 = mild, 2 = moderate, 3 = severe
+- 5 = mild, 10 = moderate, 15 = severe
+- Not graded
+E: Grading scale.
+
+@8.6
+Q: Which of the following is NOT a FAIREST-6 item?
++ Gingival bleeding
+- Mentalis strain
+- Dental wear
+- Narrow palate
+E: The six: mouth breathing, mentalis strain, tonsils, ankyloglossia, dental wear, narrow palate.
+
+@8.6
+Q: Brodsky grade 3 tonsils occupy:
++ 50–75% of the space between the anterior pillars
+- <25%
+- 25–50%
+- >75%
+E: Brodsky 0–4.
+
+@8.6
+Q: Brodsky grade 0 means the tonsils are:
++ Within the tonsillar pillars
+- Meeting in the midline
+- Occupying 50–75%
+- Absent from the mouth after surgery only
+E: Grade 0.
+
+@8.6
+Q: Brodsky grade 4 tonsils occupy:
++ >75% of the oropharyngeal width, or meet in the midline
+- <25%
+- 25–50%
+- 50–75%
+E: "Kissing tonsils".
+
+@8.6
+Q: Tonsillar hypertrophy obstructing more than what percentage of the airway warrants further evaluation?
++ 50%
+- 10%
+- 25%
+- 90%
+E: Though size doesn't correlate with severity.
+
+@8.6
+Q: Modified Mallampati and Brodsky classifications differ in that:
++ Mallampati grades oral airway patency by tongue position; Brodsky grades tonsil size
+- Both grade tonsil size
+- Both grade tongue position
+- Mallampati is only for children
+E: Frequently confused.
+
+@8.6
+Q: In paediatric screening, dentists should assess:
++ Height, weight and neck size, and look for growth delay
+- Only caries
+- Only orthodontic need
+- Only tooth colour
+E: Growth assessment.
+
+@8.6
+Q: Behavioural features of paediatric SDB closely resemble:
++ ADHD
+- Autism in all cases
+- Narcolepsy
+- Schizophrenia
+E: Hyperactivity, irritability, inattention.
+
+@8.6
+Q: Which history items increase paediatric SDB risk?
++ Allergies, asthma, recurrent ear/throat infections, prematurity and family history of OSA
+- Fluoride use
+- Brushing twice daily
+- Regular dental visits
+E: History items.
+
+@8.6
+Q: Nasal resistance in children can be measured by:
++ Rhinometry
+- Spirometry only
+- Cephalometry
+- Pulse oximetry
+E: Breathing habits assessment.
+
+@8.6
+Q: Jaw growth in growing patients with structural concerns should be:
++ Monitored regularly, as intervention may be considered if concerns persist
+- Ignored
+- Treated immediately with surgery
+- Assessed only after age 18
+E: Monitoring.
+
+@8.6
+Q: Tongue posture abnormalities relevant to paediatric screening include:
++ Tongue tie, low posture and tongue thrusting
+- Tongue piercing
+- Tongue colour
+- Taste disturbance
+E: Tongue function.
+
+@8.7
+Q: First-line treatment for paediatric OSA with adenotonsillar hypertrophy is:
++ Adenotonsillectomy
+- CPAP
+- Rapid maxillary expansion
+- Intranasal corticosteroid
+E: Most effective surgical therapy.
+
+@8.7
+Q: A recognised limitation of adenotonsillectomy is that:
++ Post-operative persistence of OSA is common
+- It never improves OSA
+- It always cures OSA
+- It worsens behaviour
+E: Residual OSA occurs.
+
+@8.7
+Q: Risk factors for adenotonsillectomy failure include:
++ Obesity, high pre-operative AHI, age <3 or ≥7, craniofacial disproportion, family history and asthma
+- Age 4–6 and normal weight
+- Low AHI
+- Absence of asthma
+E: Post-op PSG suggested in high-risk children.
+
+@8.7
+Q: Overnight admission after adenotonsillectomy should be considered when the pre-operative SpO2 nadir is below:
++ 80%
+- 95%
+- 92%
+- 60%
+E: Or AHI ≥24/h or peak PCO2 ≥60 mmHg.
+
+@8.7
+Q: Overnight admission after adenotonsillectomy should be considered when the pre-operative AHI is at least:
++ 24 per hour
+- 1 per hour
+- 5 per hour
+- 50 per hour
+E: Increased respiratory compromise risk.
+
+@8.7
+Q: Overnight admission should be considered when the pre-operative peak PCO2 is at least:
++ 60 mmHg
+- 30 mmHg
+- 45 mmHg
+- 90 mmHg
+E: Admission criteria.
+
+@8.7
+Q: A submucous cleft palate in a child requiring adenotonsillectomy is:
++ A relative contraindication; partial adenotonsillectomy may be performed
+- An absolute contraindication
+- An indication for CPAP only
+- Irrelevant
+E: Relative contraindication.
+
+@8.7
+Q: The regrowth risk after partial tonsillectomy is approximately:
++ 0.5–16%
+- 0%
+- 50%
+- 90%
+E: Requires long-term monitoring.
+
+@8.7
+Q: An advantage of partial tonsillectomy is:
++ Reduced morbidity, less post-operative pain and earlier return to normal diet
+- Zero regrowth risk
+- Less intraoperative blood loss
+- No need for follow-up
+E: Trade-offs.
+
+@8.7
+Q: Paediatric CPAP adherence is approximately:
++ 50%
+- 10%
+- 90%
+- 100%
+E: Improved by respiratory therapist support.
+
+@8.7
+Q: Paediatric CPAP is indicated when:
++ Surgery is contraindicated or the response to surgery is inadequate
+- As first-line in all children with tonsillar hypertrophy
+- For primary snoring
+- Never
+E: Includes family preference against surgery.
+
+@8.7
+Q: Why must paediatric CPAP pressure be reassessed periodically?
++ Requirements change with growth and development
+- CPAP machines wear out yearly
+- Children stop snoring
+- Pressure never changes
+E: PSG for titration.
+
+@8.7
+Q: Intranasal corticosteroids in paediatric OSA are used for:
++ Mild OSA only, not moderate or severe
+- Severe OSA as first-line
+- All severities
+- Central apnoea
+E: Small AHI reduction; follow-up needed.
+
+@8.7
+Q: Leukotriene receptor antagonists in paediatric OSA may help:
++ In mild cases or where allergic rhinitis contributes
+- In severe OSA as monotherapy
+- In central apnoea
+- In narcolepsy
+E: Medical therapy.
+
+@8.7
+Q: Rapid maxillary expansion increases the transverse diameter of the hard palate by:
++ Reopening the mid-palatal suture with a fixed expansion appliance
+- Removing palatal bone
+- Advancing the mandible
+- Lengthening the soft palate
+E: Expansion mechanism.
+
+@8.7
+Q: Reported mean AHI reduction with RME in children with maxillary constriction is approximately:
++ 4.8 events/h (~70%)
+- 0.1 events/h
+- 50 events/h
+- No reduction
+E: But responses vary widely.
+
+@8.7
+Q: In bi-maxillary expansion studies, approximately what proportion of children became objectively worse?
++ One third
+- None
+- One tenth
+- All
+E: Exam trap.
+
+@8.7
+Q: Which statement about expansion for paediatric OSA is correct?
++ It should be considered only for selected patients, with OSA diagnosed by a physician
+- It is a reliable cure for all children
+- It is first-line for all paediatric OSA
+- It never affects the airway
+E: Honest evidence.
+
+@8.7
+Q: After RME, normally mineralised structure in the mid-palatal suture is rebuilt after approximately:
++ 3–4 months
+- 1 week
+- 2 years
+- 10 years
+E: Expansion timing.
+
+@8.7
+Q: Mandibular advancement orthodontics in children is mainly indicated for:
++ Class II correction with retrognathia, potentially alongside expansion
+- Class III correction
+- Anterior open bite only
+- Primary dentition crossbite only
+E: Two orthodontic treatments that may change airway.
+
+@8.7
+Q: Which factor inflates uncontrolled before-and-after results of paediatric expansion?
++ Natural regression of symptoms in some children
+- Measurement in adults
+- Excess sample size
+- Placebo appliances
+E: Natural history.
+
+@8.7
+Q: Watchful waiting with close monitoring may be appropriate for:
++ Mild snoring or mild OSA
+- Severe OSA with SpO2 nadir 70%
+- Down syndrome with AHI 30
+- Children with failure to thrive
+E: Conservative option.
+
+@8.7
+Q: Effective paediatric OSA management involves:
++ A multidisciplinary team including paediatricians, ENT, sleep medicine and orthodontists
+- Dentists alone
+- Only ENT
+- Only the parents
+E: Multidisciplinary care.
+
+@8.7
+Q: Expansion sphincter pharyngoplasty in children is used for:
++ Refractory cases
+- First-line therapy
+- Primary snoring
+- Bruxism
+E: Other surgery.
+
+@8.7
+Q: Tracheotomy for paediatric OSA is:
++ A last resort — very effective but with much morbidity
+- First-line
+- Ineffective
+- Recommended for mild OSA
+E: Last resort.
+
+@8.7
+Q: Children with an acute URI on the day of adenotonsillectomy should:
++ Be rescheduled or monitored closely
+- Proceed without concern
+- Receive CPAP only
+- Be discharged permanently
+E: Note chronic rhinorrhoea may exist without infection.
+
+@8.7
+Q: Why may adenotonsillectomy be insufficient in children with Down syndrome?
++ It does not address other sites of obstruction such as macroglossia and hypotonia
+- Down syndrome children have no tonsils
+- OSA does not occur in Down syndrome
+- Surgery is always curative
+E: Multilevel factors.
+
+@8.8
+Q: The AHI threshold for abnormal obstructive breathing in children is:
++ ≥1 per hour
+- ≥5 per hour
+- ≥15 per hour
+- ≥30 per hour
+E: Children normally have very stable breathing.
+
+@8.8
+Q: Why are paediatric AHI thresholds lower than adult thresholds?
++ Children normally have very stable breathing, and consequences occur at lower event rates
+- Children sleep less
+- Adult sensors are less accurate
+- Children have no REM
+E: Rationale.
+
+@8.8
+Q: Paediatric AHI thresholds are approximately what fraction of adult thresholds?
++ One third
+- Double
+- One tenth
+- Equal
+E: 1/5/10 vs 5/15/30.
+
+@8.8
+Q: The leading cause of OSA in children compared with adults is:
++ Enlarged tonsils and adenoids in children; obesity, age and male sex in adults
+- Obesity in children; tonsils in adults
+- Smoking in children
+- Alcohol in children
+E: Aetiological difference.
+
+@8.8
+Q: In children, the outlook after early treatment is that:
++ Early treatment often resolves the condition entirely
+- OSA is always lifelong
+- Treatment never helps
+- Symptoms always worsen
+E: Adults usually need chronic management.
+
+@8.8
+Q: OSA in adults is generally:
++ A chronic condition requiring continuous management
+- Self-limiting within weeks
+- Cured by adenotonsillectomy
+- Not associated with cardiovascular risk
+E: Outlook difference.
+
+@8.8
+Q: First-line treatment differs between children and adults in that:
++ Children: adenotonsillectomy; adults: lifestyle, CPAP or OAT
+- Children: CPAP; adults: adenotonsillectomy
+- Both: orthodontic expansion
+- Both: hypoglossal nerve stimulation
+E: Treatment difference.
+
+@8.8
+Q: End-tidal CO2 monitoring is:
++ A standard PSG measurement in children
+- Never used in children
+- Used only in adults
+- A dental screening tool
+E: Diagnostic difference.
+
+@8.8
+Q: A child with an AHI of 12/h has:
++ Severe OSA
+- Mild OSA
+- Moderate OSA
+- Normal breathing
+E: ≥10 is severe in children.
+
+@8.8
+Q: Bed-wetting and behaviour mimicking ADHD are typical presentations of OSA in:
++ Children
+- Adults
+- Elderly only
+- Neither
+E: Presentation differences.
+
+@8.8
+Q: Decreased libido and mood swings are typical presentations of OSA in:
++ Adults
+- Pre-school children
+- Infants
+- Neither
+E: Adult features.
+
+@8.8
+Q: Where tonsils and adenoids shrink with age, children's symptoms:
++ May improve, though early diagnosis and treatment still benefit many
+- Always worsen
+- Never change
+- Become adult OSA in all cases
+E: Natural history.
+
+@8.8
+Q: Which diagnostic approach is common in adults but not recommended as standalone in children?
++ Home sleep apnoea testing
+- Attended PSG
+- Clinical evaluation
+- End-tidal CO2 monitoring
+E: HSAT is emerging in paediatrics.
+
+@8.8
+Q: The age above which adult scoring criteria generally apply is:
++ 12 years
+- 6 years
+- 15 years
+- 21 years
+E: Age boundary.
+
+@8.9
+Q: Which genetic syndrome is associated with midfacial hypoplasia and macroglossia predisposing to OSA?
++ Down syndrome
+- Turner syndrome
+- Marfan syndrome only
+- Klinefelter syndrome
+E: Also Prader–Willi, Crouzon and cleft lip/palate.
+
+@8.9
+Q: In Prader–Willi syndrome, OSA risk relates to:
++ Hypersomnolence, obesity and varying airway obstruction
+- Macrognathia
+- Hypertonia
+- Large nasal airway
+E: Syndromic risk.
+
+@8.9
+Q: Children with Down syndrome should be referred for polysomnography by age:
++ 4 years
+- 1 year
+- 8 years
+- Only if symptomatic
+E: AAPD recommendation.
+
+@8.9
+Q: Why should children with Down syndrome have PSG regardless of reported symptoms?
++ Parental perception correlates weakly with PSG, and 53.8% of affected children had no symptoms
+- PSG is cheaper than clinical assessment
+- They always have central apnoea
+- Symptoms are always severe
+E: Objective screening justified.
+
+@8.9
+Q: Children with Duchenne muscular dystrophy are susceptible to SDB because of:
++ Weakened respiratory muscles leading to hypoventilation
+- Large tonsils only
+- Macroglossia only
+- High loop gain only
+E: Neuromuscular disease.
+
+@8.9
+Q: Crouzon syndrome predisposes to OSA mainly through:
++ Midfacial hypoplasia narrowing the airway
+- Macrognathia
+- Hypertonia
+- Large nasal cavity
+E: Craniofacial syndromes.
+
+@8.9
+Q: Why is early diagnosis of SDB important in children with possible neuromuscular disease?
++ Some signs of neuromuscular disease may first present as SDB
+- SDB never occurs in neuromuscular disease
+- It avoids genetic testing
+- It replaces neurology referral
+E: Early recognition.
+
+@8.9
+Q: Poland syndrome may be associated with:
++ Sleep-related hypoventilation from restrictive pulmonary dysfunction
+- Macroglossia
+- Tonsillar hypertrophy
+- Narcolepsy
+E: Pulmonary condition.
+
+@8.9
+Q: Medical conditions contributing to paediatric SDB via inflammation or obstruction include:
++ Asthma, allergic rhinitis and GORD
+- Dental caries
+- Myopia
+- Eczema only
+E: Underlying conditions.
+
+@8.9
+Q: Predisposing factors for OSA in Down syndrome include:
++ Macroglossia, midface hypoplasia, overweight and poor muscle tone
+- Large maxilla and hypertonia
+- Small tongue and broad midface
+- Reduced adenoid tissue only
+E: Multifactorial.
+
+@8.9
+Q: SDB with underlying conditions in children may cause:
++ Behavioural problems, cognitive impairment, cardiovascular strain and growth delay
+- Improved growth
+- No consequences
+- Only dental crowding
+E: Consequences.
+
+@8.9
+Q: Cleft lip and palate is associated with SDB because of:
++ Craniofacial abnormalities that may narrow the airway
+- Increased nasal airflow
+- Hypertonia
+- Increased oral volume
+E: Syndromic risk.
+
+@8.10
+Q: A child with multiple SDB risk factors identified by the dentist should be referred to:
++ A paediatric sleep physician or ENT for comprehensive evaluation
+- A cosmetic dentist
+- A dietitian only
+- No one
+E: Referral pathway.
+
+@8.10
+Q: The gold standard for diagnosing paediatric OSA is:
++ Overnight attended in-laboratory PSG
+- Home oximetry
+- Questionnaire alone
+- CBCT airway analysis
+E: Gold standard.
+
+@8.10
+Q: PSG is especially indicated before adenotonsillectomy in children:
++ Under 2 years, or with obesity, craniofacial/neuromuscular disorders or Down syndrome
+- Over 10 years only
+- With normal weight only
+- With no symptoms
+E: Indications.
+
+@8.10
+Q: Nocturnal oximetry in children is:
++ A simple screen with good predictive value in high-risk children
+- The gold standard
+- Useless
+- Contraindicated
+E: Other tools.
+
+@8.10
+Q: Respiratory polygraphy in children is limited by:
++ Lack of sleep staging and less validation
+- Excess cost compared with PSG
+- Inability to measure airflow
+- Need for anaesthesia
+E: Limitations.
+
+@8.10
+Q: CBCT airway analysis for diagnosing paediatric OSA is:
++ Not recommended because the airway is dynamic and reliability and validity are questionable
+- The gold standard
+- Recommended for all children
+- More accurate than PSG
+E: Exam trap.
+
+@8.10
+Q: Why is CBCT unreliable for paediatric airway assessment?
++ The most frequent collapse sites (nasopharynx, hypopharynx, adenoid region) are least well visualised
+- It cannot image the oropharynx
+- It uses no radiation
+- It is too fast
+E: Reliability issue.
+
+@8.10
+Q: Before a dentist begins orthodontic expansion intended to improve a child's OSA:
++ The OSA must have been diagnosed by a physician
+- No diagnosis is required
+- A CBCT is sufficient for diagnosis
+- A PSQ score is sufficient for diagnosis
+E: Physician diagnosis first.
+
+@8.10
+Q: Parent and caregiver education should cover:
++ Symptoms, risks, health impacts, importance of early treatment and sleep hygiene
+- Only appointment times
+- Only fees
+- Nothing
+E: Education role.
+
+@8.10
+Q: Collaboration with paediatricians is important because:
++ SDB often overlaps with other conditions requiring coordinated treatment and monitoring
+- Paediatricians fabricate appliances
+- Dentists diagnose OSA
+- It is optional
+E: Coordinated care.
+
+@8.10
+Q: A 5-year-old snores nightly, is hyperactive and wets the bed. After screening, the dentist should NOT:
++ Perform CBCT airway analysis or begin expansion to treat OSA before physician diagnosis
+- Take a medical and family history
+- Administer the PSQ
+- Refer to a paediatric sleep physician or ENT
+E: Appropriate paediatric pathway.
+
+@8.10
+Q: Daytime nap studies in children are:
++ Less accurate than overnight PSG
+- More accurate than PSG
+- The gold standard
+- Recommended for all children
+E: Other tools.

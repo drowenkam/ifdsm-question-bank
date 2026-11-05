@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#EDF0F6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#10162B" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="IFDSM Q-bank">
+<meta name="description" content="1,502 single-best-answer practice questions for the IFDSM dental sleep medicine examination.">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+<title>IFDSM question bank</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,500;7..72,600&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#EDF0F6; --surface:#FFFFFF; --surface-2:#F5F7FB; --ink:#172042; --muted:#5A6382; --line:#D5DAE6;
+  --accent:#5B4BB7; --accent-soft:#E9E6F8; --accent-ink:#FFFFFF;
+  --good:#23704B; --good-soft:#E1F1E8; --bad:#AE3F2A; --bad-soft:#F8E5E0;
+  --serif:"Literata", Georgia, "Times New Roman", serif;
+  --sans:"Public Sans", system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+  color-scheme: light;
+  box-sizing:border-box;
+  padding-top:env(safe-area-inset-top,0px);
+  padding-bottom:env(safe-area-inset-bottom,0px);
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#10162B; --surface:#18203A; --surface-2:#1E2745; --ink:#E7EAF4; --muted:#9BA4C2; --line:#2E3858;
+    --accent:#A99BF0; --accent-soft:#2A2752; --accent-ink:#14112E;
+    --good:#62C795; --good-soft:#163A2B; --bad:#F2917A; --bad-soft:#47231C;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#10162B; --surface:#18203A; --surface-2:#1E2745; --ink:#E7EAF4; --muted:#9BA4C2; --line:#2E3858;
+  --accent:#A99BF0; --accent-soft:#2A2752; --accent-ink:#14112E;
+  --good:#62C795; --good-soft:#163A2B; --bad:#F2917A; --bad-soft:#47231C;
+  color-scheme: dark;
+}
+*,*::before,*::after{box-sizing:border-box}
+html{scroll-padding-top:env(safe-area-inset-top,0px);-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.5}
+button,select,input{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px;border-radius:6px}
+.wrap{max-width:1180px;margin:0 auto;padding:28px 20px 64px}
+
+/* Header with hypnogram */
+header.top{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.15fr);gap:28px;align-items:end;margin-bottom:28px}
+header.top h1{font-family:var(--serif);font-weight:600;font-size:clamp(1.9rem,3.6vw,2.7rem);line-height:1.08;margin:0 0 10px;letter-spacing:-.01em}
+header.top p{margin:0;color:var(--muted);max-width:46ch}
+.hyp{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px 10px}
+.hyp-head{display:flex;justify-content:space-between;gap:12px;font-size:.86rem;color:var(--muted);margin-bottom:4px}
+.hyp-head strong{color:var(--ink);font-weight:600}
+.hyp svg{display:block;width:100%;height:auto}
+.hyp .col{cursor:pointer}
+.hyp .col:hover rect.hit, .hyp .col.sel rect.hit{fill:var(--accent-soft)}
+.hyp text{font-family:var(--sans);fill:var(--muted)}
+
+/* Layout */
+.layout{display:grid;grid-template-columns:320px minmax(0,1fr);gap:24px;align-items:start}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px}
+.side .panel+.panel{margin-top:16px}
+.side h2,.main h2{font-size:1rem;margin:0 0 12px;font-weight:700}
+.field{margin-bottom:14px}
+.field>label,.field>.lbl{display:block;font-size:.85rem;font-weight:600;margin-bottom:6px}
+select,input[type=search]{width:100%;padding:9px 10px;border:1px solid var(--line);border-radius:8px;background:var(--surface-2)}
+.seg{display:grid;grid-template-columns:repeat(3,1fr);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+.seg button{border:0;background:var(--surface-2);padding:9px 6px;font-size:.88rem;font-weight:600;cursor:pointer;border-left:1px solid var(--line)}
+.seg button:first-child{border-left:0}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--accent-ink)}
+.radios label{display:flex;gap:8px;align-items:center;font-size:.92rem;padding:3px 0;cursor:pointer}
+.check{display:flex;gap:8px;align-items:center;font-size:.92rem;cursor:pointer}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border:1px solid var(--line);background:var(--surface-2);border-radius:10px;padding:10px 16px;font-weight:600;cursor:pointer}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.btn:disabled{opacity:.45;cursor:not-allowed}
+.btn.block{width:100%}
+.btn.quiet{background:transparent}
+.hint{font-size:.82rem;color:var(--muted);margin:8px 0 0}
+.stat-list{list-style:none;margin:0;padding:0;font-size:.9rem}
+.stat-list li{display:grid;grid-template-columns:1.6em minmax(0,1fr) auto;gap:8px;padding:5px 0;border-top:1px solid var(--line)}
+.stat-list li:first-child{border-top:0}
+.stat-list .num{color:var(--muted);font-variant-numeric:tabular-nums}
+.stat-list .pct{font-variant-numeric:tabular-nums;font-weight:600}
+
+/* Question card */
+.qcard{background:var(--surface);border:1px solid var(--line);border-radius:16px;padding:26px 28px}
+.qtop{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;font-size:.86rem;color:var(--muted);margin-bottom:14px}
+.qtop .lo{color:var(--accent);font-weight:600}
+.bar{height:4px;background:var(--line);border-radius:4px;margin-bottom:20px;overflow:hidden}
+.bar span{display:block;height:100%;background:var(--accent);width:0;transition:width .25s}
+.stem{font-family:var(--serif);font-size:1.28rem;line-height:1.5;margin:0 0 20px;max-width:62ch}
+.opts{list-style:none;margin:0;padding:0;display:grid;gap:10px}
+.opt{display:grid;grid-template-columns:2.1em minmax(0,1fr);gap:12px;align-items:start;width:100%;text-align:left;background:var(--surface-2);border:1.5px solid var(--line);border-radius:12px;padding:12px 14px;cursor:pointer;font-size:1rem;line-height:1.45}
+.opt:hover:not(:disabled){border-color:var(--accent)}
+.opt .k{display:inline-grid;place-items:center;width:1.9em;height:1.9em;border-radius:50%;border:1.5px solid var(--line);font-weight:700;font-size:.85rem;background:var(--surface)}
+.opt.chosen{border-color:var(--accent);background:var(--accent-soft)}
+.opt.chosen .k{background:var(--accent);border-color:var(--accent);color:var(--accent-ink)}
+.opt.right{border-color:var(--good);background:var(--good-soft)}
+.opt.right .k{background:var(--good);border-color:var(--good);color:var(--surface)}
+.opt.wrong{border-color:var(--bad);background:var(--bad-soft)}
+.opt.wrong .k{background:var(--bad);border-color:var(--bad);color:var(--surface)}
+.opt:disabled{cursor:default}
+.fb{margin-top:18px;border-radius:12px;padding:14px 16px;font-family:var(--serif);line-height:1.55;display:none}
+.fb.show{display:block}
+.fb.good{background:var(--good-soft)}
+.fb.bad{background:var(--bad-soft)}
+.fb b{font-family:var(--sans)}
+.qnav{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-top:22px;flex-wrap:wrap}
+.keys{font-size:.8rem;color:var(--muted)}
+.grid-nav{display:flex;flex-wrap:wrap;gap:6px;margin-top:22px;padding-top:16px;border-top:1px solid var(--line)}
+.grid-nav button{width:2.4em;height:2.2em;border-radius:7px;border:1px solid var(--line);background:var(--surface-2);font-size:.8rem;cursor:pointer;font-variant-numeric:tabular-nums}
+.grid-nav button.done{background:var(--accent-soft);border-color:var(--accent)}
+.grid-nav button.cur{outline:2px solid var(--accent);outline-offset:1px}
+
+/* Empty / intro */
+.intro{font-family:var(--serif);font-size:1.08rem;line-height:1.6;max-width:60ch}
+.intro p{margin:0 0 12px}
+.topic-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:10px;margin-top:18px}
+.topic-grid button{text-align:left;background:var(--surface-2);border:1px solid var(--line);border-radius:12px;padding:12px 14px;cursor:pointer;display:grid;gap:4px}
+.topic-grid button:hover{border-color:var(--accent)}
+.topic-grid .tn{font-weight:700;font-size:.85rem;color:var(--accent)}
+.topic-grid .tt{font-size:.93rem;line-height:1.35}
+.topic-grid .tc{font-size:.8rem;color:var(--muted)}
+
+/* Results */
+.score{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-bottom:6px}
+.score .big{font-family:var(--serif);font-size:3rem;font-weight:600;line-height:1}
+.tbl-wrap{overflow-x:auto;margin:16px 0}
+table{border-collapse:collapse;width:100%;font-size:.92rem}
+th,td{text-align:left;padding:8px 10px;border-bottom:1px solid var(--line)}
+th{font-weight:600;color:var(--muted)}
+td.r,th.r{text-align:right;font-variant-numeric:tabular-nums}
+
+/* Review list */
+.rlist{list-style:none;margin:0;padding:0}
+.ritem{border-top:1px solid var(--line);padding:16px 0}
+.ritem:first-child{border-top:0}
+.rhead{font-size:.82rem;color:var(--muted);margin-bottom:6px;display:flex;gap:12px;flex-wrap:wrap}
+.rhead .lo{color:var(--accent);font-weight:600}
+.rstem{font-family:var(--serif);font-size:1.05rem;margin:0 0 8px}
+.ropts{margin:0 0 8px;padding-left:1.6em;font-size:.95rem}
+.ropts li{padding:1px 0}
+.ropts li.ans{color:var(--good);font-weight:600}
+.ropts li.mine{color:var(--bad)}
+.rexp{font-size:.92rem;color:var(--muted);margin:0}
+.toolbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+.toolbar input{flex:1 1 220px;width:auto}
+.count{font-size:.86rem;color:var(--muted)}
+.more{margin-top:12px}
+
+@media (max-width: 900px){
+  header.top{grid-template-columns:1fr}
+  .layout{grid-template-columns:1fr}
+  .qcard{padding:20px 18px}
+  .stem{font-size:1.15rem}
+}
+@media (prefers-reduced-motion: reduce){ .bar span{transition:none} }
+@media print{
+  body{background:#fff;color:#000}
+  .side,header.top .hyp,.toolbar,.more,.qnav{display:none!important}
+  .layout{grid-template-columns:1fr}
+  .panel,.qcard{border:0;padding:0}
+  .ritem{break-inside:avoid}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>IFDSM question bank</h1>
+      <p id="sub">Single-best-answer questions mapped to every learning outcome of the ten IFDSM examination competencies.</p>
+    </div>
+    <div class="hyp" aria-label="Progress by topic">
+      <div class="hyp-head"><span>Your progress, drawn as a hypnogram — each topic sinks deeper as you master it</span><strong id="hyp-total"></strong></div>
+      <svg id="hyp" viewBox="0 0 420 118" role="img" aria-label="Mastery by topic"></svg>
+    </div>
+  </header>
+
+  <div class="layout">
+    <aside class="side">
+      <div class="panel">
+        <h2>Choose what to practise</h2>
+        <div class="field">
+          <span class="lbl" id="mode-lbl">Mode</span>
+          <div class="seg" role="group" aria-labelledby="mode-lbl">
+            <button type="button" data-mode="practise" aria-pressed="true">Practise</button>
+            <button type="button" data-mode="mock" aria-pressed="false">Mock exam</button>
+            <button type="button" data-mode="review" aria-pressed="false">Answer list</button>
+          </div>
+        </div>
+        <div class="field">
+          <label for="sel-topic">Topic</label>
+          <select id="sel-topic"></select>
+        </div>
+        <div class="field">
+          <label for="sel-lo">Learning outcome</label>
+          <select id="sel-lo"></select>
+        </div>
+        <div class="field" id="f-pool">
+          <span class="lbl">Questions</span>
+          <div class="radios">
+            <label><input type="radio" name="pool" value="all" checked> All in this selection</label>
+            <label><input type="radio" name="pool" value="new"> Not yet answered</label>
+            <label><input type="radio" name="pool" value="missed"> Answered wrongly last time</label>
+          </div>
+        </div>
+        <div class="field" id="f-shuffle">
+          <label class="check"><input type="checkbox" id="chk-shuffle" checked> Shuffle question order</label>
+        </div>
+        <div class="field" id="f-len" hidden>
+          <label for="sel-len">Exam length</label>
+          <select id="sel-len">
+            <option value="30">30 questions</option>
+            <option value="60" selected>60 questions</option>
+            <option value="100">100 questions</option>
+            <option value="150">150 questions</option>
+          </select>
+          <p class="hint">Questions are sampled across topics in proportion to the bank. No feedback until you finish.</p>
+        </div>
+        <button class="btn primary block" id="btn-start" type="button">Start</button>
+      </div>
+
+      <div class="panel">
+        <h2>Accuracy by topic</h2>
+        <ul class="stat-list" id="stats"></ul>
+        <p class="hint">Progress is saved in this browser only.</p>
+        <button class="btn quiet" id="btn-reset" type="button" style="margin-top:8px;padding-left:0">Reset my progress</button>
+      </div>
+    </aside>
+
+    <main class="main" id="main"></main>
+  </div>
+</div>
+
+<script type="application/json" id="qb-data">__DATA__</script>
+<script>
+(function(){
+"use strict";
+var D = JSON.parse(document.getElementById("qb-data").textContent);
+var Q = D.q, LO = {}, TOP = {}, byId = {};
+D.los.forEach(function(l){ LO[l.c] = l; });
+D.topics.forEach(function(t){ TOP[t.n] = t; });
+Q.forEach(function(q){ byId[q.id] = q; q.t = +q.lo.split(".")[0]; });
+var LET = ["A","B","C","D"];
+var KEY = "ifdsm-qb-progress-v1";
+var prog = {};
+try { prog = JSON.parse(localStorage.getItem(KEY) || "{}") || {}; } catch(e){ prog = {}; }
+function save(){ try { localStorage.setItem(KEY, JSON.stringify(prog)); } catch(e){} }
+function record(id, ok){
+  var p = prog[id] || {c:0, w:0, l:0};
+  if (ok) p.c++; else p.w++;
+  p.l = ok ? 1 : 0; prog[id] = p;
+}
+var $ = function(s){ return document.querySelector(s); };
+function esc(s){ return String(s).replace(/[&<>"]/g, function(c){ return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]; }); }
+function fmt(n){ return n.toLocaleString("en-GB"); }
+function shuffle(a){ for (var i=a.length-1;i>0;i--){ var j=Math.floor(Math.random()*(i+1)); var t=a[i]; a[i]=a[j]; a[j]=t; } return a; }
+
+var state = { mode:"practise", topic:"all", lo:"all", pool:"all" };
+var S = null; // session
+
+/* ---------- selectors ---------- */
+var selTopic = $("#sel-topic"), selLo = $("#sel-lo");
+function countIn(t){ return Q.filter(function(q){ return q.t === t; }).length; }
+selTopic.innerHTML = '<option value="all">All ten topics (' + fmt(Q.length) + ')</option>' +
+  D.topics.map(function(t){ return '<option value="'+t.n+'">'+t.n+'. '+esc(t.t)+' ('+countIn(t.n)+')</option>'; }).join("");
+function fillLo(){
+  var los = D.los.filter(function(l){ return state.topic === "all" || +l.c.split(".")[0] === +state.topic; });
+  selLo.innerHTML = '<option value="all">All learning outcomes</option>' +
+    los.map(function(l){ return '<option value="'+l.c+'" title="'+esc(l.f)+'">'+l.c+' '+esc(l.t)+' ('+l.n+')</option>'; }).join("");
+  selLo.disabled = state.topic === "all";
+  selLo.value = state.lo;
+}
+selTopic.addEventListener("change", function(){ state.topic = selTopic.value; state.lo = "all"; fillLo(); updateStart(); drawHyp(); if (state.mode==="review") renderReview(); });
+selLo.addEventListener("change", function(){ state.lo = selLo.value; updateStart(); if (state.mode==="review") renderReview(); });
+document.querySelectorAll('input[name=pool]').forEach(function(r){ r.addEventListener("change", function(){ state.pool = r.value; updateStart(); if (state.mode==="review") renderReview(); }); });
+$("#sel-len").addEventListener("change", updateStart);
+
+document.querySelectorAll(".seg button").forEach(function(b){
+  b.addEventListener("click", function(){
+    state.mode = b.dataset.mode;
+    document.querySelectorAll(".seg button").forEach(function(x){ x.setAttribute("aria-pressed", x === b ? "true" : "false"); });
+    $("#f-shuffle").hidden = state.mode !== "practise";
+    $("#f-len").hidden = state.mode !== "mock";
+    $("#btn-start").hidden = state.mode === "review";
+    updateStart();
+    if (state.mode === "review") renderReview(); else if (!S) renderIntro();
+  });
+});
+
+function filtered(){
+  return Q.filter(function(q){
+    if (state.topic !== "all" && q.t !== +state.topic) return false;
+    if (state.lo !== "all" && q.lo !== state.lo) return false;
+    var p = prog[q.id];
+    if (state.pool === "new" && p) return false;
+    if (state.pool === "missed" && !(p && p.l === 0)) return false;
+    return true;
+  });
+}
+function updateStart(){
+  var n = filtered().length, b = $("#btn-start");
+  if (state.mode === "mock"){
+    var len = Math.min(+$("#sel-len").value, n);
+    b.textContent = n ? "Start a " + len + "-question mock exam" : "No questions match";
+  } else {
+    b.textContent = n ? "Start " + fmt(n) + (n === 1 ? " question" : " questions") : "No questions match";
+  }
+  b.disabled = !n;
+}
+
+/* ---------- hypnogram + stats ---------- */
+function topicMastery(t){
+  var qs = Q.filter(function(q){ return q.t === t; }), ans = 0, ok = 0, lastOk = 0, c = 0, w = 0;
+  qs.forEach(function(q){ var p = prog[q.id]; if (p){ ans++; if (p.l) lastOk++; c += p.c; w += p.w; } });
+  return { total: qs.length, answered: ans, mastered: lastOk, acc: (c+w) ? c/(c+w) : null };
+}
+function drawHyp(){
+  var svg = $("#hyp"), W = 420, x0 = 52, colW = (W - x0 - 6)/10, yTop = 16, yBot = 88;
+  var parts = [], path = "", tot = 0, totAns = 0, totM = 0;
+  parts.push('<line x1="'+x0+'" y1="'+yTop+'" x2="'+(W-6)+'" y2="'+yTop+'" stroke="var(--line)" stroke-dasharray="2 4"/>');
+  parts.push('<line x1="'+x0+'" y1="'+yBot+'" x2="'+(W-6)+'" y2="'+yBot+'" stroke="var(--line)" stroke-dasharray="2 4"/>');
+  parts.push('<text x="0" y="'+(yTop+4)+'" font-size="9">Not started</text>');
+  parts.push('<text x="0" y="'+(yBot+4)+'" font-size="9">Mastered</text>');
+  for (var t=1;t<=10;t++){
+    var m = topicMastery(t); tot += m.total; totAns += m.answered; totM += m.mastered;
+    var y = yTop + (yBot - yTop) * (m.mastered / m.total);
+    var xa = x0 + (t-1)*colW, xb = xa + colW;
+    path += (t === 1 ? "M" + xa + " " + y : " V" + y) + " H" + xb;
+    var sel = String(state.topic) === String(t) ? " sel" : "";
+    var tip = "Topic " + t + ": " + TOP[t].t + ". " + m.answered + " of " + m.total + " answered, " + m.mastered + " correct on latest attempt.";
+    parts.push('<g class="col'+sel+'" data-t="'+t+'"><title>'+esc(tip)+'</title><rect class="hit" x="'+(xa+1)+'" y="4" width="'+(colW-2)+'" height="'+(yBot-2)+'" rx="4" fill="transparent"/>' +
+      '<text x="'+(xa+colW/2)+'" y="110" font-size="10" text-anchor="middle">'+t+'</text></g>');
+  }
+  parts.push('<path d="'+path+'" fill="none" stroke="var(--accent)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" pointer-events="none"/>');
+  svg.innerHTML = parts.join("");
+  svg.querySelectorAll(".col").forEach(function(g){
+    g.addEventListener("click", function(){
+      var t = g.dataset.t; state.topic = String(state.topic) === t ? "all" : t; state.lo = "all";
+      selTopic.value = state.topic; fillLo(); updateStart(); drawHyp();
+      if (state.mode === "review") renderReview();
+    });
+  });
+  $("#hyp-total").textContent = fmt(totM) + " of " + fmt(tot) + " mastered";
+}
+function drawStats(){
+  var html = "";
+  for (var t=1;t<=10;t++){
+    var m = topicMastery(t);
+    html += '<li><span class="num">'+t+'</span><span>'+esc(TOP[t].t)+'<br><span class="num">'+m.answered+' of '+m.total+' answered</span></span><span class="pct">'+(m.acc === null ? "–" : Math.round(m.acc*100)+"%")+'</span></li>';
+  }
+  $("#stats").innerHTML = html;
+}
+function refreshProgress(){ drawHyp(); drawStats(); updateStart(); }
+$("#btn-reset").addEventListener("click", function(){
+  if (confirm("Clear all saved answers and accuracy for this question bank?")){ prog = {}; save(); refreshProgress(); }
+});
+
+/* ---------- intro ---------- */
+function renderIntro(){
+  S = null;
+  var html = '<div class="qcard"><div class="intro"><p>Pick a mode and a topic on the left, then start. <b>Practise</b> gives you the answer and a short explanation after every question. <b>Mock exam</b> holds feedback until the end and scores you by topic. <b>Answer list</b> shows every question with its key, for reading or printing.</p><p>Keyboard: press A–D or 1–4 to answer, Enter or → for the next question, ← to go back.</p></div><div class="topic-grid">';
+  D.topics.forEach(function(t){
+    var m = topicMastery(t.n);
+    html += '<button type="button" data-t="'+t.n+'"><span class="tn">Topic '+t.n+'</span><span class="tt">'+esc(t.t)+'</span><span class="tc">'+m.total+' questions, '+m.answered+' answered</span></button>';
+  });
+  html += "</div></div>";
+  $("#main").innerHTML = html;
+  $("#main").querySelectorAll(".topic-grid button").forEach(function(b){
+    b.addEventListener("click", function(){
+      state.topic = b.dataset.t; state.lo = "all"; selTopic.value = state.topic; fillLo(); drawHyp(); updateStart();
+      startSession();
+    });
+  });
+}
+
+/* ---------- sessions ---------- */
+$("#btn-start").addEventListener("click", startSession);
+function sampleMock(pool, n){
+  if (pool.length <= n) return shuffle(pool.slice());
+  var byT = {}; pool.forEach(function(q){ (byT[q.t] = byT[q.t] || []).push(q); });
+  var picks = [], rem = [];
+  Object.keys(byT).forEach(function(t){
+    var arr = shuffle(byT[t].slice()), k = Math.floor(n * arr.length / pool.length);
+    picks = picks.concat(arr.slice(0,k)); rem = rem.concat(arr.slice(k));
+  });
+  picks = picks.concat(shuffle(rem).slice(0, n - picks.length));
+  return shuffle(picks);
+}
+function startSession(ids, forceMode){
+  var mode = forceMode || state.mode;
+  var pool = Array.isArray(ids) ? ids.map(function(id){ return byId[id]; }) : filtered();
+  if (!pool.length) return;
+  var list;
+  if (mode === "mock") list = sampleMock(pool, +$("#sel-len").value);
+  else list = (Array.isArray(ids) || $("#chk-shuffle").checked) ? shuffle(pool.slice()) : pool.slice();
+  S = { mode: mode, ids: list.map(function(q){ return q.id; }), i: 0, ans: {}, start: Date.now() };
+  renderQ();
+  $("#main").scrollIntoView({block:"start", behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth"});
+}
+function renderQ(){
+  var q = byId[S.ids[S.i]], n = S.ids.length, chosen = S.ans[q.id];
+  var answered = chosen !== undefined, practise = S.mode === "practise";
+  var reveal = practise && answered;
+  var opts = q.o.map(function(o, i){
+    var cls = "opt";
+    if (reveal){ if (i === q.a) cls += " right"; else if (i === chosen) cls += " wrong"; }
+    else if (chosen === i) cls += " chosen";
+    return '<li><button type="button" class="'+cls+'" data-i="'+i+'"'+(reveal ? " disabled" : "")+'><span class="k">'+LET[i]+'</span><span>'+esc(o)+'</span></button></li>';
+  }).join("");
+  var fb = "";
+  if (reveal){
+    var ok = chosen === q.a;
+    fb = '<div class="fb show '+(ok ? "good" : "bad")+'" role="status"><b>'+(ok ? "Correct." : "Not quite — the answer is " + LET[q.a] + ".")+'</b> '+esc(q.e)+'</div>';
+  } else fb = '<div class="fb" role="status"></div>';
+  var done = Object.keys(S.ans).length;
+  var nextLabel = S.i === n-1 ? (practise ? "Finish session" : "Finish exam") : "Next question";
+  var html = '<div class="qcard">' +
+    '<div class="qtop"><span>Question '+(S.i+1)+' of '+n+(practise ? "" : " ("+done+" answered)")+'</span><span class="lo" title="'+esc(LO[q.lo].f)+'">LO '+q.lo+' '+esc(LO[q.lo].t)+'</span></div>' +
+    '<div class="bar"><span style="width:'+(100*(S.i+1)/n)+'%"></span></div>' +
+    '<p class="stem">'+esc(q.s)+'</p><ol class="opts">'+opts+'</ol>'+fb+
+    '<div class="qnav"><button type="button" class="btn" id="b-prev"'+(S.i === 0 ? " disabled" : "")+'>Previous</button>' +
+    '<span class="keys">Question ID '+q.id+'</span>' +
+    '<span style="display:flex;gap:8px;flex-wrap:wrap">' + (S.mode === "mock" ? '<button type="button" class="btn" id="b-end">Finish exam now</button>' : '<button type="button" class="btn" id="b-end">End session</button>') +
+    '<button type="button" class="btn primary" id="b-next"'+(practise && !answered ? " disabled" : "")+'>'+nextLabel+'</button></span></div>';
+  if (S.mode === "mock"){
+    html += '<div class="grid-nav" aria-label="Jump to question">' + S.ids.map(function(id, k){
+      return '<button type="button" data-k="'+k+'" class="'+(S.ans[id] !== undefined ? "done" : "")+(k === S.i ? " cur" : "")+'" aria-label="Question '+(k+1)+'">'+(k+1)+'</button>';
+    }).join("") + "</div>";
+  }
+  html += "</div>";
+  $("#main").innerHTML = html;
+  $("#main").querySelectorAll(".opt").forEach(function(b){ b.addEventListener("click", function(){ choose(+b.dataset.i); }); });
+  $("#b-prev").addEventListener("click", function(){ go(-1); });
+  $("#b-next").addEventListener("click", function(){ go(1); });
+  $("#b-end").addEventListener("click", finish);
+  $("#main").querySelectorAll(".grid-nav button").forEach(function(b){ b.addEventListener("click", function(){ S.i = +b.dataset.k; renderQ(); }); });
+}
+function choose(i){
+  if (!S) return;
+  var q = byId[S.ids[S.i]];
+  if (S.mode === "practise"){
+    if (S.ans[q.id] !== undefined) return;
+    S.ans[q.id] = i; record(q.id, i === q.a); save(); drawHyp(); drawStats();
+  } else S.ans[q.id] = i;
+  renderQ();
+  var nb = $("#b-next"); if (nb && S.mode === "practise") nb.focus();
+}
+function go(d){
+  if (!S) return;
+  if (d > 0 && S.i === S.ids.length - 1){ finish(); return; }
+  S.i = Math.max(0, Math.min(S.ids.length - 1, S.i + d)); renderQ();
+}
+function finish(){
+  if (!S) return;
+  if (S.mode === "mock"){
+    var un = S.ids.filter(function(id){ return S.ans[id] === undefined; }).length;
+    if (un && !confirm(un + (un === 1 ? " question is" : " questions are") + " unanswered and will be marked wrong. Finish the exam?")) return;
+    S.ids.forEach(function(id){ if (S.ans[id] !== undefined) record(id, S.ans[id] === byId[id].a); });
+    save(); drawHyp(); drawStats();
+  }
+  renderResults();
+}
+function renderResults(){
+  var ids = S.mode === "practise" ? S.ids.filter(function(id){ return S.ans[id] !== undefined; }) : S.ids;
+  var n = ids.length, ok = 0, byT = {}, missed = [];
+  ids.forEach(function(id){
+    var q = byId[id], a = S.ans[id], good = a === q.a;
+    if (good) ok++; else missed.push(id);
+    var r = byT[q.t] = byT[q.t] || {n:0, ok:0}; r.n++; if (good) r.ok++;
+  });
+  var mins = Math.max(1, Math.round((Date.now() - S.start)/60000));
+  var pct = n ? Math.round(100*ok/n) : 0;
+  var verdict = !n ? "No questions were answered in this session." : pct >= 80 ? "A strong result — on track for a comfortable pass." : pct >= 70 ? "A solid result. Revisit the topics below where you dropped marks." : "Below the 70% mark. Work through the missed questions and the weakest topics before your next attempt.";
+  var rows = Object.keys(byT).sort(function(a,b){ return a-b; }).map(function(t){
+    var r = byT[t]; return '<tr><td>'+t+'. '+esc(TOP[t].t)+'</td><td class="r">'+r.ok+' / '+r.n+'</td><td class="r">'+Math.round(100*r.ok/r.n)+'%</td></tr>';
+  }).join("");
+  var list = missed.map(function(id){ return reviewItem(byId[id], S.ans[id]); }).join("");
+  var html = '<div class="qcard"><h2>'+(S.mode === "mock" ? "Mock exam result" : "Session complete")+'</h2>' +
+    '<div class="score"><span class="big">'+pct+'%</span><span>'+ok+' of '+n+' correct in about '+mins+' min</span></div><p class="intro" style="margin:0">'+verdict+'</p>' +
+    (rows ? '<div class="tbl-wrap"><table><thead><tr><th>Topic</th><th class="r">Score</th><th class="r">%</th></tr></thead><tbody>'+rows+'</tbody></table></div>' : "") +
+    '<div class="toolbar">' + (missed.length ? '<button type="button" class="btn primary" id="b-missed">Practise the '+missed.length+' missed '+(missed.length === 1 ? "question" : "questions")+'</button>' : "") +
+    '<button type="button" class="btn" id="b-new">Choose a new session</button></div>' +
+    (missed.length ? '<h2 style="margin-top:18px">Questions to review</h2><ol class="rlist">'+list+'</ol>' : "") + "</div>";
+  var m = missed.slice();
+  S = null;
+  $("#main").innerHTML = html;
+  var bm = $("#b-missed"); if (bm) bm.addEventListener("click", function(){ startSession(m, "practise"); });
+  $("#b-new").addEventListener("click", renderIntro);
+  $("#main").scrollIntoView({block:"start"});
+}
+
+/* ---------- answer list ---------- */
+function reviewItem(q, mine){
+  var opts = q.o.map(function(o, i){
+    var c = i === q.a ? "ans" : (mine === i ? "mine" : "");
+    return '<li class="'+c+'">'+esc(o)+(i === q.a ? " ✓" : (mine === i ? " (your answer)" : ""))+'</li>';
+  }).join("");
+  return '<li class="ritem"><div class="rhead"><span>'+q.id+'</span><span class="lo">LO '+q.lo+' '+esc(LO[q.lo].t)+'</span></div><p class="rstem">'+esc(q.s)+'</p><ol class="ropts" type="A">'+opts+'</ol><p class="rexp">'+esc(q.e)+'</p></li>';
+}
+var RV = { term: "", shown: 0, list: [] };
+function renderReview(){
+  S = null;
+  $("#main").innerHTML = '<div class="qcard"><h2>Answer list</h2><div class="toolbar"><input type="search" id="rv-search" placeholder="Search question text, e.g. Mallampati" aria-label="Search questions"><span class="count" id="rv-count"></span></div><ol class="rlist" id="rv-list"></ol><div class="more"><button type="button" class="btn" id="rv-more">Show more</button></div></div>';
+  var inp = $("#rv-search"); inp.value = RV.term;
+  inp.addEventListener("input", function(){ RV.term = inp.value; fillReview(true); });
+  $("#rv-more").addEventListener("click", function(){ fillReview(false); });
+  fillReview(true);
+}
+function fillReview(reset){
+  var term = RV.term.trim().toLowerCase();
+  if (reset){
+    RV.list = filtered().filter(function(q){ return !term || (q.s + " " + q.o.join(" ") + " " + q.e).toLowerCase().indexOf(term) > -1; });
+    RV.shown = 0; $("#rv-list").innerHTML = "";
+  }
+  var next = RV.list.slice(RV.shown, RV.shown + 150);
+  $("#rv-list").insertAdjacentHTML("beforeend", next.map(function(q){ return reviewItem(q); }).join(""));
+  RV.shown += next.length;
+  $("#rv-count").textContent = fmt(RV.list.length) + (RV.list.length === 1 ? " question" : " questions") + (RV.shown < RV.list.length ? ", showing " + fmt(RV.shown) : "");
+  $("#rv-more").parentNode.hidden = RV.shown >= RV.list.length;
+}
+
+/* ---------- keyboard ---------- */
+document.addEventListener("keydown", function(e){
+  if (!S || e.metaKey || e.ctrlKey || e.altKey) return;
+  var tag = (e.target.tagName || "").toLowerCase();
+  if (tag === "input" || tag === "select" || tag === "textarea") return;
+  var k = e.key.toLowerCase(), idx = "abcd".indexOf(k);
+  if (idx < 0) idx = "1234".indexOf(k);
+  if (idx > -1){ e.preventDefault(); choose(idx); return; }
+  if (k === "arrowright" || (k === "enter" && tag !== "button")){
+    var nb = $("#b-next"); if (nb && !nb.disabled){ e.preventDefault(); go(1); }
+  } else if (k === "arrowleft"){ e.preventDefault(); go(-1); }
+});
+
+fillLo(); refreshProgress(); renderIntro();
+})();
+</script>
+<script>
+if ("serviceWorker" in navigator && location.protocol === "https:") {
+  window.addEventListener("load", function(){ navigator.serviceWorker.register("sw.js").catch(function(){}); });
+}
+</script>
+</body>
+</html>

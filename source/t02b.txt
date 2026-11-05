@@ -1,0 +1,599 @@
+@2.5
+Q: A Type 1 sleep study is:
++ An attended, in-laboratory full PSG
+- An unattended home full PSG
+- A home study with 4–7 sensors without sleep staging
+- Overnight oximetry only
+E: Type 1 is attended in-laboratory PSG with 15–20 sensors and ≥7 channels.
+
+@2.5
+Q: A Type 2 sleep study is:
++ An unattended full-montage PSG, usually at home
+- Attended in-laboratory PSG
+- Limited-channel monitoring without EEG
+- Single-channel oximetry
+E: Type 2 has the full montage (10–15 sensors) without a technician.
+
+@2.5
+Q: A Type 3 study typically:
++ Monitors breathing parameters with 4–7 sensors but without sleep staging
+- Includes full EEG staging
+- Uses 15–20 sensors
+- Records oximetry only
+E: Type 3 records airflow, effort, oximetry and heart rate without EEG.
+
+@2.5
+Q: A Type 4 study records:
++ 1–2 bioparameters, typically oximetry ± airflow or heart rate
+- A full PSG montage
+- EEG and EMG only
+- 10–15 sensors
+E: Type 4 is the most limited.
+
+@2.5
+Q: The approximate number of sensors used in a Type 1 study is:
++ 15–20
+- 1–2
+- 4–7
+- 10–15
+E: Type 1 15–20; Type 2 10–15; Type 3 4–7; Type 4 1–2.
+
+@2.5
+Q: A home Type 2 study tends to:
++ Underestimate AHI by about 10%
+- Overestimate AHI by about 10%
+- Be identical to a Type 1 study in all cases
+- Overestimate AHI by about 50%
+E: Loss of effort signals and use of recording time as denominator cause underestimation.
+
+@2.5
+Q: The approximate failure rate of Type 2 home studies is:
++ 6.6–7%
+- <1%
+- 20%
+- 50%
+E: Failure is more likely when wired unsupervised.
+
+@2.5
+Q: A symptomatic patient with loud snoring, witnessed apnoeas and ESS 15 has a home study showing AHI 4/h. The correct next step is:
++ Refer back to the physician for in-laboratory PSG; do not accept the negative result
+- Reassure and discharge
+- Start appliance therapy for snoring
+- Repeat a Type 4 oximetry study at home
+E: A negative home study in a symptomatic patient cannot exclude OSA.
+
+@2.5
+Q: Which statement about the direction of home study error is correct?
++ A positive home study can generally be believed; a negative one in a symptomatic patient cannot
+- A negative home study rules out OSA
+- A positive home study must always be repeated in the lab
+- Home studies overestimate AHI
+E: Candidates frequently reverse this.
+
+@2.5
+Q: Type 1 PSG is indicated rather than Type 2 when:
++ Central sleep apnoea, hypoventilation, parasomnia or a movement disorder is suspected
+- The patient has high pre-test probability of uncomplicated moderate–severe OSA
+- The patient prefers home testing
+- Cost is the main concern
+E: Complex or non-OSA disorders need attended PSG.
+
+@2.5
+Q: Type 2 home studies are best suited to patients with:
++ High probability of moderate–severe OSA without significant comorbidity or other suspected sleep disorder
+- Low probability of OSA
+- Suspected narcolepsy
+- Severe neuromuscular disease
+E: Uncomplicated high-probability OSA suits home testing.
+
+@2.5
+Q: Which patient factor mandates Type 1 rather than Type 2 testing?
++ Severe intellectual disability or major communication difficulty
+- Mild obesity
+- Age over 40
+- Living close to the laboratory
+E: Patient factors include disability, neuromuscular disease, unsuitable home environment and medicolegal implications.
+
+@2.5
+Q: An advantage of attended Type 1 PSG is:
++ Real-time sensor troubleshooting and accurate staging
+- Lowest cost
+- Familiar home environment
+- Avoids hospital-acquired infection
+E: Supervision allows correction of sensor problems and comfort interventions.
+
+@2.5
+Q: A disadvantage of attended Type 1 PSG is:
++ Expense, labour intensity and the unfamiliar environment affecting sleep
+- Inability to stage sleep
+- High failure rate
+- Inability to detect central apnoea
+E: Laboratory testing is costly and may disturb sleep, especially in children.
+
+@2.5
+Q: An advantage of home Type 2 studies is:
++ More representative sleep in a familiar environment and improved access
+- Real-time technician intervention
+- Detection of all parasomnias
+- Zero failure rate
+E: Home testing is cost-effective and accessible.
+
+@2.5
+Q: In Australia, which statement about Type 3 and 4 studies is noted in the revision material?
++ MBS reimbursement is not available for them, so use has been limited
+- They are the only reimbursed tests
+- They are required before all PSG
+- They are used for paediatric diagnosis
+E: A jurisdiction-specific point; state the principle first and the local rule second.
+
+@2.5
+Q: Types 3 and 4 studies can confirm OSA only in:
++ Highly selected patients with high pre-test probability of moderate–severe disease without significant comorbidity
+- All patients with snoring
+- Children under 12
+- Patients with suspected narcolepsy
+E: Limited-channel tests are for selected patients.
+
+@2.5
+Q: Which is a limitation of Type 3 studies compared with Type 1?
++ No sleep staging, so the denominator is recording time and arousal-based hypopnoeas are missed
+- They cannot record oxygen saturation
+- They cannot measure airflow
+- They require overnight technician attendance
+E: Without EEG, arousals and sleep time cannot be scored.
+
+@2.5
+Q: Which home testing setting has the highest failure rate?
++ Wired in the laboratory then sent home, or self-applied unsupervised
+- Fully attended laboratory PSG
+- Daytime MSLT
+- Actigraphy
+E: Unsupervised setups are more prone to signal loss.
+
+@2.5
+Q: Type 1 PSG is the standard investigation for:
++ Narcolepsy, central sleep apnoea, parasomnias and movement disorders
+- Uncomplicated primary snoring
+- Routine appliance titration by the dentist
+- Insomnia in all cases
+E: Attended PSG is required for these disorders.
+
+@2.5
+Q: Why might a laboratory PSG be particularly difficult for children?
++ The unfamiliar environment and strange technician are stressful, affecting sleep and cooperation
+- Children cannot be wired for EEG
+- Children never sleep in laboratories
+- Paediatric AHI cannot be scored in a laboratory
+E: Despite this, attended PSG remains the paediatric gold standard.
+
+@2.5
+Q: A home Type 2 study is valid for diagnosing OSA only when:
++ Used in conjunction with a comprehensive sleep evaluation and well-defined symptoms
+- Ordered by any clinician without evaluation
+- Used for screening the general population
+- The patient has suspected CSA
+E: Home testing requires clinical context.
+
+@2.5
+Q: Which is a Type 1 indication relating to prior testing?
++ A failed or inconclusive Type 2 study
+- A previous normal ESS
+- A positive STOP-BANG
+- A previous dental impression
+E: Failed home studies should proceed to attended PSG.
+
+@2.5
+Q: Serious medicolegal consequences of a diagnosis (e.g. a commercial pilot) favour:
++ Attended Type 1 PSG
+- Type 4 oximetry
+- Questionnaire screening only
+- No testing
+E: Medicolegal implications mandate the most reliable test.
+
+@2.5
+Q: Which home study feature contributes to AHI underestimation?
++ Using recording time rather than sleep time as the denominator
+- Using sleep time as the denominator
+- Over-scoring hypopnoeas
+- Including RERAs
+E: Recording time includes wake, diluting the index.
+
+@2.6
+Q: The Multiple Sleep Latency Test (MSLT) measures:
++ The tendency to fall asleep when given the opportunity
+- The ability to stay awake
+- Arousal threshold
+- Loop gain
+E: MSLT asks the patient to try to sleep; MWT asks them to stay awake.
+
+@2.6
+Q: The Maintenance of Wakefulness Test (MWT) is mainly used to:
++ Inform safety and fitness-to-drive judgements
+- Diagnose narcolepsy
+- Diagnose OSA
+- Measure AHI
+E: MWT assesses the ability to maintain wakefulness.
+
+@2.6
+Q: The MSLT should be preceded by:
++ An overnight PSG to confirm adequate prior sleep
+- A day of total sleep deprivation
+- A caffeine load
+- A home oximetry study only
+E: Prior night PSG ensures results are interpretable.
+
+@2.6
+Q: How many nap opportunities are given in a standard MSLT?
++ Four to five at about 2-hour intervals
+- One
+- Two at 6-hour intervals
+- Ten at hourly intervals
+E: 4–5 naps at ~2 h intervals.
+
+@2.6
+Q: In an MSLT, each nap trial is terminated after how long if no sleep occurs?
++ 20 minutes
+- 5 minutes
+- 40 minutes
+- 60 minutes
+E: Trials end at 20 min without sleep; the clinical version continues 15 min after sleep onset to allow REM.
+
+@2.6
+Q: In the clinical MSLT, after sleep onset the nap is continued for:
++ 15 minutes to allow REM to emerge
+- 1 minute
+- 60 minutes
+- Until spontaneous awakening
+E: This permits detection of SOREMPs.
+
+@2.6
+Q: In the MWT the patient is instructed to:
++ Sit in a dimly lit room and try to stay awake
+- Lie in the dark and try to fall asleep
+- Exercise between trials
+- Sleep overnight in the laboratory
+E: MWT measures ability to resist sleep.
+
+@2.6
+Q: Modern MWT protocols commonly terminate each trial after:
++ 40 minutes if no sleep occurs
+- 5 minutes
+- 10 minutes
+- 2 hours
+E: Older protocols used 20 min; modern ones 40 min.
+
+@2.6
+Q: A longer mean sleep latency on the MWT indicates:
++ Greater ability to maintain wakefulness
+- More severe sleepiness
+- Narcolepsy
+- Insomnia
+E: Longer latency = better wake maintenance.
+
+@2.6
+Q: Which statement about SOREMPs is correct?
++ They support narcolepsy but are also frequent in untreated OSA
+- They occur only in narcolepsy
+- They exclude OSA
+- They indicate insomnia
+E: SOREMPs lack specificity in untreated OSA.
+
+@2.6
+Q: Which factor shortens mean sleep latency on the MSLT?
++ Prior sleep deprivation or fragmentation
+- Stimulant medication
+- Anxiety and stress
+- Anticipation of going home
+E: Sleep loss shortens latency; stimulants, anxiety and anticipation lengthen it.
+
+@2.6
+Q: Which factor lengthens mean sleep latency on the MSLT?
++ Stimulants or anxiety
+- Hypnotics
+- Sleep deprivation
+- Barbiturates
+E: CNS arousal and stimulants prolong latency.
+
+@2.6
+Q: The "last-nap effect" refers to:
++ Longer latency on the fifth nap, increasing mean latency in five-nap protocols
+- Shorter latency on the first nap
+- REM appearing only in the first nap
+- Failure to sleep in any nap
+E: Anticipation of leaving lengthens the final nap latency.
+
+@2.6
+Q: A floor effect is a limitation of which test?
++ MSLT
+- MWT
+- Epworth Sleepiness Scale
+- Actigraphy
+E: MSLT has a floor effect; MWT a ceiling effect.
+
+@2.6
+Q: An indication for the MSLT is:
++ Evaluating persistent sleepiness after OSA treatment
+- Diagnosing OSA severity
+- Measuring appliance compliance
+- Measuring oxygen desaturation
+E: MSLT quantifies physiological sleepiness in narcolepsy, IH and residual sleepiness.
+
+@2.6
+Q: Which statement about MSLT/MWT limitations is correct?
++ Neither perfectly predicts real-world alertness or driving performance
+- Both perfectly predict crash risk
+- The MSLT alone certifies treatment response
+- Normative data are abundant in children
+E: Clinical judgement remains essential.
+
+@2.6
+Q: A high "sleepability" individual may show which MSLT result even after two weeks of 10 h time in bed?
++ Mean sleep latency of 6–8 minutes
+- Mean sleep latency of 20 minutes
+- No sleep in any nap
+- Multiple SOREMPs
+E: Trait sleepability affects interpretation.
+
+@2.6
+Q: How does age affect MSLT latencies?
++ Longest in prepubescent children, shorter in young adults, longer again in older age
+- Shortest in children
+- Constant across all ages
+- Shortest in the elderly
+E: Age is a physiological confounder.
+
+@2.6
+Q: What is the relationship between prior-night total sleep time and next-day MSL?
++ Negative correlation in the sense that less prior sleep produces shorter latency
+- No relationship
+- More prior sleep produces shorter latency
+- Only REM affects latency
+E: Inadequate prior sleep shortens MSL.
+
+@2.6
+Q: Between MWT trials patients should:
++ Stay awake and occupied
+- Sleep freely
+- Remain in bed in the dark
+- Consume caffeine
+E: Protocol prevents sleep between trials.
+
+@2.7
+Q: Since 2017 the ADA policy on dentists and sleep-related breathing disorders states that:
++ All dentists should screen patients for SRBD
+- Only specialists should screen
+- Dentists may diagnose OSA
+- Screening is optional
+E: Screening is a core role for all dentists.
+
+@2.7
+Q: The dentist's role in OSA is precisely to:
++ Screen for signs and symptoms and refer to a physician for diagnosis
+- Diagnose OSA using questionnaires
+- Order and interpret PSG for diagnosis
+- Prescribe CPAP
+E: Dentists are not authorised to diagnose SRBD.
+
+@2.7
+Q: Sensitivity of a screening test is:
++ The proportion of people with the disease who test positive
+- The proportion without disease who test negative
+- The probability that a positive result is true
+- The overall accuracy
+E: A highly sensitive test, when negative, helps rule out disease.
+
+@2.7
+Q: Specificity of a screening test is:
++ The proportion of people without the disease who test negative
+- The proportion with disease who test positive
+- The prevalence in the population
+- The number needed to screen
+E: A highly specific test, when positive, helps rule in disease.
+
+@2.7
+Q: OSA screening questionnaires generally have:
++ Good but not optimal sensitivity and poor specificity, producing many false positives
+- High specificity and low sensitivity
+- Perfect accuracy
+- Diagnostic validity
+E: They trigger referral but cannot diagnose.
+
+@2.7
+Q: The Epworth Sleepiness Scale consists of:
++ 8 situations scored 0–3, total 0–24
+- 10 items scored 0–1
+- 22 yes/no items
+- 4 items scored 0–10
+E: ESS >10 indicates excessive daytime sleepiness.
+
+@2.7
+Q: An ESS score indicating excessive daytime sleepiness is:
++ >10
+- >3
+- >5
+- >20
+E: ESS >10 of 24 is abnormal.
+
+@2.7
+Q: Why should the ESS never be used alone to screen for OSA?
++ It correlates poorly with AHI and sleepiness has many causes
+- It is too long
+- It requires PSG
+- It is only validated in children
+E: It measures sleep propensity, not disease severity.
+
+@2.7
+Q: In STOP-BANG, "P" stands for:
++ Pressure (hypertension)
+- Pain
+- Palate height
+- Positional snoring
+E: Snoring, Tiredness, Observed apnoea, Pressure, BMI, Age, Neck, Gender.
+
+@2.7
+Q: The BMI threshold used in STOP-BANG is:
++ >35 kg/m²
+- >25 kg/m²
+- >30 kg/m²
+- >40 kg/m²
+E: BMI >35, age >50, neck >40 cm, male gender.
+
+@2.7
+Q: The STOP-BANG score indicating increased OSA risk is:
++ ≥3
+- ≥1
+- ≥6
+- ≥8
+E: Higher cut-offs increase specificity at the cost of sensitivity.
+
+@2.7
+Q: Raising the STOP-BANG cut-off from 3 to 5 would:
++ Decrease sensitivity and increase specificity
+- Increase sensitivity and decrease specificity
+- Increase both
+- Have no effect
+E: The classic sensitivity/specificity trade-off.
+
+@2.7
+Q: OSA50 awards 3 points for waist circumference above:
++ 102 cm in men or 88 cm in women
+- 94 cm in men or 80 cm in women
+- 110 cm in men or 100 cm in women
+- 80 cm in men or 70 cm in women
+E: OSA50: waist 3, snoring 3, witnessed apnoeas 2, age ≥50 years 2; positive ≥5/10.
+
+@2.7
+Q: The OSA50 positive threshold is:
++ ≥5 of 10
+- ≥2 of 10
+- ≥8 of 10
+- 10 of 10
+E: ≥5 of 10 is positive.
+
+@2.7
+Q: OSA50 performance for moderate–severe OSA is reported as:
++ 94% sensitivity, 31% specificity
+- 31% sensitivity, 94% specificity
+- 70% sensitivity and specificity
+- 100% sensitivity, 100% specificity
+E: The classic "sensitive but not specific" illustration.
+
+@2.7
+Q: The Berlin questionnaire classifies a patient as high risk when positive in:
++ At least 2 of 3 categories
+- All 3 categories
+- Any 1 category
+- At least 4 of 5 categories
+E: Categories: snoring severity, daytime sleepiness, hypertension/obesity.
+
+@2.7
+Q: The NoSAS score suggests high probability of OSA at:
++ ≥8 of 17
+- ≥3 of 17
+- ≥12 of 17
+- 17 of 17
+E: Neck >40 cm 4, BMI ≥30 5, snoring 2, age >55 4, male 2.
+
+@2.7
+Q: In the NoSAS score, the item carrying the most points (5) is:
++ BMI ≥30
+- Snoring
+- Male sex
+- Age >55
+E: BMI ≥30 scores 5; neck and age 4 each; snoring and male 2 each.
+
+@2.7
+Q: In the Australian Medicare direct-referral pathway, a GP may order a sleep study if the patient has a positive questionnaire plus an ESS of at least:
++ 8
+- 4
+- 12
+- 16
+E: Positive Berlin, OSA50 ≥5 or STOP-BANG ≥4, plus ESS ≥8 — a jurisdiction-specific rule.
+
+@2.7
+Q: A significant caveat of the Australian direct-referral criteria is that:
++ Many patients with significant OSA will not meet the combination
+- They have 100% sensitivity
+- They exclude all patients over 50
+- They apply only to children
+E: Non-sleepy OSA patients may not qualify.
+
+@2.7
+Q: The modified Mallampati is performed with the patient:
++ Seated upright, mouth wide open, tongue protruded maximally without phonation
+- Supine with phonation
+- Standing with tongue retracted
+- Seated, saying "ah"
+E: "Without phonation" distinguishes it from the original anaesthetic technique.
+
+@2.7
+Q: Modified Mallampati class III shows:
++ Soft palate and base of the uvula only
+- Soft palate, uvula, fauces and pillars
+- Soft palate and majority of uvula
+- Hard palate only
+E: Classes III–IV are "at-risk" findings.
+
+@2.7
+Q: Modified Mallampati class IV shows:
++ Hard palate only
+- Soft palate and base of uvula
+- Entire uvula and pillars
+- Tonsils meeting in the midline
+E: Class IV: only the hard palate is visible.
+
+@2.7
+Q: Scalloping (crenation) of the lateral tongue borders suggests:
++ A tongue too large for the arch (macroglossia), causing oropharyngeal crowding
+- Vitamin deficiency only
+- Bruxism exclusively
+- Normal anatomy
+E: Scalloping is the practical clinical sign of relative macroglossia.
+
+@2.7
+Q: Which uvula dimensions have been linked directly to SDB?
++ Longer than 15 mm and wider than 10 mm
+- Shorter than 5 mm
+- Longer than 5 mm only
+- Wider than 2 mm
+E: An enlarged uvula >15 mm long and >10 mm wide is associated with SDB.
+
+@2.7
+Q: Dental erosion noted at a screening visit may indicate:
++ GORD, which frequently coexists with OSA
+- Narcolepsy
+- Insomnia
+- Restless legs syndrome
+E: Erosion may signal reflux, a common OSA comorbidity.
+
+@2.7
+Q: A negative screening questionnaire in a patient with witnessed apnoeas and resistant hypertension should lead to:
++ Referral anyway, because a negative screen does not exclude OSA
+- Reassurance
+- Fitting an appliance without referral
+- A repeat questionnaire in 5 years
+E: Clinical suspicion overrides a negative screen.
+
+@2.7
+Q: The Paediatric Sleep Questionnaire is positive when the score exceeds:
++ 0.33 (more than 8 of 22 items)
+- 0.10
+- 0.50
+- 0.75
+E: PSQ >0.33 suggests high likelihood of SDB.
+
+@2.7
+Q: Large mandibular tori are relevant to OSA screening because they:
++ Reduce oral volume and displace the tongue posteriorly
+- Increase airway space
+- Indicate GORD
+- Cause central apnoea
+E: Tori reduce oral volume, crowding the tongue.
+
+@2.7
+Q: Which radiographic/cephalometric finding is associated with increased OSA risk?
++ Inferiorly positioned hyoid and narrowed posterior airway space
+- Superiorly positioned hyoid
+- Wide posterior airway space
+- Short soft palate
+E: Low hyoid and narrow PAS are risk markers.

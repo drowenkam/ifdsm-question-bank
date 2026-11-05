@@ -1,0 +1,855 @@
+@3.1
+Q: Who first described the "monobloc" appliance, and in what year?
++ Pierre Robin, 1903
+- Cartwright and Samelson, 1982
+- Meier-Ewert, 1985
+- George Catlin, 1861
+E: Robin described the monobloc in 1903 to treat glossoptosis.
+
+@3.1
+Q: Pierre Robin's monobloc was originally designed to treat:
++ Glossoptosis
+- Bruxism
+- Class III malocclusion
+- TMJ ankylosis
+E: Glossoptosis — a posteriorly displaced tongue obstructing the airway.
+
+@3.1
+Q: The tongue retaining device was described by:
++ Cartwright and Samelson in 1982
+- Pierre Robin in 1903
+- Meier-Ewert in 1985
+- Sullivan in 1981
+E: The TRD holds the tongue forward by suction.
+
+@3.1
+Q: Meier-Ewert and colleagues (1985) described:
++ An intraoral protraction device for sleep apnoea
+- The tongue retaining device
+- The monobloc
+- Nasal CPAP
+E: Their work was part of the 1980s catalyst for modern OAT.
+
+@3.1
+Q: George Catlin (19th century) is credited with suggesting that:
++ Nasal rather than mouth breathing produces more restful sleep and better health
+- Mandibular advancement cures apnoea
+- CPAP is the gold standard
+- Snoring is harmless
+E: Catlin first linked breathing mode to sleep quality.
+
+@3.1
+Q: After Robin's 1903 work, approximately how long was there little development in oral appliances?
++ About 50 years
+- About 5 years
+- About 10 years
+- About 100 years
+E: Roughly half a century of little development followed.
+
+@3.1
+Q: Historically, the tongue retaining device has been described as:
++ The second most common type of oral appliance
+- The most common oral appliance today
+- An obsolete soft palate lifter
+- A form of CPAP
+E: MADs are most common; TRDs historically second, now used rarely.
+
+@3.1
+Q: Which type of oral appliance is described as obsolete today?
++ Soft palate lifters
+- Mandibular advancement devices
+- Tongue retaining devices
+- Custom titratable appliances
+E: Soft palate lifters are no longer in use.
+
+@3.1
+Q: According to AADSM terminology, an oral appliance is:
++ A device intended to protrude and stabilise the mandible to maintain a patent airway during sleep
+- Any intraoral splint for bruxism
+- A device that increases vertical dimension only
+- A nasal dilator
+E: AADSM definition of an oral appliance.
+
+@3.1
+Q: A custom oral appliance is defined as one that:
++ Is fabricated from digital or physical impressions/models, not prefabricated, of biocompatible material and engaging both arches
+- Is a boil-and-bite device moulded at home
+- Covers only the maxillary arch
+- Is made of metal only
+E: Custom devices are individually fabricated.
+
+@3.1
+Q: A titratable oral appliance is one that:
++ Allows the amount of mandibular protrusion to be varied
+- Holds the mandible in one fixed position
+- Is made from thermoplastic
+- Only covers anterior teeth
+E: Titration of protrusion is the analogue of CPAP pressure titration.
+
+@3.1
+Q: Under the AADSM (2019) definition, an effective oral appliance must allow advancement in increments of:
++ 1 mm or less
+- 2 mm or less
+- 3 mm or less
+- 5 mm or less
+E: Increments ≤1 mm.
+
+@3.1
+Q: The AADSM effective appliance definition requires a protrusive adjustment range of at least:
++ 5 mm
+- 1 mm
+- 3 mm
+- 10 mm
+E: ≥5 mm range, reversibility and a verifiable setting.
+
+@3.1
+Q: Which is NOT part of the AADSM (2019) definition of an effective oral appliance?
++ It must be made of nylon
+- Reversal of advancement must be possible
+- The setting must be verifiable
+- It maintains a stable retentive relationship to teeth, implants or ridge
+E: Material is not specified; the criteria concern titration, range, reversibility, verifiability, retention and regulatory clearance.
+
+@3.1
+Q: The evidence base for oral appliances evolved from:
++ Case reports to randomised controlled trials confirming efficacy
+- RCTs to case reports
+- Animal studies only
+- Expert opinion only
+E: RCTs confirmed efficacy in mild–moderate and later severe OSA.
+
+@3.2
+Q: The tongue retaining device works by:
++ Holding the tongue forward in a bulb by suction
+- Advancing the mandible
+- Lifting the soft palate
+- Expanding the maxilla
+E: The pliable bulb holds the protruded tongue by negative pressure.
+
+@3.2
+Q: When is a tongue retaining device indicated?
++ When dental factors preclude a mandibular advancement device
+- As first-line for all OSA
+- For central sleep apnoea
+- For patients with severe nasal obstruction
+E: TRDs are used rarely, e.g. edentulous or inadequate dentition.
+
+@3.2
+Q: A mandibular advancement device improves a soft palate-level obstruction by:
++ Increasing palatoglossus and palatopharyngeus tension, drawing the soft palate anteriorly and inferiorly
+- Directly lifting the uvula
+- Reducing tongue size
+- Increasing vertical dimension
+E: Velopharyngeal advancement explains palatal-level benefit.
+
+@3.2
+Q: The predominant structural airway change with mandibular advancement is enlargement:
++ In the lateral dimension at the velopharyngeal level
+- Anteroposteriorly at the larynx
+- Of the nasal cavity
+- Of the trachea
+E: Traction via soft tissue connections between pharynx and ramus widens the velopharynx laterally.
+
+@3.2
+Q: Tongue base advancement with a MAD results from:
++ Increased tension in suprahyoid and genioglossus muscles and hyoid stabilisation
+- Tongue volume reduction
+- Direct tongue suction
+- Palatal expansion
+E: The tongue is held forward via muscular attachments.
+
+@3.2
+Q: Which statement about the effect of mandibular advancement on PALM traits is correct?
++ It reduces collapsibility without systematically changing loop gain or arousal threshold
+- It lowers loop gain
+- It increases arousal threshold
+- It doubles genioglossus EMG
+E: Its effect is on passive anatomy.
+
+@3.2
+Q: Mandibular advancement enlarges which airway segment besides the velopharynx?
++ The retroglossal airway
+- The trachea
+- The nasal vestibule
+- The oesophagus
+E: Retroglossal enlargement also occurs.
+
+@3.2
+Q: The effect of increasing mandibular protrusion on airway collapsibility is:
++ Dose-dependent
+- Absent
+- Only at maximum protrusion
+- Inversely related
+E: Greater advancement → greater reduction in collapsibility (to a point).
+
+@3.2
+Q: The commonest site of tongue collapse that a TRD aims to prevent is:
++ The oropharyngeal airway
+- The nasopharynx
+- The larynx
+- The trachea
+E: Forward tongue posture prevents collapse into the oropharynx.
+
+@3.2
+Q: Mandibular advancement devices may be designed as:
++ One-piece or dual-component with a coupling mechanism
+- Single-arch only
+- Palatal-only devices
+- Nasal inserts
+E: Monobloc or bibloc designs.
+
+@3.2
+Q: The hyoid bone during mandibular advancement is:
++ Stabilised and drawn forward with the mandible
+- Displaced posteriorly
+- Unaffected
+- Displaced inferiorly
+E: Forward mandibular movement stabilises the hyoid.
+
+@3.2
+Q: Which explains why mild OSA suits mandibular advancement better than severe OSA?
++ Less collapsible airways and greater pharyngeal enlargement along the whole length
+- Higher loop gain in mild OSA
+- More REM in mild OSA
+- Higher BMI in mild OSA
+E: Mechanistic basis for better response.
+
+@3.2
+Q: Imaging studies of mandibular advancement show that velopharyngeal enlargement occurs principally through:
++ Traction on soft tissue connections between the pharynx and mandibular ramus
+- Direct compression of the soft palate
+- Increased nasal flow
+- Tongue volume reduction
+E: Lateral pharyngeal wall traction is key.
+
+@3.2
+Q: A mandibular advancement device is best described physiologically as:
++ An anatomical intervention improving passive pharyngeal anatomy
+- A neuromuscular stimulator
+- A ventilatory control stabiliser
+- A sedative device
+E: It acts on the "P" of PALM.
+
+@3.2
+Q: Which statement about MAD mechanism is incorrect?
++ The appliance works simply by pulling the tongue forward, with no effect on the palate
+- It advances the jaw and attached musculature
+- It enlarges the velopharynx laterally
+- It increases palatoglossus tension
+E: It remodels the whole velo-oropharyngeal segment.
+
+@3.2
+Q: The net effect of OAT on the airway is:
++ Improved passive pharyngeal anatomy and reduced collapsibility
+- Increased upper airway resistance
+- Increased Pcrit
+- Increased loop gain
+E: Lower collapsibility (more negative Pcrit).
+
+@3.2
+Q: In a patient with high loop gain and a very collapsible airway, further mandibular advancement is likely to:
++ Add side effects without fixing the ventilatory control problem
+- Cure the loop gain abnormality
+- Reduce arousal threshold
+- Increase muscle responsiveness
+E: Non-anatomical traits need other or combined therapies.
+
+@3.3
+Q: Oral appliance therapy is indicated for primary snoring when:
++ OSA has been excluded by a physician
+- The patient requests it, without a sleep assessment
+- Snoring is only positional
+- The patient has an ESS >16
+E: Snoring cannot be clinically distinguished from OSA; diagnosis must come first.
+
+@3.3
+Q: According to AADSM 2025 standards, oral appliances are indicated for:
++ Mild, moderate and severe OSA
+- Mild OSA only
+- Moderate OSA only
+- Primary snoring only
+E: AADSM 2025 states appliances are indicated across severities, with CPAP considered first in severe disease.
+
+@3.3
+Q: For severe OSA, oral appliance therapy is appropriate when:
++ CPAP is refused, not tolerated, ineffective or the patient is unsuitable for CPAP
+- Always as first-line therapy
+- Never
+- Only after surgery
+E: An IPD meta-analysis supports comparable health outcomes in severe OSA.
+
+@3.3
+Q: Which is a contraindication to mandibular advancement therapy?
++ Maximum protrusive range less than 6 mm
+- Mild OSA
+- Class II malocclusion
+- Retrognathia
+E: Limited protrusion <6 mm is a contraindication.
+
+@3.3
+Q: Which statement about TMD and OAT is correct?
++ Active severe TMJ disorder should be treated first; disc displacement alone is not a contraindication
+- Any history of TMJ clicking contraindicates OAT
+- TMD is an absolute contraindication
+- OAT always worsens TMD
+E: TMD is a relative contraindication.
+
+@3.3
+Q: An anterior open bite is a contraindication to a MAD because:
++ There is no posterior clearance
+- It increases retention
+- It improves efficacy
+- It prevents titration
+E: Anterior open bite precludes posterior clearance.
+
+@3.3
+Q: Severe bruxism in a candidate for OAT should lead to:
++ Consideration of a more robust material rather than automatic exclusion
+- Absolute exclusion from OAT
+- Use of a boil-and-bite device
+- Use of a soft EVA device only
+E: Bruxism favours nylon or cobalt-chrome designs.
+
+@3.3
+Q: Which is an advantage of OAT over CPAP?
++ Silent, portable, no power source and higher acceptance and adherence
+- Greater AHI reduction
+- Greater improvement in oxygen saturation
+- No dental side effects
+E: OAT advantages relate to tolerance and convenience.
+
+@3.3
+Q: Which is a disadvantage of OAT compared with CPAP?
++ Lower efficacy for AHI, arousal index and desaturation
+- Greater noise
+- Requirement for electricity
+- Lower adherence
+E: CPAP is more efficacious.
+
+@3.3
+Q: The diagnosis, prescription and monitoring of effectiveness of OAT rest with:
++ The medical practitioner
+- The dental laboratory
+- The dental hygienist
+- The patient
+E: The dentist assesses dental suitability, fits, manages side effects.
+
+@3.3
+Q: Which of the following should be treated before starting OAT?
++ Severe untreated caries and active periodontal disease
+- Mild crowding
+- Class I occlusion
+- Minor tooth wear
+E: Oral disease is treated first.
+
+@3.3
+Q: A patient has planned major orthodontic treatment next month. OAT is:
++ Relatively contraindicated until dental work is complete
+- Ideal to start immediately
+- Absolutely indicated
+- Unaffected by orthodontics
+E: Ongoing significant dental/orthodontic work is a contraindication.
+
+@3.3
+Q: Severe nasal obstruction or grade 3–4 tonsils in an OAT candidate:
++ Reduce efficacy, so the nose/airway should be addressed first
+- Increase efficacy
+- Are irrelevant
+- Mandate maximum protrusion
+E: Address nasal obstruction before or alongside OAT.
+
+@3.3
+Q: Which is a recognised side effect of OAT?
++ Excessive salivation or dry mouth
+- Epistaxis from pressure
+- Aerophagia
+- Pneumocephalus
+E: Salivation changes are common, usually transient.
+
+@3.3
+Q: Oral appliances may reduce blood pressure by approximately:
++ 2–4 mmHg, comparable to CPAP in several trials
+- 20–30 mmHg
+- 0 mmHg in all trials
+- 50 mmHg
+E: Modest BP reductions similar to CPAP.
+
+@3.3
+Q: Which patient is the best candidate for OAT?
++ Mild–moderate OSA, adequate dentition, protrusive range 9 mm, prefers not to use CPAP
+- Severe OSA, edentulous, CPAP-tolerant
+- Central sleep apnoea
+- Active TMJ disc displacement without reduction with severe pain
+E: Adequate teeth, protrusion and preference favour OAT.
+
+@3.3
+Q: A severe gag reflex is:
++ A relative contraindication to OAT
+- An indication for maximum protrusion
+- Irrelevant to OAT
+- An indication for a TRD
+E: Gagging may prevent tolerance; minimal bulk traction designs may help.
+
+@3.3
+Q: Side effects of OAT are generally:
++ Well tolerated once symptomatic relief is achieved
+- Severe and permanent in most patients
+- Absent
+- Worse than CPAP side effects in all patients
+E: Most side effects are mild and transient.
+
+@3.3
+Q: Which is the dentist's responsibility in OAT?
++ Assessing dental suitability, treating oral disease first, selecting and fitting the device and managing orofacial complications
+- Diagnosing OSA
+- Prescribing CPAP
+- Confirming final efficacy with own PSG interpretation
+E: Division of responsibility.
+
+@3.3
+Q: Persistent significant TMJ dysfunction from OAT is:
++ Rare
+- Common in most patients
+- Universal after 2 years
+- Unreported
+E: Transient discomfort is common; significant persistent dysfunction is rare.
+
+@3.3
+Q: Implant-retained appliances may be possible, but inadequate retention due to insufficient dentition is:
++ A contraindication
+- An indication
+- Irrelevant
+- An advantage
+E: Adequate retention is essential.
+
+@3.3
+Q: Which alternative indication for OAT is listed?
++ Failure of weight loss or positional therapy, or failed/unsuitable for surgery
+- Central apnoea due to opioids
+- Narcolepsy
+- Restless legs syndrome
+E: OAT can follow failure of other treatments.
+
+@3.4
+Q: CPAP is described as:
++ The gold standard and first-line therapy for OSA, particularly severe
+- Indicated only for central apnoea
+- Inferior to OAT for AHI reduction
+- A surgical procedure
+E: CPAP is most efficacious.
+
+@3.4
+Q: APAP differs from CPAP in that it:
++ Automatically adjusts pressure within a set range
+- Delivers separate inspiratory and expiratory pressures
+- Adapts breath-by-breath to central apnoea
+- Uses negative pressure
+E: APAP adapts to changing requirements (position, stage, alcohol, weight).
+
+@3.4
+Q: BPAP is indicated for:
++ Hypercapnic SDB, pressure requirement >20 cmH2O or intolerance of high CPAP
+- Routine uncomplicated OSA
+- Primary snoring
+- Positional OSA
+E: Reserve BPAP for specific indications.
+
+@3.4
+Q: ASV is designed primarily for:
++ Central and mixed apnoea and Cheyne–Stokes respiration
+- Uncomplicated obstructive apnoea
+- Primary snoring
+- Obesity hypoventilation only
+E: ASV adapts breath-by-breath.
+
+@3.4
+Q: CPAP titration typically starts at:
++ 4 cmH2O
+- 1 cmH2O
+- 10 cmH2O
+- 15 cmH2O
+E: Start at 4, titrate to lowest effective pressure, maximum ~20.
+
+@3.4
+Q: CPAP compliance at 12 months is approximately:
++ 40–60%
+- 10–20%
+- 80–90%
+- 95–100%
+E: Failure rates range from 29–83%.
+
+@3.4
+Q: The conventional CPAP adherence threshold used in research is:
++ ≥4 hours per night
+- ≥2 hours per night
+- ≥7 hours per night
+- ≥80% of the night on 5 nights
+E: OAT compliance uses a different AADSM definition.
+
+@3.4
+Q: Which is a rare but serious CPAP complication?
++ Pneumocephalus
+- Dry mouth
+- Nasal congestion
+- Aerophagia
+E: Rare: pneumocephalus, barotrauma, raised IOP, subcutaneous emphysema.
+
+@3.4
+Q: CPAP in a retrognathic patient may be difficult because of:
++ Mask leakage
+- Excessive pressure
+- Better seal
+- Increased adherence
+E: Retrognathia affects mask fit.
+
+@3.4
+Q: Oronasal (full-face) masks compared with nasal masks:
++ Often require higher pressures in moderate–severe OSA because the jaw is pushed down and back
+- Always require lower pressures
+- Are suggested for routine initiation
+- Have less leakage than nasal pillows
+E: Nasal interfaces are suggested for initiation; re-titrate when switching to oronasal.
+
+@3.4
+Q: Heated humidification with CPAP is suggested to reduce:
++ Dry mouth, nasal congestion and sore throat
+- AHI directly
+- Pressure requirements
+- Mask leak
+E: Trade-offs are rain-out, cost and maintenance.
+
+@3.4
+Q: According to the AASM 2019 PAP guideline, PAP is recommended over no therapy in OSA patients with:
++ Excessive sleepiness
+- No symptoms and no comorbidity
+- Primary snoring
+- Insomnia alone
+E: Strong recommendation for sleepy patients.
+
+@3.4
+Q: The AASM 2019 PAP guideline states there is insufficient evidence to suggest PAP in non-sleepy patients to:
++ Reduce cardiovascular events or mortality
+- Reduce blood pressure in hypertension
+- Improve sleep-related quality of life
+- Reduce sleepiness
+E: Conservative management is acceptable if such patients decline.
+
+@3.4
+Q: For PAP initiation in adults without significant comorbidity, the AASM recommends:
++ Either APAP at home or in-laboratory titration
+- Only in-laboratory titration
+- Only BPAP
+- ASV for all
+E: No difference in adherence, sleepiness or QoL.
+
+@3.4
+Q: Why does the AASM suggest CPAP or APAP over BPAP for routine OSA?
++ Similar benefit, but BPAP is costlier and may have sub-optimally low expiratory pressure
+- BPAP is more effective
+- BPAP has no side effects
+- BPAP is cheaper
+E: Reserve BPAP for specific indications.
+
+@3.4
+Q: Telemonitoring-guided intervention in the initial CPAP period:
++ Improves adherence, with trade-offs of privacy and cost
+- Reduces adherence
+- Is not recommended
+- Replaces the need for education
+E: Remote monitoring of usage, leak and residual events triggers early intervention.
+
+@3.4
+Q: Adherence in the first days to weeks of CPAP:
++ Predicts long-term adherence
+- Is unrelated to long-term use
+- Is always 100%
+- Is irrelevant to outcomes
+E: Early follow-up promotes adherence.
+
+@3.4
+Q: CPAP's greatest blood pressure reduction effect is:
++ Nocturnal
+- Only daytime
+- Absent
+- Only in normotensive patients
+E: CPAP reduces nocturnal, daytime and 24-h BP, largest nocturnally.
+
+@3.4
+Q: Middle ear barotrauma from CPAP may present with:
++ Pain, tinnitus and vertigo
+- Dental pain
+- Diplopia only
+- Dysphagia
+E: Pressure transmitted via the Eustachian tube.
+
+@3.4
+Q: When CPAP fails, the first question to ask is:
++ Was treatment necessary — was the study severe enough and symptoms significant?
+- Which surgery to perform
+- Whether to prescribe hypnotics
+- Whether to discharge the patient
+E: Four-stage approach: necessity, explanation, trial quality, then alternatives.
+
+@3.4
+Q: CPAP has a greater effect than OAT on:
++ AHI, arousal index, ODI and oxygen saturation
+- Adherence
+- Portability
+- Patient preference
+E: CPAP is more efficacious.
+
+@3.4
+Q: CPAP requires repeat titration when changing from a nasal mask to:
++ An oronasal (full-face) mask
+- Another nasal mask of the same size
+- A new humidifier
+- A different tubing length
+E: Oronasal masks change pressure requirements.
+
+@3.4
+Q: Modified pressure profiles (lower expiratory pressure) for CPAP:
++ May aid comfort in some patients but are not routinely supported by clinically significant differences
+- Are mandatory for all patients
+- Increase AHI reduction
+- Replace BPAP
+E: Optional for comfort only.
+
+@3.4
+Q: Why might CPAP achieve similar health outcomes to a MAD despite greater efficacy?
++ Greater efficacy is offset by inferior compliance
+- CPAP is less efficacious
+- MADs have higher efficacy
+- Health outcomes are unrelated to treatment
+E: The efficacy–effectiveness paradox.
+
+@3.4
+Q: Educational interventions before PAP initiation should explain:
++ What OSA is, its consequences, what PAP is and potential benefits
+- Only the cost
+- Only surgical options
+- Nothing; education reduces adherence
+E: Education improves adherence with minimal harm.
+
+@3.4
+Q: Routine repeat sleep testing for patients on CPAP is:
++ Unnecessary when symptom control is good and status unchanged
+- Required annually
+- Required monthly
+- Never permitted
+E: OSA rarely resolves except with substantial weight loss or corrective surgery.
+
+@3.4
+Q: A CPAP machine consists of:
++ Mask/interface with straps, tubing and a motor/blower
+- Oral appliance and tubing
+- Nasal valve and battery only
+- Implanted stimulator
+E: Basic CPAP components.
+
+@3.4
+Q: A patient already successfully using PAP who was diagnosed without objective testing should, per AASM good practice:
++ Continue PAP
+- Stop PAP immediately
+- Switch to OAT
+- Undergo surgery
+E: New diagnoses require testing, but well-controlled existing users should continue.
+
+@3.5
+Q: The organising triad for OSA surgery is:
++ Expand, advance, stiffen
+- Remove, replace, repair
+- Cut, close, cover
+- Reduce, retract, release
+E: Surgical goals: expand, advance or stiffen the airway.
+
+@3.5
+Q: UPPP surgical success is commonly defined as:
++ >50% AHI reduction with a postoperative AHI <20
+- AHI <5
+- Any snoring reduction
+- AHI <30
+E: Sher criteria.
+
+@3.5
+Q: Friedman staging predicts UPPP success; which stage has the highest success?
++ Stage I
+- Stage II
+- Stage III
+- Stage IV
+E: Stage III is mostly unsuccessful.
+
+@3.5
+Q: Maxillomandibular advancement involves:
++ Le Fort I osteotomy and bilateral sagittal split ramus osteotomy
+- Tonsillectomy and adenoidectomy
+- Palatal implants
+- Hypoglossal nerve stimulation
+E: MMA enlarges the velo-oro-hypopharyngeal airway.
+
+@3.5
+Q: Skeletal surgery for OSA is generally considered:
++ More effective than soft tissue surgery
+- Less effective than soft tissue surgery
+- Equivalent to no treatment
+- Only for children
+E: MMA produces substantial AHI reductions.
+
+@3.5
+Q: The principal investigation to identify site and pattern of collapse before surgery is:
++ Drug-induced sleep endoscopy (DISE)
+- CBCT
+- Lateral cephalogram
+- Plain chest radiograph
+E: DISE uses the VOTE classification.
+
+@3.5
+Q: In VOTE classification, "T" stands for:
++ Tongue base
+- Tonsils
+- Trachea
+- Turbinates
+E: Velum, Oropharynx, Tongue base, Epiglottis.
+
+@3.5
+Q: Which pattern of collapse on DISE is easiest to treat?
++ Anteroposterior
+- Lateral
+- Concentric
+- Circumferential
+E: Lateral or concentric collapse generally requires MMA.
+
+@3.5
+Q: The adverse event rate associated with OSA surgery is approximately:
++ 4%
+- 0.1%
+- 25%
+- 50%
+E: Mostly cardiovascular and bleeding events.
+
+@3.5
+Q: Nasal surgery for OSA is usually:
++ Adjunctive, improving CPAP/OAT tolerance, rarely curative alone
+- Curative in most patients
+- First line for severe OSA
+- Contraindicated with OAT
+E: Septoplasty, turbinoplasty and valve surgery.
+
+@3.5
+Q: Tracheostomy for OSA is:
++ A last resort — highly effective but with substantial morbidity
+- First-line treatment
+- Ineffective
+- Recommended for mild OSA
+E: It bypasses the pharynx entirely.
+
+@3.5
+Q: Bariatric surgery for OSA is typically indicated at a BMI of:
++ ≥35 kg/m² with comorbidity after failed non-surgical weight loss
+- ≥25 kg/m²
+- ≥28 kg/m²
+- Any BMI
+E: Effective but may not cure OSA.
+
+@3.5
+Q: UPPP involves:
++ Excision of tonsils and posterior soft palate/uvula with closure of tonsillar pillars
+- Advancement of the maxilla
+- Hyoid suspension only
+- Insertion of palatal rods
+E: Life-threatening adverse events have been reported.
+
+@3.5
+Q: Soft palate implants (Dacron rods) have:
++ Lower morbidity but high extrusion rates and limited durability
+- Excellent long-term durability
+- High morbidity
+- Curative efficacy in severe OSA
+E: Limited role.
+
+@3.5
+Q: A lateral or circumferential pattern of collapse on DISE generally requires:
++ Maxillomandibular advancement
+- Palatal implants
+- Nasal surgery only
+- Simple UPPP
+E: Skeletal advancement addresses lateral walls.
+
+@3.5
+Q: DISE can also help dental sleep medicine by:
++ Showing directly whether mandibular advancement opens the airway
+- Measuring AHI
+- Replacing PSG
+- Fabricating appliances
+E: Jaw thrust or a positioner during DISE predicts response.
+
+@3.5
+Q: Multilevel surgery tends to produce:
++ Better results but less consistent outcomes and more adverse events
+- Worse results with fewer adverse events
+- Guaranteed cure
+- No difference from single-level surgery
+E: Collapse often occurs at several sites.
+
+@3.5
+Q: Criteria for MMA typically include:
++ Hypopharyngeal or velo-oro-hypopharyngeal narrowing with skeletal hypoplasia (retrognathia)
+- Isolated nasal obstruction
+- Primary snoring without OSA
+- Central sleep apnoea
+E: MMA advances anterior pharyngeal attachments.
+
+@3.5
+Q: Tongue base procedures include:
++ Genioglossus advancement, midline glossectomy and transoral robotic surgery
+- Septoplasty and turbinoplasty
+- UPPP and LAUP
+- Le Fort I osteotomy
+E: Address retroglossal obstruction.
+
+@3.5
+Q: Surgical decision-making in OSA rests on:
++ Severity, anatomy and level of obstruction, CPAP compliance, expectation and comorbidity
+- Patient age alone
+- AHI alone
+- BMI alone
+E: Individualised assessment.
+
+@3.5
+Q: The extended uvulopalatal flap (EUPF) has better response in patients with:
++ Lower Mallampati scores
+- Higher Mallampati scores
+- Grade 4 tonsils only
+- Severe obesity
+E: EUPF is a modified UPPP.
+
+@3.5
+Q: Patients should be counselled before OSA surgery that:
++ Surgery may not completely cure the problem
+- Cure is guaranteed
+- There are no risks
+- CPAP will never be needed again
+E: Realistic expectations are essential.
+
+@3.5
+Q: In the surgical overview, which long-term drawback is noted for hypoglossal nerve stimulation?
++ More recurrence of OSA over time
+- Universal device extrusion
+- Permanent tongue paralysis in most patients
+- Complete loss of benefit within a week
+E: Neurostimulation is effective but more recurrence over time is noted.
+
+@3.5
+Q: Allergic rhinitis in a patient about to start OAT should be:
++ Treated (e.g. intranasal corticosteroid, ENT referral) without waiting for complete resolution
+- Ignored
+- Treated only after OAT is completed
+- Managed with maximum protrusion
+E: Nasal patency improves outcomes.
+
+@3.5
+Q: The role of surgery relative to CPAP/OAT may be:
++ Adjunctive (alongside) or salvage (replacing them)
+- Always first-line
+- Never combined
+- Only diagnostic
+E: Surgery complements or replaces conservative therapy.

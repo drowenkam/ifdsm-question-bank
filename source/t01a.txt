@@ -1,0 +1,967 @@
+@1.1
+Q: Which glial-mediated process during sleep is thought to clear metabolic waste products from the brain?
++ The glymphatic system
+- The reticular activating system
+- The hypothalamic–pituitary–adrenal axis
+- The retinohypothalamic tract
+E: Glial cells drive glymphatic clearance of metabolites during sleep — part of the "biochemical refreshment" function of sleep.
+
+@1.1
+Q: Declarative memory consolidation is most closely associated with which sleep feature?
++ NREM sleep spindles
+- REM sawtooth waves
+- Alpha rhythm at sleep onset
+- REM muscle atonia
+E: Declarative memory consolidation is linked to NREM (spindles); procedural and emotional memory processing is linked to REM.
+
+@1.1
+Q: Procedural and emotional memory processing is predominantly associated with which sleep stage?
++ REM sleep
+- N1
+- N2
+- Wakefulness after sleep onset
+E: REM sleep supports procedural and emotional memory processing and affect regulation.
+
+@1.1
+Q: Growth hormone is secreted predominantly during:
++ Early slow-wave sleep, in the first hours after sleep onset
+- REM sleep in the final third of the night
+- N1 sleep at each cycle transition
+- The morning wake transition
+E: The main GH pulse occurs in early slow-wave (N3) sleep, concentrated in the first third of the night.
+
+@1.1
+Q: Which hormone is described as being released in the late evening rather than during slow-wave sleep?
++ Thyroid hormone
+- Growth hormone
+- Prolactin
+- Parathyroid hormone
+E: Thyroid hormone release is described as a late-evening event; GH is linked to early SWS.
+
+@1.1
+Q: Sleep-related regulation of appetite involves which hormone pair?
++ Leptin and ghrelin
+- Insulin and glucagon
+- Cortisol and aldosterone
+- Oxytocin and vasopressin
+E: Sleep helps maintain leptin/ghrelin balance; fragmentation lowers leptin and raises ghrelin, increasing hunger.
+
+@1.1
+Q: Which statement about the relationship between sleep and rest is correct?
++ Sleep is qualitatively distinct from rest and is orchestrated by distinct neuronal networks
+- Sleep and quiet rest are physiologically equivalent states
+- Sleep differs from rest only by the presence of eye closure
+- Rest provides the same memory consolidation as sleep
+E: The textbook definition emphasises that sleep is a complex physiological state qualitatively distinct from rest.
+
+@1.1
+Q: Which of the following is NOT generally listed as a health function of normal sleep?
++ Permanent elimination of the homeostatic sleep drive
+- Physical restoration and tissue repair
+- Emotional regulation
+- Memory consolidation
+E: Sleep dissipates sleep pressure each night, but the homeostatic drive rebuilds with time awake; it is not eliminated.
+
+@1.1
+Q: Anabolic dominance, protein synthesis and tissue repair during sleep describe which function?
++ Physical restoration and repair
+- Circadian entrainment
+- Thermoregulatory suspension
+- Emotional regulation
+E: Restoration and repair are core functions, with protein synthesis and cell/tissue repair favoured during sleep.
+
+@1.1
+Q: Which emotional function is most specifically attributed to REM sleep?
++ Processing of affect and emotional regulation
+- Generation of K-complexes
+- Clearance of adenosine
+- Suppression of growth hormone
+E: REM-dependent processing of affect underpins sleep's role in emotional regulation.
+
+@1.1
+Q: Spindle density in N2 has been observed to increase after:
++ Learning a new task
+- Alcohol consumption
+- Sleep deprivation for one night
+- Caffeine intake
+E: Spindle density rises after learning a new task, linking N2 spindles to memory consolidation.
+
+@1.1
+Q: Melatonin secretion is principally controlled by:
++ The light–dark cycle acting via the suprachiasmatic nucleus
+- Adenosine accumulation during wakefulness
+- Ghrelin release from the stomach
+- Cortisol from the adrenal cortex
+E: Pineal melatonin is under light–dark control via the SCN and is suppressed by light.
+
+@1.1
+Q: Which metabolic benefit is attributed to adequate sleep?
++ Maintenance of insulin sensitivity
+- Increased insulin resistance
+- Elevated evening cortisol
+- Reduced glucose tolerance
+E: Sleep supports metabolic regulation, including insulin sensitivity; sleep loss promotes insulin resistance.
+
+@1.1
+Q: The "biochemical refreshment" function of sleep refers chiefly to:
++ Restoration of synaptic and neuronal function, glycogen restoration and metabolite clearance
+- Increased skeletal muscle tone during REM
+- Elevation of core temperature set point
+- Suppression of all hormone secretion
+E: Biochemical refreshment covers synaptic/neuronal function, glymphatic clearance, glycogen restoration and neurogenesis.
+
+@1.1
+Q: Which immune-related statement about sleep is most accurate?
++ Sleep contributes to immune function and its disruption may impair it
+- Sleep has no measurable effect on immune function
+- Immune function is enhanced by chronic sleep restriction
+- Immune effects occur only during REM sleep
+E: Immune function and metabolic regulation are among the recognised health benefits of normal sleep.
+
+@1.1
+Q: A patient asks why sleep is needed for children's growth. The best explanation is that sleep:
++ Facilitates growth via hormone release and protein synthesis, especially in slow-wave sleep
+- Increases thyroid hormone only during REM
+- Suppresses growth hormone to conserve energy
+- Promotes growth only through dreaming
+E: Growth is facilitated through GH release in SWS and protein synthesis.
+
+@1.1
+Q: Possible learning of simple tasks or behaviours during sleep is listed among sleep's benefits. Which stage feature is most associated with motor/procedural learning?
++ REM sleep
+- Wake after sleep onset
+- Alpha intrusion
+- Vertex sharp waves of N1
+E: Procedural (motor) learning is associated with REM sleep.
+
+@1.1
+Q: Which hormones are listed as being released during sleep in addition to growth hormone?
++ Prolactin, testosterone and parathyroid hormone
+- Adrenaline, glucagon and calcitonin
+- Aldosterone, renin and ANP
+- Insulin, gastrin and secretin
+E: Hormone regulation in sleep includes GH, prolactin, testosterone and PTH.
+
+@1.2
+Q: In the two-process model of sleep regulation, Process S refers to:
++ The homeostatic sleep drive that accumulates with time awake
+- The circadian oscillator in the suprachiasmatic nucleus
+- The REM–NREM ultradian cycle
+- Sympathetic surges at sleep onset
+E: Process S is homeostatic sleep pressure; Process C is the circadian rhythm.
+
+@1.2
+Q: The principal candidate mediator of homeostatic sleep pressure is:
++ Adenosine
+- Melatonin
+- Orexin
+- Histamine
+E: Adenosine accumulates with wakefulness and is the leading candidate mediator of Process S; caffeine antagonises it.
+
+@1.2
+Q: The master circadian clock is located in the:
++ Suprachiasmatic nucleus of the hypothalamus
+- Pineal gland
+- Locus coeruleus
+- Ventrolateral preoptic area
+E: The SCN is the endogenous ~24 h oscillator; the pineal gland produces melatonin under its control.
+
+@1.2
+Q: Light entrains the circadian clock via the:
++ Retinohypothalamic tract
+- Corticospinal tract
+- Medial longitudinal fasciculus
+- Mammillothalamic tract
+E: Light information reaches the SCN through the retinohypothalamic tract.
+
+@1.2
+Q: Orexin (hypocretin)-producing neurons are located in the:
++ Lateral hypothalamus
+- Raphe nuclei
+- Tuberomammillary nucleus
+- Pedunculopontine tegmentum
+E: Orexin/hypocretin neurons in the lateral hypothalamus promote wakefulness; their loss causes narcolepsy type 1.
+
+@1.2
+Q: Which pairing of wake-promoting neurotransmitter and source nucleus is correct?
++ Noradrenaline — locus coeruleus
+- Serotonin — tuberomammillary nucleus
+- Histamine — raphe nuclei
+- Orexin — locus coeruleus
+E: Noradrenaline arises from the locus coeruleus; serotonin from raphe; histamine from the tuberomammillary nucleus.
+
+@1.2
+Q: NREM sleep is promoted by GABA and galanin released from the:
++ Ventrolateral preoptic area
+- Suprachiasmatic nucleus
+- Lateral hypothalamus
+- Locus coeruleus
+E: VLPO neurons release GABA and galanin to inhibit arousal systems and promote NREM sleep.
+
+@1.2
+Q: During REM sleep, which neuronal activity is maximal?
++ Cholinergic "REM-on" neurons of the pedunculopontine/laterodorsal tegmentum
+- Monoaminergic "REM-off" neurons
+- Orexinergic neurons of the lateral hypothalamus
+- Histaminergic tuberomammillary neurons
+E: REM is driven by cholinergic REM-on neurons while monoaminergic and orexinergic activity reaches its nadir.
+
+@1.2
+Q: Why do serotonergic and noradrenergic antidepressants tend to suppress REM sleep?
++ They enhance monoaminergic "REM-off" activity
+- They block adenosine receptors
+- They increase cholinergic REM-on activity
+- They stimulate orexin release
+E: REM requires monoaminergic activity to fall; drugs boosting serotonin/noradrenaline therefore suppress REM.
+
+@1.2
+Q: The approximate proportion of adult sleep spent in REM is:
++ 20–25%
+- 5–10%
+- 45–55%
+- 75–80%
+E: Adults spend roughly 20–25% of sleep in REM and 75–80% in NREM.
+
+@1.2
+Q: The approximate proportion of adult sleep spent in stage N2 is:
++ 45–55%
+- 2–5%
+- 13–23%
+- 20–25%
+E: N2 is the largest single stage at about 45–55% of total sleep.
+
+@1.2
+Q: Sleep spindles (11–16 Hz) and K-complexes are characteristic of:
++ N2
+- N1
+- N3
+- REM
+E: Spindles and K-complexes define stage N2.
+
+@1.2
+Q: Stage N1 is characterised by:
++ Replacement of alpha rhythm by low-voltage mixed-frequency activity, with vertex sharp waves
+- High-voltage delta waves
+- Sleep spindles and K-complexes
+- Sawtooth waves with muscle atonia
+E: N1 (2–5% of sleep) is transitional: alpha is replaced by low-voltage mixed frequency activity, with vertex sharp waves.
+
+@1.2
+Q: Which EEG feature is characteristic of REM sleep?
++ Sawtooth waves
+- K-complexes
+- Sleep spindles
+- High-amplitude delta waves
+E: REM shows desynchronised EEG, sawtooth waves, theta activity and rapid eye movements.
+
+@1.2
+Q: The alpha rhythm of relaxed wakefulness has a frequency of:
++ 8–13 Hz
+- 0.5–2 Hz
+- 3–7 Hz
+- 11–16 Hz
+E: Alpha is 8–13 Hz; spindles 11–16 Hz; theta 3–7 Hz; delta is slow (<2 Hz).
+
+@1.2
+Q: Since the AASM 2007 scoring rules, the former Rechtschaffen & Kales stages 3 and 4 are combined as:
++ N3
+- N2
+- R
+- W
+E: Stages 3 and 4 merged into N3 (slow-wave sleep); the scheme is now N1/N2/N3/R.
+
+@1.2
+Q: Slow-wave sleep (N3) is concentrated in:
++ The first third of the night
+- The final third of the night
+- The middle of the night only
+- Equal amounts across each cycle
+E: N3 dominates early cycles; REM periods lengthen and dominate the last third of the night.
+
+@1.2
+Q: The first sleep cycle typically lasts about 70–100 minutes; subsequent cycles last:
++ 90–120 minutes
+- 30–45 minutes
+- 150–180 minutes
+- 4–6 hours
+E: Later cycles last ~90–120 min, giving 4–6 cycles per night.
+
+@1.2
+Q: Normal REM latency from sleep onset is approximately:
++ 90 minutes
+- 5 minutes
+- 30 minutes
+- 4 hours
+E: REM latency is about 90 minutes; very short latencies (SOREMPs) suggest narcolepsy or sleep deprivation.
+
+@1.2
+Q: Which physiological change is characteristic of REM rather than NREM sleep?
++ Blood pressure rises up to 30% and fluctuates
+- Very regular, slow, deep respiration
+- Reduced sympathetic activity below waking levels
+- Muscle tone similar to wakefulness
+E: In REM, BP rises (up to 30%) and fluctuates, sympathetic activity is high, breathing is irregular and muscle tone is absent.
+
+@1.2
+Q: Which function is effectively absent during REM sleep?
++ Thermoregulation
+- Cerebral blood flow
+- Dreaming
+- Sympathetic activity
+E: Thermoregulation is suspended in REM (no shivering or sweating).
+
+@1.2
+Q: In NREM sleep compared with wakefulness:
++ Heart rate, blood pressure and sympathetic activity fall
+- Sympathetic activity rises markedly above waking
+- Respiration becomes irregular with central pauses
+- Skeletal muscle tone is absent
+E: NREM is a state of autonomic quiescence: HR, BP and sympathetic activity fall and breathing is regular.
+
+@1.2
+Q: Upper airway resistance during sleep compared with wakefulness:
++ Increases in both NREM and REM sleep
+- Decreases in NREM only
+- Is unchanged in both states
+- Increases only in N3
+E: Upper airway resistance increases from wake in both NREM and REM sleep.
+
+@1.2
+Q: During sleep, renal function normally shows:
++ Reduced sodium, potassium, chloride and calcium excretion with concentrated urine
+- Increased urine flow, making nocturia normal
+- Increased sodium excretion
+- No change from wakefulness
+E: Urine output falls and becomes concentrated during sleep, so nocturia is abnormal and a recognised OSA symptom.
+
+@1.2
+Q: Approximately what percentage of vivid dream recall comes from awakenings in REM sleep?
++ About 80%
+- About 10%
+- About 30%
+- 100%
+E: About 80% of vivid dream recall follows REM awakenings.
+
+@1.2
+Q: The morning peak in myocardial infarction is linked to:
++ The heart rate and blood pressure surge on awakening
+- Thermoregulatory failure in REM
+- Growth hormone release in N3
+- Reduced cerebral blood flow in NREM
+E: The awakening HR/BP surge is thought to underlie the morning MI peak — a surge repeated many times a night in OSA.
+
+@1.2
+Q: Which stage has the highest arousal threshold of all NREM stages?
++ N3
+- N1
+- N2
+- All NREM stages are equal
+E: N3 is the deepest NREM stage, with the highest arousal threshold; disorders of arousal arise from it.
+
+@1.2
+Q: Adult respiratory rate during sleep is typically:
++ 12–20 breaths per minute
+- 4–8 breaths per minute
+- 30–60 breaths per minute
+- 25–35 breaths per minute
+E: Adults breathe 12–20/min asleep; infants and young children up to 30–60/min.
+
+@1.3
+Q: Upper airway narrowing at sleep onset in a healthy person is best described as:
++ A normal physiological event caused by withdrawal of tonic drive to the dilator muscles
+- A pathological event that always indicates OSA
+- Only occurring in REM sleep
+- Caused by increased genioglossus activity
+E: Narrowing is normal; in OSA it is exaggerated by combined abnormal anatomy and physiology into repetitive collapse.
+
+@1.3
+Q: The principal upper airway dilator muscle responsible for resisting inspiratory collapse is the:
++ Genioglossus
+- Masseter
+- Temporalis
+- Lateral pterygoid
+E: Tonic and phasic genioglossus activity holds the airway open in wakefulness; this compensation is withdrawn at sleep onset.
+
+@1.3
+Q: The pharynx behaves mechanically as a:
++ Starling resistor
+- Rigid tube
+- Venturi valve
+- Helmholtz resonator
+E: The collapsible pharyngeal segment is modelled as a Starling resistor; collapsibility is quantified by Pcrit.
+
+@1.3
+Q: Pcrit (critical closing pressure) in a healthy individual is typically:
++ Negative
+- Strongly positive (> +5 cmH2O)
+- Exactly zero
+- Equal to the CPAP requirement
+E: Healthy airways have negative Pcrit; in OSA it shifts toward positive values — more positive means more collapsible.
+
+@1.3
+Q: Using Pcrit, moderate anatomical impairment is defined as:
++ −2 to +2 cmH2O
+- Below −2 cmH2O
+- Above +2 cmH2O
+- Above +10 cmH2O
+E: Mild <−2, moderate −2 to +2, severe >+2 cmH2O (distribution ~19%/58%/23%).
+
+@1.3
+Q: The most common sites of upper airway obstruction in adult OSA are:
++ Retropalatal and retroglossal
+- Nasal vestibule and larynx
+- Trachea and bronchi
+- Nasopharynx and subglottis
+E: Obstruction can occur from nasopharynx to larynx, but retropalatal and retroglossal sites are commonest.
+
+@1.3
+Q: In the PALM phenotyping framework, "A" stands for:
++ Arousal threshold
+- Airway anatomy
+- Apnoea duration
+- Adenoid size
+E: PALM: Pcrit (passive anatomy), Arousal threshold, Loop gain, Muscle responsiveness.
+
+@1.3
+Q: Approximately what proportion of OSA patients have at least one non-anatomical trait impairment?
++ ~70%
+- ~10%
+- ~35%
+- ~95%
+E: About 70% have ≥1 non-anatomical impairment, supporting phenotype-directed therapy.
+
+@1.3
+Q: High loop gain in OSA describes:
++ Oversensitive ventilatory control causing overshoot and undershoot of ventilation
+- Excessive dilator muscle responsiveness
+- A high threshold for arousal from sleep
+- A positive Pcrit alone
+E: High loop gain (~36%) produces unstable periodic breathing that promotes both central and obstructive events.
+
+@1.3
+Q: A low respiratory arousal threshold (present in ~37%) would theoretically be targeted with:
++ A hypnotic such as eszopiclone
+- Acetazolamide
+- Hypoglossal nerve stimulation
+- Atomoxetine plus oxybutynin
+E: Raising the arousal threshold with eszopiclone is the targeted approach; acetazolamide targets loop gain.
+
+@1.3
+Q: Which therapy targets high loop gain?
++ Acetazolamide or supplemental oxygen
+- Eszopiclone
+- Myofunctional therapy
+- Mandibular advancement alone
+E: Acetazolamide and oxygen stabilise ventilatory control in the high loop gain endotype.
+
+@1.3
+Q: Poor upper airway muscle responsiveness (~36% of patients) might be targeted with:
++ Hypoglossal nerve stimulation, myofunctional therapy or atomoxetine + oxybutynin
+- Acetazolamide
+- Supplemental oxygen alone
+- Eszopiclone
+E: Muscle-responsiveness therapies aim to recruit dilators: HNS, myofunctional therapy and noradrenergic–antimuscarinic drugs.
+
+@1.3
+Q: Why might a correctly fitted and fully titrated mandibular advancement device fail in a patient?
++ It is an anatomical intervention that does not systematically change loop gain or arousal threshold
+- It increases loop gain in all patients
+- It raises Pcrit in responders
+- It eliminates genioglossus activity
+E: MADs improve passive anatomy only; patients driven by non-anatomical traits or very positive Pcrit may not respond.
+
+@1.3
+Q: Which obesity-related mechanism contributes to airway collapsibility?
++ Reduced functional residual capacity lessening caudal tracheal traction on the pharynx
+- Increased lung volume stiffening the pharynx
+- Reduced parapharyngeal fat
+- Increased tracheal traction
+E: Obesity reduces FRC and chest wall compliance, decreasing caudal traction, and loads the airway with parapharyngeal fat.
+
+@1.3
+Q: Rostral fluid shift contributes to OSA by:
++ Displacing fluid from the legs to the neck on lying down, narrowing the pharynx
+- Increasing urine output at night
+- Reducing nasal resistance
+- Increasing lung volume
+E: Recumbency shifts fluid rostrally into neck tissues, an important mechanism in heart failure and oedematous states.
+
+@1.3
+Q: Which craniofacial feature is a recognised anatomical risk factor for OSA?
++ Retrognathia with an inferiorly positioned hyoid
+- Prognathic mandible with a high hyoid
+- Wide, low palatal vault
+- Short lower anterior face height
+E: Retrognathia, micrognathia, maxillary constriction, steep mandibular plane and a low hyoid are recognised risks.
+
+@1.3
+Q: In adults with moderate anatomical impairment (the largest group), approximately what proportion also have ≥1 non-anatomical impairment?
++ ~64%
+- ~10%
+- ~36%
+- ~90%
+E: ~64% have ≥1 non-anatomical trait (favouring combination therapy); ~36% do not (anatomical intervention alone may suffice).
+
+@1.3
+Q: In the CPAP "dial-down" technique, a peak inspiratory flow of at least 30% of baseline indicates:
++ A only mildly collapsible airway
+- Severe collapsibility
+- High loop gain
+- Low arousal threshold
+E: Higher PIF on dial-down corresponds to a more negative Pcrit, i.e. a less collapsible airway.
+
+@1.3
+Q: The awake upper airway collapsibility index is calculated as:
++ (Choanal pressure − epiglottic pressure) ÷ choanal pressure
+- Epiglottic pressure × choanal pressure
+- AHI ÷ ODI
+- Peak flow ÷ tidal volume
+E: Higher % collapsibility correlates with higher sleeping Pcrit; it takes ~10 minutes and is easier than formal Pcrit measurement.
+
+@1.3
+Q: Objective PSG evidence of OSA without symptoms is termed:
++ OSA (alone), whereas with symptoms it is OSA syndrome
+- OSA syndrome
+- Primary snoring
+- Upper airway resistance syndrome
+E: OSA refers to PSG evidence; OSA syndrome denotes PSG evidence plus symptoms.
+
+@1.3
+Q: Chronic snoring vibration may contribute to OSA progression through:
++ Pharyngeal sensory neuropathy impairing reflex dilator responses
+- Increased genioglossus strength
+- Reduced soft palate length
+- Enhanced chemoreflex sensitivity only
+E: Pharyngeal sensory neuropathy from chronic vibration is a recognised "other" pathophysiological factor.
+
+@1.3
+Q: Which statement about mandibular advancement and the PALM traits is correct?
++ It reduces collapsibility dose-dependently without systematically changing genioglossus function
+- It reliably lowers loop gain
+- It raises the arousal threshold
+- It works mainly by increasing genioglossus EMG
+E: The primary mode of action is improved passive pharyngeal anatomy.
+
+@1.3
+Q: The term sleep-disordered breathing (SDB) encompasses:
++ A spectrum from increased airflow resistance and snoring through hypopnoea to apnoea
+- Only obstructive apnoeas with desaturation
+- Central apnoea exclusively
+- Insomnia with breathing complaints
+E: SDB is a group of disorders of breathing during sleep spanning increased resistance, heavy snoring, hypopnoea and apnoea.
+
+@1.3
+Q: Nasal obstruction (e.g. septal deviation, turbinate hypertrophy) contributes to SDB by:
++ Increasing resistance, promoting mouth breathing and reducing PAP tolerance
+- Reducing pharyngeal negative pressure
+- Lowering loop gain
+- Increasing lung volumes
+E: Nasal pathology raises upstream resistance, promotes mouth breathing and impairs PAP tolerance.
+
+@1.4
+Q: In the Wisconsin Sleep Cohort (1993), the prevalence of AHI >5 in middle-aged men was approximately:
++ 24%
+- 4%
+- 9%
+- 50%
+E: Young et al. (1993): AHI >5 in 24% of men and 9% of women.
+
+@1.4
+Q: In the Wisconsin cohort, the prevalence of AHI >5 with daytime sleepiness (OSA syndrome) was approximately:
++ 4% of men and 2% of women
+- 24% of men and 9% of women
+- 13% of men and 6% of women
+- 1% of men and 0.5% of women
+E: Symptomatic OSA was ~4% (men) and ~2% (women).
+
+@1.4
+Q: More recent US estimates (2007–2010) of moderate–severe OSA prevalence are approximately:
++ 13% of men and 6% of women
+- 4% of men and 2% of women
+- 24% of men and 9% of women
+- 40% of men and 20% of women
+E: Peppard et al. reported moderate–severe OSA in ~13% of men and ~6% of women.
+
+@1.4
+Q: Global estimates suggest how many adults aged 30–69 have moderate–severe OSA?
++ About 425 million
+- About 42 million
+- About 936 million
+- About 2 billion
+E: Benjafield et al. (2019): ~936 million with any OSA and ~425 million with moderate–severe disease.
+
+@1.4
+Q: The main reason published OSA prevalence figures differ between studies is:
++ Different hypopnoea definitions, AHI thresholds, symptom requirements and population characteristics
+- Errors in pulse oximetry only
+- Genetic differences alone
+- Differences in sleep stage scoring
+E: Always quote a prevalence with its definition (3% vs 4% hypopnoea rule, AHI cut-off, symptom requirement).
+
+@1.4
+Q: Which comorbidity is listed as most predictive of OSA?
++ Obesity, hypertension, cardiovascular disease and type 2 diabetes
+- Osteoporosis and gout
+- Asthma alone
+- Hypothyroidism alone
+E: Obesity, hypertension, CVD (especially ischaemic heart disease) and T2DM are the key predictive comorbidities.
+
+@1.4
+Q: The relationship between obesity and OSA is best described as:
++ Bidirectional, with sleep fragmentation promoting weight gain via appetite hormones
+- Unidirectional, obesity causing OSA only
+- Coincidental
+- Protective, obesity reducing collapse
+E: Fragmentation lowers leptin and raises ghrelin, increasing appetite for calorie-dense food and reducing activity.
+
+@1.4
+Q: Which long-term consequence is associated with untreated OSA?
++ Neurocognitive impairment and metabolic syndrome
+- Increased bone density
+- Lower blood pressure
+- Improved insulin sensitivity
+E: Long-term consequences include neurocognitive impairment, metabolic syndrome, hypertension and CVD.
+
+@1.4
+Q: Approximately what proportion of US adults has been estimated to have OSA in broader estimates?
++ ~17% (up to ~38% in some estimates)
+- ~1%
+- ~5%
+- ~70%
+E: Estimates of ~17% are commonly cited, rising to ~38% depending on definitions.
+
+@1.4
+Q: The prevalence of paediatric OSA is approximately:
++ 1–5% (typically 2–3%)
+- 10–20%
+- 25%
+- <0.1%
+E: Paediatric OSA affects 1–5%; habitual snoring 3–12%.
+
+@1.4
+Q: In children with Down syndrome, moderate–severe OSA (AHI >5) is found in approximately:
++ 50%
+- 5%
+- 15%
+- 90%
+E: Prevalence is ~50% at AHI >5 and 69% at AHI >1, far above the general paediatric population.
+
+@1.4
+Q: An AHI of ≥15 is significant because it is the level at which:
++ Insulin resistance, dyslipidaemia, vascular disease and mortality risks rise materially
+- OSA is classified as severe
+- Snoring begins
+- Sleep architecture becomes normal
+E: AHI ≥15 marks a material rise in metabolic and vascular risk, which is why it qualifies as OSA without symptoms.
+
+@1.4
+Q: In the Wisconsin cohort, prevalence of AHI >15 was approximately:
++ 9% of men and 4% of women
+- 24% of men and 9% of women
+- 2% of men and 1% of women
+- 30% of men and 15% of women
+E: AHI >15: ~9% men, ~4% women.
+
+@1.4
+Q: Which statement best explains why OSA is under-recognised in women?
++ Women more often present atypically with insomnia, fatigue and mood symptoms
+- Women never snore
+- OSA does not occur before menopause
+- Women have higher AHI thresholds
+E: Atypical presentation (insomnia, fatigue, mood) leads to under-diagnosis in women.
+
+@1.4
+Q: Severe sleep-disordered breathing is associated with increased risk of which renal condition?
++ Chronic kidney disease
+- Nephrotic syndrome exclusively
+- Polycystic kidney disease
+- Renal cell carcinoma
+E: SDB is highly prevalent in CKD and severe SDB increases CKD risk.
+
+@1.4
+Q: Which oral condition has an emerging bidirectional relationship with OSA via inflammatory markers?
++ Periodontitis
+- Dental fluorosis
+- Amelogenesis imperfecta
+- Geographic tongue
+E: Periodontitis and OSA share inflammatory markers in an emerging bidirectional relationship.
+
+@1.4
+Q: The global burden figure of ~936 million refers to:
++ Adults aged 30–69 with OSA of any severity (AHI ≥5)
+- All adults with insomnia
+- Children with snoring
+- Patients using CPAP
+E: Benjafield 2019: 936 million any OSA; 425 million moderate–severe.
+
+@1.5
+Q: A 10% increase in body weight is associated with an approximate AHI increase of:
++ 32%
+- 10%
+- 26%
+- 50%
+E: Peppard 2000: 10% weight gain → ~32% AHI rise; 10% loss → ~26% fall.
+
+@1.5
+Q: A 10% reduction in body weight is associated with an approximate AHI reduction of:
++ 26%
+- 5%
+- 32%
+- 60%
+E: Weight loss of 10% lowers AHI by about 26%.
+
+@1.5
+Q: The most important and only readily reversible major risk factor for OSA is:
++ Obesity
+- Male sex
+- Ageing
+- Retrognathia
+E: Obesity is the key modifiable risk factor; sex, age and craniofacial structure are not readily modifiable.
+
+@1.5
+Q: The male-to-female ratio for OSA in adults is approximately:
++ 2:1 to 3:1
+- 1:1
+- 10:1
+- 1:3
+E: Male predominance is ~2–3:1, narrowing with age and after menopause.
+
+@1.5
+Q: Why does the gender gap in OSA narrow after the menopause?
++ Loss of oestrogen's protective effect plus weight gain and central fat redistribution
+- Increased progesterone after menopause
+- Reduction in neck circumference
+- Increased upper airway muscle tone
+E: Post-menopausal loss of hormonal protection and central adiposity increase OSA risk in women.
+
+@1.5
+Q: OSA prevalence with ageing typically:
++ Rises, peaking around 60 years, possibly plateauing in very advanced age
+- Falls steadily from age 30
+- Is unaffected by age
+- Peaks in adolescence
+E: Prevalence rises with age to about 60, then may plateau or decline in the very old.
+
+@1.5
+Q: In children, the dominant OSA risk factor shifts from adenotonsillar hypertrophy (peak 2–8 years) to which factor in adolescence?
++ Overweight/obesity
+- Retrognathia
+- Allergic rhinitis
+- Male sex
+E: Adenotonsillar hypertrophy dominates early childhood; obesity becomes more important in adolescence.
+
+@1.5
+Q: Which endocrine condition is a recognised risk factor for OSA?
++ Acromegaly
+- Addison's disease
+- Hyperparathyroidism
+- Diabetes insipidus
+E: Acromegaly (macroglossia, soft tissue growth), hypothyroidism and PCOS are recognised endocrine risks.
+
+@1.5
+Q: Neck circumference associated with higher OSA risk in men is greater than:
++ 43 cm (17 inches)
+- 35 cm (14 inches)
+- 38 cm (15 inches)
+- 50 cm (20 inches)
+E: >43 cm (17 in) in men and >40 cm (16 in) in women indicates increased risk.
+
+@1.5
+Q: Neck circumference associated with higher OSA risk in women is greater than:
++ 40 cm (16 inches)
+- 33 cm (13 inches)
+- 43 cm (17 inches)
+- 48 cm (19 inches)
+E: The female threshold is >40 cm (16 in).
+
+@1.5
+Q: Alcohol increases OSA severity mainly by:
++ Reducing pharyngeal dilator tone and blunting arousal responses
+- Increasing loop gain only
+- Lowering nasal resistance
+- Increasing REM in the first half of the night
+E: Alcohol reduces dilator tone and blunts arousal, lengthening and worsening events.
+
+@1.5
+Q: Smoking contributes to SDB principally through:
++ Upper airway inflammation, with nocturnal nicotine withdrawal causing arousals
+- Reducing neck circumference
+- Improving dilator tone
+- Lowering Pcrit
+E: Smoking causes upper airway inflammation, and nicotine withdrawal through the night fragments sleep.
+
+@1.5
+Q: Which sleeping position typically increases AHI in adults?
++ Supine
+- Lateral (left)
+- Lateral (right)
+- Prone
+E: Gravity-dependent posterior displacement of the tongue and soft palate makes supine sleep the worst position.
+
+@1.5
+Q: Which of the following is NOT a recognised risk factor for OSA?
++ Prognathic mandible with large maxilla
+- Family history of OSA
+- Use of sedatives or opioids
+- Hypothyroidism
+E: Retrognathia, not prognathism, is the recognised craniofacial risk factor.
+
+@1.5
+Q: Which cardiovascular condition is also listed as a risk factor that can predispose to OSA (via fluid shift and ventilatory instability)?
++ Heart failure
+- Mitral valve prolapse
+- Varicose veins
+- Raynaud's phenomenon
+E: Heart failure predisposes to OSA and CSA through rostral fluid shift and high loop gain.
+
+@1.5
+Q: A 48-year-old man reports gaining 15 kg over 3 years, with worsening snoring. The most accurate counselling statement is:
++ Weight gain is likely to have worsened his SDB, and weight loss could reduce AHI but rarely cures it alone
+- Weight is unrelated to snoring
+- Weight loss will certainly cure his OSA
+- Only surgery can help weight-related OSA
+E: Weight change has a strong dose–response effect on AHI, but weight loss is hard to sustain and often not curative.
+
+@1.5
+Q: Which nasal condition is a recognised OSA risk factor?
++ Allergic rhinitis with nasal congestion
+- Anosmia without obstruction
+- Epistaxis following trauma
+- Nasal vestibulitis alone
+E: Nasal congestion, rhinitis and sinusitis increase resistance and are listed risk factors.
+
+@1.5
+Q: Which statement about genetics and OSA is correct?
++ Family history of OSA is a recognised risk factor
+- OSA has no familial clustering
+- OSA is a single-gene disorder
+- Family history only matters in children
+E: Familial clustering reflects inherited craniofacial structure, obesity and ventilatory control.
+
+@1.6
+Q: Which nocturnal symptom is characteristic of OSA?
++ Waking with choking or gasping
+- Hypnagogic hallucinations with cataplexy
+- An urge to move the legs relieved by movement
+- Sleep-onset insomnia only
+E: Choking/gasping awakenings, witnessed apnoeas and loud snoring are classic nocturnal features.
+
+@1.6
+Q: Why is nocturia considered a symptom of OSA?
++ Urine production normally falls in sleep, so nocturia is abnormal; OSA increases nocturnal natriuresis
+- Nocturia is normal in all adults
+- Nocturia indicates insomnia only
+- Nocturia is caused by mandibular advancement
+E: Normal sleep concentrates urine; OSA-related pressure swings and atrial stretch increase nocturnal urine output.
+
+@1.6
+Q: Which daytime symptom is typical of adult OSA?
++ Morning headache and dry mouth on waking
+- Cataplexy triggered by laughter
+- Evening restless legs
+- Hypnopompic hallucinations only
+E: Morning headache, dry mouth, sleepiness, fatigue and poor concentration are typical daytime features.
+
+@1.6
+Q: Which statement about asymptomatic OSA is correct?
++ Sympathetic activity and arterial pressure may be elevated even without symptoms
+- Asymptomatic OSA never requires treatment
+- Asymptomatic patients always have mild disease
+- Symptoms are required for an OSA diagnosis at any AHI
+E: Severe disease may be asymptomatic yet still carry cardiovascular risk — the basis for treating AHI ≥15 regardless of symptoms.
+
+@1.6
+Q: Which presentation is more typical of OSA in children than adults?
++ Inattention, hyperactivity, irritability and learning problems
+- Prominent excessive daytime sleepiness
+- Reduced libido
+- Morning headache as the main complaint
+E: Children present behaviourally rather than sleepily — features that can mimic ADHD.
+
+@1.6
+Q: The most common reason for an adult to attend a sleep clinic because of someone else is:
++ Socially disruptive snoring ± witnessed apnoeas affecting the bed partner
+- Cataplexy observed by a partner
+- Sleepwalking
+- Teeth grinding noises only
+E: The effect on the bed partner is one of three main reasons adults attend.
+
+@1.6
+Q: Which of the following is NOT a typical symptom of OSA?
++ Cataplexy
+- Unrefreshing sleep
+- Nocturia
+- Night sweats
+E: Cataplexy is pathognomonic of narcolepsy type 1, not OSA.
+
+@1.6
+Q: Reduced libido and impotence in OSA are best described as:
++ Recognised daytime/systemic symptoms of OSA
+- Side effects of oral appliance therapy
+- Features of insomnia only
+- Unrelated to sleep
+E: Reduced libido and impotence are listed daytime symptoms of OSA.
+
+@1.6
+Q: Which statement about snoring as a symptom is correct?
++ Snoring neither rules OSA in nor out
+- All snorers have OSA
+- Absence of snoring excludes OSA
+- Snoring intensity determines AHI
+E: About one third of OSA patients do not snore and one third of snorers have no OSA.
+
+@1.6
+Q: A 52-year-old woman reports insomnia, fatigue and low mood but no witnessed apnoeas. The most appropriate statement is:
++ OSA should still be considered, as women often present atypically
+- OSA is excluded because she has no witnessed apnoeas
+- Her symptoms are definitively depression
+- She needs no further assessment
+E: Women frequently present with insomnia, fatigue and mood complaints, leading to under-diagnosis.
+
+@1.6
+Q: Which group requires urgent assessment and explicit driving advice when OSA is suspected?
++ Commercial drivers or those reporting sleepiness while driving
+- Retired patients who do not drive
+- Patients with primary snoring only
+- Children under five
+E: Suspected OSA with driving sleepiness or in safety-critical work requires urgent assessment.
+
+@1.6
+Q: Restless sleep and night sweats in an adult snorer are best interpreted as:
++ Possible nocturnal features of OSA
+- Diagnostic of RLS
+- Features of narcolepsy
+- Normal findings in all adults
+E: Restless unrefreshing sleep and night sweats are listed nocturnal OSA symptoms.
+
+@1.6
+Q: Which of the following is a recognised oral sign associated with SDB?
++ Dry mouth on waking due to mouth breathing
+- Black hairy tongue
+- Lichen planus
+- Pericoronitis
+E: Mouth breathing from nasal obstruction or jaw opening produces morning dry mouth.
+
+@1.6
+Q: Which statement about the Epworth score in OSA is correct?
++ Many OSA patients are not detectably sleepy, so a normal ESS does not exclude OSA
+- All OSA patients have ESS >10
+- ESS predicts AHI accurately
+- An ESS of 0 excludes OSA
+E: The ESS correlates poorly with AHI and must never be used alone.
+
+@1.6
+Q: Which group of symptoms most suggests concern about the long-term consequences of OSA?
++ Partner-witnessed apnoeas prompting concern about cardiovascular disease, stroke and driving safety
+- Isolated nightmares
+- Occasional sleep talking
+- Hypnic jerks at sleep onset
+E: Suspicion of OSA, often after witnessed apnoeas, with concern about consequences is one of the three attendance triggers.
+
+@1.6
+Q: Tooth grinding and excessive salivation at night in a snorer may be:
++ Nocturnal features reported in OSA patients
+- Diagnostic of epilepsy
+- Always caused by medications
+- Signs of narcolepsy
+E: Salivation and tooth grinding are listed among nocturnal OSA features; bruxism commonly co-occurs.

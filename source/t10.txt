@@ -1,0 +1,863 @@
+@10.1
+Q: Consent is "informed" when the clinician discloses and the patient understands:
++ The diagnosis, relevant options including no treatment, and the risks and benefits of each
+- Only the fee
+- Only the appliance design
+- Only the expected cure rate
+E: Definition of informed consent.
+
+@10.1
+Q: The three tests of valid consent are:
++ Capacity, voluntariness and comprehension
+- Age, income and insurance
+- Signature, date and witness only
+- Diagnosis, prognosis and fee
+E: Comprehension should be verified, not assumed.
+
+@10.1
+Q: A practical way to verify patient comprehension during consent is to:
++ Ask the patient to repeat back what they have understood
+- Assume understanding if they sign
+- Give them a long leaflet without discussion
+- Ask a family member to sign
+E: Teach-back.
+
+@10.1
+Q: The four purposes of the consent process are:
++ Legal, ethical, administrative and interpersonal
+- Financial, legal, clinical and marketing
+- Diagnostic, therapeutic, preventive and palliative
+- Physical, mental, social and spiritual
+E: Four purposes.
+
+@10.1
+Q: A signed consent form alone satisfies only which purpose?
++ Administrative
+- Ethical
+- Interpersonal
+- All four purposes
+E: Exam point.
+
+@10.1
+Q: The interpersonal purpose of consent is to:
++ Build the trust necessary to proceed with therapeutic intervention
+- Protect from assault claims
+- Ensure billing accuracy
+- Satisfy regulators only
+E: Interpersonal purpose.
+
+@10.1
+Q: Which dental side effects must be disclosed at minimum before fitting an appliance?
++ Reduced overjet and overbite with fewer occlusal contacts, possible (pre)molar crossbite and altered aesthetics
+- Only salivation
+- Only appliance breakage
+- None
+E: Minimum dental disclosures.
+
+@10.1
+Q: Alternatives that must be discussed during consent for OAT include:
++ PAP, positional therapy, weight loss, surgery and no treatment
+- Only CPAP
+- Only surgery
+- No alternatives need discussion
+E: Full alternatives.
+
+@10.1
+Q: The consent form should clearly indicate:
++ Potential and probable side effects and the appliance's longevity
+- Only the laboratory used
+- Only the protrusion setting
+- Only the payment plan
+E: Consent form content.
+
+@10.1
+Q: Consent for OAT should be obtained:
++ Preferably in writing, before fitting
+- After the appliance is delivered
+- Only verbally
+- At the first annual review
+E: Timing.
+
+@10.1
+Q: Given predictable occlusal change, signed informed consent is described as:
++ Mandatory and the dentist's principal protection
+- Optional
+- Unnecessary for adults
+- Only for children
+E: Medicolegal importance.
+
+@10.1
+Q: Decision aids in consent are particularly useful for:
++ Particularly complex decisions
+- Simple decisions only
+- Billing
+- Laboratory communication
+E: Documentation tools.
+
+@10.1
+Q: Simple consent requires a patient (or surrogate) with:
++ Decision-making capacity freely authorising a treatment plan toward a mutually acknowledged goal
+- No capacity
+- Insurance approval
+- A referral letter only
+E: Simple consent definition.
+
+@10.1
+Q: Narrative notes describing the consent discussion are important because:
++ The conversation is only protective if documented
+- They replace the signed form
+- They are optional
+- They are for the laboratory
+E: Documentation.
+
+@10.1
+Q: The ethical purpose of consent supports:
++ Autonomous self-determination and patient-defined goals
+- Practice efficiency only
+- Insurance claims
+- Laboratory scheduling
+E: Ethical purpose.
+
+@10.1
+Q: When obtaining consent, the patient should be given the opportunity to:
++ Ask questions about the risks of treatment and be educated about the risks of no treatment
+- Sign without questions
+- Choose a laboratory
+- Set their own protrusion
+E: Procedure.
+
+@10.1
+Q: Establishing goals of care during consent should consider:
++ The patient's other life goals and preferences
+- Only the AHI
+- Only insurer rules
+- Only the dentist's preferences
+E: Goals of care.
+
+@10.1
+Q: Who should receive a copy of the signed consent form?
++ The patient, with the original kept in the record
+- Only the laboratory
+- Only the insurer
+- No one
+E: Copy to the patient.
+
+@10.2
+Q: The approximate proportion of patients who discontinue OAT specifically due to side effects is:
++ 7.5%
+- 0.5%
+- 25%
+- 50%
+E: Commonest cause: TMJ pain.
+
+@10.2
+Q: The most common side effect leading to cessation of OAT is:
++ TMJ pain
+- Occlusal change
+- Dry mouth
+- Excessive salivation
+E: Less commonly occlusal change.
+
+@10.2
+Q: Side effects contribute to approximately what proportion of all OAT discontinuations?
++ 20–30%
+- 1–2%
+- 60–70%
+- 100%
+E: Side effects are a major reason.
+
+@10.2
+Q: Short-term excessive salivation occurs in approximately:
++ 27%
+- 2%
+- 60%
+- 90%
+E: Short-term figures.
+
+@10.2
+Q: Short-term dry mouth occurs in approximately:
++ 38%
+- 5%
+- 70%
+- 95%
+E: Short-term figures.
+
+@10.2
+Q: Short-term tooth pain occurs in approximately:
++ 36%
+- 3%
+- 70%
+- 95%
+E: Short-term figures.
+
+@10.2
+Q: Allergic reactions to appliance materials (acrylic, nickel) occur in:
++ <1%
+- 10%
+- 25%
+- 50%
+E: Rare.
+
+@10.2
+Q: Long-term jaw pain with OAT is reported in approximately:
++ 34%
+- 3%
+- 70%
+- 90%
+E: Long-term effects.
+
+@10.2
+Q: Long-term bite change is reported in approximately:
++ 14–26%
+- 1–2%
+- 50–60%
+- 90–100%
+E: Reported range for noticeable bite change.
+
+@10.2
+Q: Typical mean reduction in overjet with long-term OAT is approximately:
++ 1.9 mm
+- 0.1 mm
+- 5 mm
+- 10 mm
+E: Overbite ~2.3 mm.
+
+@10.2
+Q: Typical mean reduction in overbite with long-term OAT is approximately:
++ 2.3 mm
+- 0.2 mm
+- 6 mm
+- 12 mm
+E: About one third exceed 1 mm.
+
+@10.2
+Q: Approximately what proportion of nightly users over 7 years experience occlusal change?
++ 80%
+- 5%
+- 25%
+- 100%
+E: An expected consequence, not a rare complication.
+
+@10.2
+Q: The direction of force from a MAD on the dentition is:
++ Distal on the upper teeth and forward on the lower teeth
+- Forward on the upper teeth and distal on the lower
+- Vertical intrusion of all teeth
+- No force on teeth
+E: Dose-dependent shift.
+
+@10.2
+Q: The main cause of occlusal change with OAT is:
++ Tilting of teeth (upper incisor retroclination, lower incisor proclination)
+- Increase in mandibular length
+- Change in skeletal pattern
+- Condylar growth
+E: Tooth movement, not skeletal change.
+
+@10.2
+Q: Which statement about the time course of occlusal change is correct?
++ Overjet decreases continuously at a constant rate; overbite decreases less with time
+- Both stop changing after 1 month
+- Overjet increases over time
+- Change only occurs in the first week
+E: Time course.
+
+@10.2
+Q: Occlusal change with OAT tends to produce:
++ A mesio-occlusion tendency (e.g. Class I toward Class III)
+- A distal shift toward Class II
+- Anterior open bite in most patients
+- No AP change
+E: Anteroposterior tendency.
+
+@10.2
+Q: Posterior open bite (loss of contact on ≥2 posterior teeth) is reported in approximately:
++ 51% of long-term users
+- 1%
+- 10%
+- 95%
+E: Long-term series.
+
+@10.2
+Q: Anterior crossbite of at least one tooth is reported in approximately:
++ 62% of long-term users
+- 2%
+- 15%
+- 99%
+E: Long-term series.
+
+@10.2
+Q: CPAP and dental change: which statement is correct?
++ CPAP can also retrocline upper incisors via a tightly fitted nasal mask
+- CPAP never affects the dentition
+- CPAP proclines upper incisors
+- CPAP causes skeletal Class III
+E: CPAP is not innocent.
+
+@10.2
+Q: Can the degree of occlusal change be reliably predicted from pre-treatment occlusal classification?
++ No — it cannot be predicted from classification; age, sex and BMI are also unrelated
+- Yes — Class II always changes most
+- Yes — Class III never changes
+- Yes — BMI predicts it precisely
+E: Predictors are limited.
+
+@10.2
+Q: The period of greatest vulnerability to occlusal change is:
++ The first 2 years
+- After 20 years only
+- The first week only
+- Never
+E: Change may partly reverse later as a new equilibrium forms.
+
+@10.2
+Q: Occlusal change is thought to occur because of:
++ Failure to reposition the mandible during the day after use
+- Immutable overnight skeletal change
+- Appliance colour
+- Laboratory error only
+E: Rationale for morning aligners.
+
+@10.2
+Q: Which patient is most vulnerable to occlusal change?
++ An edge-to-edge bite with minimal overjet and overbite
+- Large overjet with deep bite
+- Patient using the appliance 3 nights a week
+- Patient advanced to 40% of maximum
+E: Easily becomes Class III.
+
+@10.2
+Q: Patients wearing the appliance for more than how many hours should be asked to remove it on waking?
++ 8 hours
+- 2 hours
+- 4 hours
+- 12 hours
+E: Vulnerability factor.
+
+@10.2
+Q: Patients with high aesthetic demands or body dysmorphic features need:
++ Particularly careful consent, as minor change may be subjectively intolerable
+- No consent
+- Maximum protrusion
+- Discharge
+E: Vulnerable group.
+
+@10.2
+Q: What do most patients experience regarding occlusal change?
++ Changes are mostly minor and unnoticed; most do not wish to stop
+- Severe chewing problems in all
+- Immediate discontinuation
+- Complete loss of occlusion
+E: Patient experience.
+
+@10.2
+Q: The clinically consequential effect of bite change on OAT is that:
++ Forward shift of lower teeth reduces the effective advancement and threatens efficacy
+- It improves efficacy
+- It has no effect on the device
+- It cures OSA
+E: Mechanism impact.
+
+@10.2
+Q: Which arch change is seen in long-term OAT?
++ Increased lower intercanine and intermolar width with reduced lower crowding
+- Reduced lower arch width
+- Increased lower crowding
+- No arch change
+E: Lower arch expansion.
+
+@10.2
+Q: The unifying insight about occlusal change in OAT is that it is:
++ An expected, quantified consequence to be predicted, disclosed, monitored, minimised and managed
+- A rare mishap
+- Always preventable
+- Irrelevant
+E: Exam framing.
+
+@10.2
+Q: Change in facial height and jaw relationship has been noted as early as:
++ 6 months
+- 1 week
+- 5 years
+- 15 years
+E: Early change.
+
+@10.3
+Q: Greater protrusion (e.g. 70% of maximum) induces significant biomechanical stress particularly on:
++ Mandibular molars, increasing risk of root and bone resorption
+- Maxillary incisors only
+- The hyoid bone
+- The nasal septum
+E: Biomechanical effects.
+
+@10.3
+Q: Long-term OAT effects on the TMJ in the literature show:
++ No significant morphological alteration and no long-term impairment
+- Condylar resorption in most patients
+- Disc perforation in most
+- Ankylosis
+E: Reassuring data.
+
+@10.3
+Q: Soft tissue adaptation to OAT includes:
++ Superior and anterior repositioning of the hyoid
+- Inferior displacement of the hyoid
+- Tongue atrophy
+- Palatal lengthening
+E: Muscular adaptation.
+
+@10.3
+Q: Risk of side effects increases significantly when advancement exceeds approximately:
++ 50% of maximum protrusion
+- 5%
+- 20%
+- 100% only
+E: Factor influencing severity.
+
+@10.3
+Q: An important corollary of the dose-dependence of side effects is that:
++ Minimising titration is a side-effect prevention strategy
+- Maximum protrusion should always be used
+- Side effects are unrelated to protrusion
+- Vertical opening should be maximised
+E: Least effective advancement.
+
+@10.3
+Q: Craniofacial changes from OAT are mainly related to:
++ Significant tooth movement
+- Skeletal growth
+- Mandibular lengthening
+- Cranial base change
+E: Dental not skeletal.
+
+@10.3
+Q: Unnatural anterior positioning of the mandible may cause in the TMJ:
++ Pain, clicking and myofascial pain
+- Ankylosis
+- Condylar fracture
+- Dislocation in most patients
+E: TMJ effects.
+
+@10.3
+Q: Effective treatment of OSA may supersede maintenance of baseline occlusion, but only after:
++ Documenting that the patient understood and accepted the trade-off
+- Ignoring the patient's view
+- The laboratory agrees
+- 10 years of use
+E: Consent-based trade-off.
+
+@10.3
+Q: Which underlying factor increases risk of OAT side effects?
++ Pre-existing masticatory musculoskeletal disorders
+- Good periodontal health
+- Low protrusion
+- Short wearing time
+E: Risk factors.
+
+@10.3
+Q: Over-eruption of molars during OAT is most likely when:
++ Molars are left uncovered by the appliance
+- All teeth are covered
+- A hard appliance is used
+- Incisor coverage is included
+E: Tooth movement.
+
+@10.3
+Q: The incisor changes typical of long-term OAT are:
++ Proclined lower incisors and retroclined upper incisors
+- Retroclined lower and proclined upper incisors
+- No change
+- Intruded incisors only
+E: Tooth tilting.
+
+@10.3
+Q: Increased maximal mouth opening in long-term OAT users is:
++ A reported finding
+- Never seen
+- Pathological in all cases
+- Caused by condylar fracture
+E: Long-term changes.
+
+@10.3
+Q: In mild and moderate OSA, an appliance is often effective at:
++ A less protrusive position, causing less severe dental side effects
+- Maximum protrusion only
+- Zero protrusion
+- Increased vertical opening only
+E: Less advancement needed.
+
+@10.3
+Q: Condylar translation during MAD wear compared with maximum mouth opening is:
++ Less
+- Greater
+- Identical
+- Absent
+E: Reassuring biomechanics.
+
+@10.3
+Q: Hypersalivation or dry mouth reflects the effect of protrusion on:
++ Soft tissues
+- Teeth
+- Bone
+- TMJ disc
+E: Soft tissue effects.
+
+@10.4
+Q: A morning occlusal guide is worn on waking for approximately:
++ 15–20 minutes
+- 1–2 minutes
+- 2 hours
+- All day
+E: Some protocols ~10 minutes.
+
+@10.4
+Q: A morning occlusal guide should be:
++ Custom made and recorded in centric occlusion
+- Prefabricated without adjustment
+- Recorded in maximum protrusion
+- Made of soft EVA without bite registration
+E: Fabrication principle.
+
+@10.4
+Q: Besides repositioning the mandible, the morning guide:
++ Alerts the patient to occlusal change if the back teeth cannot occlude with it seated
+- Measures AHI
+- Advances the mandible
+- Replaces the appliance at night
+E: Monitoring function.
+
+@10.4
+Q: The morning occlusal guide works by:
++ Realigning the bite to maximum intercuspation, stretching muscles and repositioning condyles
+- Advancing the mandible further
+- Increasing vertical dimension permanently
+- Moving teeth forward
+E: Mechanism.
+
+@10.4
+Q: The AADSM's position on morning occlusal guides and exercises is that they are:
++ Recommended, though not a cure-all
+- Contraindicated
+- Required only in children
+- Unnecessary
+E: Some change may still occur.
+
+@10.4
+Q: Morning jaw exercises include:
++ Opening wide, moving the jaw side to side, resting chin on fist and curling the tongue back
+- Clenching hard for an hour
+- Chewing ice
+- Protruding maximally for 30 minutes
+E: Gentle exercises.
+
+@10.4
+Q: Evidence for morning exercises is:
++ Good short-term, limited long-term
+- Strong long-term
+- Absent
+- Negative
+E: Evidence quality.
+
+@10.4
+Q: Which morning aid mostly helps acute morning occlusal change?
++ Chewing gum
+- Ice packs
+- Alcohol
+- Caffeine
+E: Supplementary.
+
+@10.4
+Q: Two fabrication types for morning guides are:
++ Thermoacrylic beads or a prefabricated sheet moulded in centric occlusion
+- Alginate and plaster
+- Metal casting and porcelain
+- Wax and impression compound
+E: Fabrication methods.
+
+@10.4
+Q: The occlusion should be checked with and without the morning guide to confirm:
++ The back teeth occlude when it is seated
+- It increases overjet
+- It advances the mandible
+- It fits the appliance
+E: Practical point.
+
+@10.4
+Q: Morning exercises aim to:
++ Relieve muscle stiffness and accelerate mandibular repositioning
+- Increase AHI
+- Advance the mandible
+- Strengthen bruxism
+E: Purpose.
+
+@10.4
+Q: The morning guide should be suggested to:
++ Every patient
+- Only patients with severe change
+- Only children
+- No patients
+E: Universal recommendation.
+
+@10.4
+Q: When should the morning guide and exercises be used?
++ Immediately after removing the appliance
+- Before bed
+- Midday only
+- Only weekly
+E: Timing.
+
+@10.4
+Q: A patient finds their morning guide no longer fits with the back teeth together. This indicates:
++ Bite change has occurred and the practice should be contacted
+- The guide is working perfectly
+- OSA has been cured
+- No action is needed
+E: Monitoring function.
+
+@10.4
+Q: When can a centric occlusion record for the morning guide be taken conveniently?
++ At the appliance impression/bite registration appointment
+- Only after 5 years
+- At the PSG
+- Never
+E: Practical workflow.
+
+@10.5
+Q: Conservative management of occlusal change includes:
++ Temporary cessation or reduced use with daily morning exercises and an occlusal guide
+- Immediate orthodontics
+- Crowns on all teeth
+- Increasing protrusion
+E: First-line management.
+
+@10.5
+Q: With exercises, occlusal change resolves after cessation in most cases within approximately:
++ 2 weeks
+- 1 day
+- 6 months
+- 5 years
+E: Conservative resolution.
+
+@10.5
+Q: Continuing OAT in the presence of occlusal change is reasonable if:
++ It is monitored at least 6-monthly, not symptomatic, not progressive and posterior support is adequate
+- The patient is unaware of it
+- It is progressive
+- Posterior occlusion is lost
+E: Conditions for continuing.
+
+@10.5
+Q: Correction of occlusal change with restorations or orthodontics should be considered only:
++ After the patient has discontinued OAT and can use another OSA treatment
+- While still using the appliance
+- Within the first month
+- Never
+E: Change continues while the appliance is worn.
+
+@10.5
+Q: Bilateral jaw pain early in OAT most likely indicates:
++ Advancement beyond TMJ tolerance, unsuitable vertical dimension or poor retention
+- Prone sleeping
+- Asymmetrical protrusion
+- Uneven occlusal contact on one side
+E: Bilateral causes.
+
+@10.5
+Q: Management of bilateral jaw pain includes:
++ Retruding for a few weeks then advancing gradually, modifying vertical dimension and reducing titration rate
+- Advancing to maximum
+- Ignoring symptoms
+- Removing all occlusal coverage
+E: Plus rest, ice, soft diet, anti-inflammatories.
+
+@10.5
+Q: Unilateral jaw pain three weeks after starting OAT points to:
++ Asymmetry, such as prone sleeping, uneven contact or asymmetrical protrusion
+- Excessive symmetrical advancement
+- Excessive salivation
+- Allergy
+E: Unilateral causes.
+
+@10.5
+Q: Management of unilateral jaw pain includes retruding the screw on the affected side by:
++ 0.5–1 mm
+- 5 mm
+- 10 mm
+- 0.01 mm
+E: Plus occlusal adjustment and confirming seating.
+
+@10.5
+Q: Excessive salivation is managed by:
++ Reassurance and a towel on the pillow, as it resolves in 2–3 weeks
+- Stopping the appliance permanently
+- Increasing protrusion
+- Antibiotics
+E: Self-limiting.
+
+@10.5
+Q: Dry mouth during OAT may be managed by:
++ Improving nasal breathing, reducing vertical dimension, chin strap and dry mouth gels
+- Increasing vertical dimension
+- Increasing protrusion
+- Stopping fluids
+E: Dry mouth management.
+
+@10.5
+Q: Soft tissue irritation from a rough appliance surface is managed by:
++ Polishing, discontinuing until healed and orthodontic wax
+- Ignoring it
+- Increasing protrusion
+- Removing all teeth coverage
+E: Soft tissue management.
+
+@10.5
+Q: Transient morning jaw pain is managed with:
++ Jaw exercises, massage, heat and the morning occlusal guide
+- Immediate discontinuation
+- Surgery
+- Maximum protrusion
+E: Muscles adjusting.
+
+@10.5
+Q: Persistent TMJ pain with OAT may be managed by:
++ Correcting asymmetric advancement, decreasing titration rate and adding posterior stops
+- Increasing advancement rapidly
+- Ignoring
+- Surgery as first line
+E: Persistent TMJ management.
+
+@10.5
+Q: Acute TMD symptoms during OAT usually resolve within about:
++ One week with massage, warm packs and NSAIDs
+- One day without treatment
+- One year
+- Never
+E: Usually acute and transient.
+
+@10.5
+Q: Which strategy helps minimise occlusal change?
++ Minimal effective titration, covering all teeth and morning aligner use
+- Leaving molars uncovered
+- Flexible material without incisor coverage
+- Maximum protrusion
+E: Minimisation strategies.
+
+@10.5
+Q: For a patient with previous orthodontic treatment, a suggested regimen to limit change is:
++ Appliance 4 nights and morning aligner 3 nights, or appliance at night with a retainer by day
+- Appliance 24 hours a day
+- No appliance ever
+- Appliance only at weekends at maximum protrusion
+E: Vulnerable patient strategies.
+
+@10.5
+Q: The strongest determinant of whether a patient stays in OAT is:
++ Resolving side effects early and promptly
+- Appliance colour
+- The laboratory used
+- Cost alone
+E: Early management.
+
+@10.5
+Q: Dentists should keep which list to aid side effect management?
++ A list of vulnerable patients for early review
+- A list of laboratory prices
+- A list of insurers
+- A list of competitors
+E: Communication strategy.
+
+@10.6
+Q: If a patient finds occlusal change unacceptable, OAT should be discontinued only if:
++ They accept another therapy from their physician, or understand the risks and their physician is informed
+- The dentist decides alone
+- The laboratory agrees
+- The patient pays a fee
+E: You cannot simply stop treating serious disease.
+
+@10.6
+Q: When OAT is stopped for any reason, the dentist should:
++ Notify the medical provider
+- Inform no one
+- Inform only the laboratory
+- Destroy the appliance records
+E: Untreated OSA carries risk.
+
+@10.6
+Q: Within the first 12–18 months, established occlusal change should generally be:
++ Left alone, as most self-correct
+- Treated immediately with orthodontics
+- Treated with crowns
+- Treated with surgery
+E: Early review keeps this option open.
+
+@10.6
+Q: Failure of conservative management of occlusal change, particularly with loss of posterior occlusion, may require:
++ Permanent cessation of OAT
+- Increased protrusion
+- No change
+- Adding vertical opening
+E: Reason for abandoning.
+
+@10.6
+Q: For patients who cannot accept ongoing occlusal change, an alternative regimen is:
++ Alternating CPAP and appliance on different nights
+- Doubling appliance wear
+- Daytime appliance use
+- Stopping all treatment without notification
+E: Half-and-half regimen.
+
+@10.6
+Q: The primary alternative therapy when OAT is abandoned in severe OSA is:
++ CPAP
+- Sleep hygiene alone
+- Palatal implants
+- Antihistamines
+E: Alternatives.
+
+@10.6
+Q: Developing contraindications that may lead to abandoning OAT include:
++ Severe periodontal disease, insufficient teeth, active TMJ disorder or limited protrusion
+- Improved oral hygiene
+- Weight loss
+- Reduced snoring
+E: Reasons to stop.
+
+@10.6
+Q: Before abandoning OAT due to side effects, the dentist should consider:
++ Whether modification of the device or settings is preferable
+- Immediate discharge
+- Increasing protrusion to maximum
+- Avoiding physician input
+E: Modification may beat abandonment.
+
+@10.6
+Q: In a younger patient for whom OAT has failed, which surgical alternative may be considered?
++ Orthognathic surgery
+- Palatal implants only
+- Tooth extraction
+- Gingivectomy
+E: Alternatives.
+
+@10.6
+Q: Non-compliant patients abandoning OAT should be:
++ Referred back to their physician to consider alternatives
+- Discharged without notification
+- Advanced to maximum protrusion
+- Prescribed alcohol
+E: Untreated OSA risk.
+
+@10.6
+Q: If treatment of established occlusal change is required after OAT stops, options include:
++ Orthodontics, equilibration and restoration, or prosthodontic overlays
+- More appliance advancement
+- Ignoring permanently
+- CBCT only
+E: Definitive correction after cessation.
+
+@10.6
+Q: Factors in deciding to suspend OAT include:
++ Overall health, tolerance of side effects, commitment and device/settings
+- Appliance colour
+- Laboratory location
+- Dentist convenience only
+E: Decision factors.

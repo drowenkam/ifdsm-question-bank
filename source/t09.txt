@@ -1,0 +1,759 @@
+@9.1
+Q: Which statement about in-laboratory PSG for diagnosis is correct?
++ It is accurate with a low failure rate but expensive and technically complex
+- It is inexpensive and simple
+- It has a high failure rate
+- It cannot diagnose central apnoea
+E: Also the standard for narcolepsy and CSA.
+
+@9.1
+Q: Portable monitoring may be used as an alternative to PSG in patients with:
++ High pre-test probability of moderate-to-severe OSA and no significant comorbidity
+- Low probability of OSA
+- Suspected narcolepsy
+- Congestive heart failure
+E: Portable monitoring criteria.
+
+@9.1
+Q: Portable monitoring should be performed in conjunction with:
++ A comprehensive sleep evaluation supervised by a board-certified sleep specialist
+- A dental screening alone
+- A pharmacist's review
+- No clinical evaluation
+E: Supervision requirement.
+
+@9.1
+Q: Portable monitoring is NOT appropriate for:
++ General population screening
+- High-risk patients without comorbidity
+- Monitoring response to OAT where OSA is diagnosed
+- Patients where in-lab PSG is impossible due to immobility
+E: Not for screening.
+
+@9.1
+Q: A patient at high risk of moderate–severe OSA who fails portable monitoring criteria should have:
++ In-laboratory PSG
+- No testing
+- Questionnaire only
+- Oximetry only
+E: Decision tree.
+
+@9.1
+Q: Which comorbidity degrades the accuracy of portable monitoring?
++ Moderate-to-severe pulmonary disease, neuromuscular disease or congestive heart failure
+- Mild hypertension
+- Controlled hypothyroidism
+- Myopia
+E: Use in-lab PSG.
+
+@9.1
+Q: Portable monitors cannot diagnose which disorder?
++ Periodic limb movement disorder
+- Moderate OSA in a high-risk patient
+- Severe OSA in a high-risk patient
+- Uncomplicated OSA
+E: Also CSA, insomnia, parasomnias, circadian disorders, narcolepsy.
+
+@9.1
+Q: A legitimate special indication for portable monitoring is:
++ Monitoring response to non-CPAP treatment (e.g. oral appliances) where OSA is already diagnosed
+- Screening all dental patients
+- Diagnosing narcolepsy
+- Diagnosing insomnia
+E: Special indications.
+
+@9.1
+Q: Portable monitors must record at a minimum:
++ Airflow, respiratory effort and blood oxygenation
+- EEG, EOG and EMG
+- Heart rate only
+- Snoring only
+E: Minimum channels.
+
+@9.1
+Q: The recommended effort sensor for portable monitoring is:
++ Calibrated or uncalibrated inductance plethysmography
+- Strain gauge only
+- Snoring microphone
+- Thermistor
+E: Biosensors as for PSG.
+
+@9.1
+Q: Why are both an oronasal thermal sensor and a nasal pressure transducer ideally used?
++ Nasal pressure detects hypopnoeas best but misses oral flow in mouth breathers
+- Thermal sensors measure oxygen
+- Nasal pressure measures effort
+- Both measure EEG
+E: Complementary airflow sensors.
+
+@9.1
+Q: The maximum oximetry signal averaging time recommended for portable monitors is:
++ ≤3 seconds at a heart rate of 80 bpm or above
+- ≤30 seconds
+- ≤60 seconds
+- No averaging limit
+E: Captures brief desaturations.
+
+@9.1
+Q: Portable monitor devices must allow:
++ Review of raw data with manual scoring or editing by skilled personnel
+- Automated scoring only without review
+- Diagnosis by the patient
+- Data deletion
+E: Scoring requirement.
+
+@9.1
+Q: Data on portable monitoring are limited in:
++ Children and adults over 65
+- Middle-aged adults
+- High-risk patients
+- Obese patients
+E: Population limitations.
+
+@9.1
+Q: Relevant risk factors for selecting high-risk patients for portable monitoring include:
++ Snoring, sleepiness, obesity and witnessed apnoea
+- Caries and gingivitis
+- Myopia
+- Left-handedness
+E: Their severity correlates with OSA severity.
+
+@9.1
+Q: In adults, OSA is confirmed when PSG shows:
++ AHI ≥5/h with symptoms, or ≥15/h regardless
+- AHI ≥1/h
+- AHI ≥30/h only
+- Snoring without apnoea
+E: Adult diagnostic threshold.
+
+@9.1
+Q: Screening questionnaires in adult diagnosis:
++ Support suspicion but cannot diagnose alone
+- Are diagnostic
+- Replace PSG
+- Are unnecessary
+E: Screening vs diagnosis.
+
+@9.1
+Q: PSG is essential for distinguishing:
++ Central from obstructive events and grading severity
+- Caries risk
+- Periodontal status
+- Malocclusion class
+E: PSG role.
+
+@9.1
+Q: Which additional test is used for suspected narcolepsy or hypersomnia?
++ MSLT
+- HSAT
+- CBCT
+- Oximetry
+E: Additional testing.
+
+@9.1
+Q: Acoustic pharyngometry and actigraphy are described as:
++ Adjuncts in diagnosis
+- Gold-standard diagnostic tests
+- Treatments
+- Contraindicated
+E: Complementary testing.
+
+@9.1
+Q: The first line of the five-line diagnostic summary states:
++ Clinical suspicion from symptoms and risk factors initiates the process
+- Home testing is always definitive
+- Dentists diagnose OSA
+- Questionnaires confirm OSA
+E: Diagnostic process.
+
+@9.1
+Q: The definitive diagnostic tool for OSA is:
++ Overnight laboratory PSG
+- STOP-BANG
+- ESS
+- Dental examination
+E: Five-line summary.
+
+@9.1
+Q: Home testing in the diagnostic process may suit:
++ Straightforward moderate-to-severe cases
+- Complex cases with comorbidity
+- Suspected parasomnias
+- Children routinely
+E: Five-line summary.
+
+@9.1
+Q: Where a dentist may lawfully order or administer a home sleep test, the data are used:
++ For titration purposes only
+- To diagnose OSA
+- As formal follow-up assessment
+- For certification of fitness to drive
+E: Scope of practice.
+
+@9.1
+Q: The diagnosis of OSA should always be determined by a physician who has also:
++ Seen the patient clinically
+- Never met the patient
+- Fitted the appliance
+- Taken the impressions
+E: Clinical evaluation required.
+
+@9.1
+Q: Which statement about portable monitoring and other sleep disorders is correct?
++ Portable monitors do not record the data needed to diagnose disorders such as narcolepsy or parasomnias
+- Portable monitors diagnose all sleep disorders
+- They are preferred for insomnia
+- They are preferred for CSA
+E: In-lab PSG needed.
+
+@9.1
+Q: Portable monitoring may be used where in-laboratory PSG is impossible due to:
++ Immobility, safety concerns or critical illness
+- Patient preference for no testing
+- Dentist convenience
+- Low pre-test probability
+E: Special indications.
+
+@9.1
+Q: Who is eligible to supervise portable monitoring?
++ A board-certified sleep specialist or someone eligible for the sleep medicine certification examination
+- Any dentist
+- The patient
+- A dental technician
+E: Supervision criteria.
+
+@9.1
+Q: Diagnosis relies on the AHI threshold combined with:
++ The clinical presentation
+- Appliance design
+- Insurance status
+- Dental occlusion
+E: Five-line summary.
+
+@9.1
+Q: Specialist referral to ENT, cardiology or neurology during diagnosis occurs:
++ As findings dictate
+- In every patient
+- Never
+- Only for children
+E: Complementary referral.
+
+@9.2
+Q: Baseline sleep study data should be stored because:
++ Without a baseline you cannot demonstrate treatment effect
+- It is decorative
+- It replaces consent
+- It is required for laboratory fabrication
+E: Record keeping.
+
+@9.2
+Q: The AADSM specifies clinical notes in which format?
++ SOAP — subjective, objective, assessment, plan
+- PICO
+- ABCDE
+- SBAR only
+E: Documentation format.
+
+@9.2
+Q: Study models, impressions and bite registrations should be retained:
++ As long as local regulation requires
+- For one week
+- Never
+- Only until delivery
+E: Record retention.
+
+@9.2
+Q: Informed consent records should be:
++ Signed by the patient in the presence of the dentist or team member, countersigned and dated by the dentist
+- Verbal only
+- Signed only by the laboratory
+- Unsigned
+E: Consent documentation.
+
+@9.2
+Q: Interprofessional communication records should be documented:
++ With patient permission
+- Without patient knowledge
+- Only verbally
+- Only with insurer approval
+E: Confidentiality.
+
+@9.2
+Q: Which items should be included in pre-treatment records?
++ Panoramic and cephalometric radiographs, casts and intra/extra-oral photographs
+- Only a bite registration
+- Only the invoice
+- Only the ESS
+E: Records to keep.
+
+@9.2
+Q: Treatment planning records should include:
++ Rationale, appliance choice, adjustments, titration, education and shared decision-making discussions
+- Only the fee
+- Only the appliance colour
+- Only the laboratory
+E: Comprehensive planning record.
+
+@9.2
+Q: The delivery documentation should include:
++ Written home care instructions, delivery form and warranty, signed by patient and team member
+- Only a verbal explanation
+- Only the invoice
+- Nothing
+E: Delivery records.
+
+@9.2
+Q: Side effect documentation should record:
++ Presence, management and manner of resolution, communicated to medical provider and general dentist
+- Only presence
+- Only resolution
+- Nothing unless severe
+E: Side effects record.
+
+@9.2
+Q: Ongoing clinical notes should include observations from:
++ Both physicians and qualified dentists
+- Only the dentist
+- Only the patient
+- Only the laboratory
+E: Shared records.
+
+@9.2
+Q: Screening test scores must be recorded in the clinical record because:
++ They may be audited
+- They are diagnostic
+- They determine appliance colour
+- They are required by laboratories
+E: Billing and audit.
+
+@9.2
+Q: Which is part of the "code of practice in five lines"?
++ Keep pre-treatment panoramic and cephalometric radiographs and dental casts
+- Diagnose OSA from questionnaires
+- Avoid written consent
+- Never contact the physician
+E: Code of practice.
+
+@9.2
+Q: The patient file may include assessment of:
++ Depression, mood and sleepiness
+- Only dental caries
+- Only fees
+- Only occlusion
+E: Code of practice line 2.
+
+@9.2
+Q: Correspondence between physician and dentist should be:
++ Kept on file
+- Discarded after reading
+- Kept only by the physician
+- Shared on social media
+E: Code of practice line 5.
+
+@9.2
+Q: Why are study models clinically important in long-term OAT?
++ They allow comparison of occlusal change over time
+- They determine AHI
+- They replace PSG
+- They are used for billing only
+E: Baseline for comparison.
+
+@9.2
+Q: Informed consent records must explain:
++ Purpose, risks, benefits, alternatives and patient rights
+- Only the fee
+- Only the appliance brand
+- Only follow-up dates
+E: Consent content.
+
+@9.2
+Q: Consent should be documented so that it is:
++ Clear, free of coercion and verifiable in the record
+- Implied
+- Verbal only
+- Unrecorded
+E: Verifiability.
+
+@9.2
+Q: A patient asks for their records to be shared with their physician. The dentist should:
++ Share them with documented patient permission as part of coordinated care
+- Refuse in all cases
+- Share without documentation
+- Share with the insurer instead
+E: Interprofessional communication.
+
+@9.2
+Q: Which baseline sleep data should be stored?
++ AHI, architecture, arousals and detailed sleep parameters
+- Only the AHI number
+- Only the date of the study
+- Only the physician's name
+E: Detailed baseline.
+
+@9.2
+Q: Retaining intraoral and extraoral photographs is useful because:
++ They document baseline appearance and occlusion for comparison and medicolegal purposes
+- They replace consent
+- They diagnose OSA
+- They determine CPAP pressure
+E: Records.
+
+@9.2
+Q: In SOAP notes, "O" refers to:
++ Objective findings
+- Opinion
+- Outcome
+- Orthodontics
+E: Subjective, Objective, Assessment, Plan.
+
+@9.2
+Q: In SOAP notes, "A" refers to:
++ Assessment
+- Appliance
+- Apnoea
+- Advice
+E: Clinical reasoning.
+
+@9.2
+Q: Documentation of shared decision-making is important because:
++ It records discussion of options and intolerances, supporting consent and continuity
+- It is optional
+- It replaces the physician
+- It increases fees
+E: Treatment planning.
+
+@9.2
+Q: The patient should receive a copy of:
++ The signed consent form and home care instructions
+- Nothing
+- Only the invoice
+- The laboratory prescription only
+E: Patient copies.
+
+@9.2
+Q: Record keeping requirements in DSM primarily serve:
++ Continuity of care, demonstration of treatment effect and medicolegal protection
+- Marketing
+- Increasing appointment numbers
+- Avoiding physician input
+E: Purpose of records.
+
+@9.3
+Q: The examinable principle for billing in DSM is to:
++ Use the code matching the service actually provided and the patient's insurer, with documentation that survives audit
+- Use the highest-paying code available
+- Use the same code for every insurer
+- Avoid documentation
+E: Principle over specific numbers.
+
+@9.3
+Q: For veterans with both DVA and other insurance, documentation should:
++ Clearly separate unrelated conditions when billing multiple insurers
+- Combine all conditions
+- Omit the DVA
+- Use only private codes
+E: Separate documentation.
+
+@9.3
+Q: Department of Veterans' Affairs codes:
++ Can differ from those used by the general public insurer or private insurance
+- Are always identical to private codes
+- Are never used
+- Are chosen by the patient
+E: DVA-specific codes.
+
+@9.3
+Q: For current billing guidance, the dentist should consult:
++ The relevant government health department or insurer fee schedule
+- Memory alone
+- Colleagues' recollection
+- Social media
+E: Authoritative sources.
+
+@9.3
+Q: Why should specific item numbers not be memorised for the exam unless supplied by the syllabus?
++ They are jurisdiction-specific and change frequently
+- They never change
+- They are secret
+- They are irrelevant to practice
+E: State principle first, local detail second.
+
+@9.3
+Q: Private billing requires:
++ Identifying codes specific to the service and insurer and keeping clear separate notes
+- Using any code
+- Using DVA codes for all patients
+- Avoiding notes
+E: Private billing.
+
+@9.3
+Q: Billing and coding fall within which competency domain for a qualified dentist?
++ Professionalism
+- Clinical knowledge only
+- Patient care only
+- Laboratory skills
+E: Ethical dimension.
+
+@9.3
+Q: Appliance selection must never be driven by:
++ What an insurer will reimburse
+- Clinical examination findings
+- Patient preference
+- Sleep study results
+E: Conflict of interest.
+
+@9.3
+Q: Codes may differ between which schemes?
++ Private, general public insurer, veterans' affairs and workers' compensation
+- Only private insurers
+- None — all codes are universal
+- Only public schemes
+E: Familiarise with each.
+
+@9.3
+Q: When submitting claims to a veterans' affairs system, the provider should:
++ Use the correct payer identifiers and DVA fee schedule codes
+- Use private insurer identifiers
+- Avoid identifiers
+- Use the patient's tax number
+E: DVA requirements.
+
+@9.3
+Q: Clear, accurate records support billing claims because:
++ They justify the service provided and allow smooth processing and audit
+- They increase fees automatically
+- They replace consent
+- They are not needed
+E: Documentation is key.
+
+@9.3
+Q: In Australia, resources for MBS and DVA billing guidance include:
++ The Services Australia website
+- Manufacturer brochures
+- Laboratory price lists
+- Patient forums
+E: Authoritative resources.
+
+@9.3
+Q: A dentist bills a DVA patient using a private insurer code by mistake. The main risk is:
++ Claim rejection and audit problems
+- Improved reimbursement
+- No consequence
+- Automatic diagnosis
+E: Correct coding matters.
+
+@9.3
+Q: Reimbursement rules and whether a dentist may order a home sleep test are:
++ Jurisdiction-specific
+- Universal
+- Determined by the patient
+- Determined by the laboratory
+E: Jurisdiction note.
+
+@9.3
+Q: In an exam answer about billing, the candidate should:
++ State the principle first and the local rule second, flagged as local
+- Quote memorised numbers only
+- Avoid mentioning principles
+- Recommend the highest fee
+E: Exam technique.
+
+@9.3
+Q: Separate consultation notes are needed for different insurers to:
++ Differentiate conditions and support accurate claims
+- Increase paperwork unnecessarily
+- Hide information
+- Avoid audit
+E: Private billing best practice.
+
+@9.4
+Q: Autonomy in DSM is best demonstrated by:
++ Genuine informed consent with clear understanding of purpose, risks, benefits and alternatives
+- Choosing the appliance for the patient without discussion
+- Following insurer instructions
+- Avoiding discussion of alternatives
+E: Respect for patient choice.
+
+@9.4
+Q: Non-maleficence in DSM includes:
++ Declining to fit an appliance without a diagnosis or in untreated severe TMD
+- Fitting appliances without diagnosis
+- Maximum protrusion in all patients
+- Ignoring side effects
+E: Do no harm.
+
+@9.4
+Q: Beneficence in DSM means:
++ Promoting wellbeing with high-quality care improving oral and overall health
+- Maximising profit
+- Minimising appointments
+- Following the cheapest option
+E: Doing good.
+
+@9.4
+Q: Veracity in DSM requires honesty about:
++ The likelihood of occlusal change and the limits of the evidence
+- Only the fees
+- Only success stories
+- Nothing
+E: Truthfulness.
+
+@9.4
+Q: Dentists are officially authorised to:
++ Screen for symptoms of SRBD and recommend further testing
+- Diagnose OSA
+- Prescribe CPAP
+- Interpret PSG for diagnosis
+E: Screening vs diagnosis.
+
+@9.4
+Q: Informed consent disclosure should include the risks of:
++ Both treatment and no treatment
+- Treatment only
+- No treatment only
+- Neither
+E: Full disclosure.
+
+@9.4
+Q: Remote compliance monitoring raises which ethical consideration?
++ Loss of privacy and confidentiality
+- Increased caries
+- Billing fraud
+- Diagnostic error
+E: Confidentiality.
+
+@9.4
+Q: Which is part of the competency framework for a qualified dentist?
++ Clinical knowledge, patient care, learning and improvement, professionalism and communication
+- Only technical fabrication
+- Only billing
+- Only marketing
+E: Competency domains.
+
+@9.4
+Q: Telehealth in DSM may be used for:
++ Screening and many follow-ups, provided service equals an in-person appointment
+- Impressions
+- Construction bite registration
+- Comprehensive examination
+E: In-person requirements.
+
+@9.4
+Q: Team members in DSM should:
++ Receive appropriate training for their tasks
+- Perform diagnosis
+- Work without training
+- Prescribe CPAP
+E: Professionalism.
+
+@9.4
+Q: Quality assurance in DSM ethics involves:
++ Adhering to high standards through ongoing processes
+- Avoiding audits
+- Using the cheapest materials
+- Avoiding documentation
+E: Quality assurance.
+
+@9.4
+Q: The clinical knowledge competency includes understanding:
++ The comorbid nature of OSA and TMD and effects of OAT on TMJ and occlusion
+- Only appliance pricing
+- Only laboratory techniques
+- Only insurance codes
+E: Clinical knowledge.
+
+@9.4
+Q: A manufacturer offers a dentist a commission for prescribing their appliance. The ethical response is:
++ Decline; appliance choice belongs to the dentist and patient based on clinical need
+- Accept and prescribe to all patients
+- Accept but not disclose
+- Prescribe only to insured patients
+E: Conflict of interest.
+
+@9.4
+Q: Collaboration and referral as an ethical principle means:
++ Working with sleep physicians and others for comprehensive care
+- Working alone
+- Avoiding physicians
+- Referring only for billing
+E: Interdisciplinary care.
+
+@9.4
+Q: Patient-centred care requires respect for:
++ Diversity of patient populations and their unique needs
+- Only the dentist's preferences
+- Only insurer rules
+- Only laboratory schedules
+E: Patient-centred care.
+
+@9.4
+Q: Interpersonal and communication competencies include:
++ Barrier and bias mitigation and interprofessional communication
+- Laboratory fabrication
+- Radiograph processing
+- Billing codes only
+E: Communication domain.
+
+@9.4
+Q: Learning and improvement as a competency includes:
++ Evidence-based decision-making, continuing education and reflective practice
+- Avoiding new evidence
+- Relying on habit
+- Manufacturer marketing
+E: Professional development.
+
+@9.4
+Q: A dentist screening a patient with tooth grinding and jaw pain for SDB is acting:
++ Within scope — screening and recommending further testing
+- Outside scope
+- As a diagnostician
+- Unethically
+E: Screening scope.
+
+@9.4
+Q: Justice in DSM may be compromised by:
++ Inequitable access to care based on non-clinical factors
+- Equal treatment of all patients
+- Informed consent
+- Evidence-based practice
+E: Fairness and equity.
+
+@9.4
+Q: Professionalism competency includes:
++ SOAP documentation, protection of patient information and a collaborative interdisciplinary model
+- Diagnosing OSA
+- Prescribing hypnotics
+- Avoiding physicians
+E: Professionalism domain.
+
+@9.4
+Q: A patient insists on an appliance for snoring without seeing a physician. The ethical response is:
++ Explain that OSA must be excluded first and facilitate referral
+- Fit the appliance immediately
+- Refuse to see the patient again
+- Diagnose primary snoring yourself
+E: Non-maleficence and scope.
+
+@9.4
+Q: Which ethical principle is engaged when a dentist practises only within their training?
++ Non-maleficence (scope of competence)
+- Justice
+- Autonomy
+- Veracity
+E: Do no harm.
+
+@9.4
+Q: The patient care competency includes:
++ Screening and risk assessment, comprehensive examination, understanding objective testing and long-term care planning
+- Diagnosing OSA independently
+- Prescribing CPAP
+- Laboratory fabrication only
+E: Patient care domain.
+
+@9.4
+Q: Ethical considerations in informed consent for OAT require disclosure of:
++ The nature of the disorder, purpose and alternatives, and potential risks and consequences
+- Only the cost
+- Only the laboratory
+- Only the appliance colour
+E: Full disclosure.

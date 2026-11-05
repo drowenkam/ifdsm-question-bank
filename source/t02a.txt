@@ -1,0 +1,751 @@
+@2.1
+Q: Polysomnography is best defined as:
++ A multi-parametric comprehensive recording of the biophysiological changes that occur during sleep
+- A questionnaire-based assessment of sleepiness
+- A single-channel oximetry recording
+- A daytime nap test of sleep latency
+E: PSG records multiple physiological signals during sleep for research and diagnosis.
+
+@2.1
+Q: Which three channels together are required for sleep staging?
++ EEG, EOG and EMG
+- ECG, SpO2 and airflow
+- Airflow, effort and body position
+- Snoring microphone, ECG and EMG
+E: Without EEG, EOG and EMG no staging is possible — the fundamental limitation of level 3 and 4 studies.
+
+@2.1
+Q: The EOG channel in PSG is used mainly to:
++ Identify eye movements, REM sleep and sleep onset
+- Measure respiratory effort
+- Detect leg movements
+- Measure oxygen saturation
+E: Periorbital EOG electrodes record eye movements.
+
+@2.1
+Q: Which airflow sensor is used primarily to detect apnoeas?
++ Oronasal thermal sensor
+- Nasal pressure transducer
+- Pulse oximeter
+- Tibial EMG
+E: The thermal sensor detects apnoea; the nasal pressure transducer is more sensitive for hypopnoea — ideally both are used.
+
+@2.1
+Q: Which airflow sensor is preferred for detecting hypopnoeas?
++ Nasal pressure transducer
+- Oronasal thermal sensor
+- Submental EMG
+- Microphone
+E: Nasal pressure is more sensitive to flow limitation but misses oral flow in mouth breathers.
+
+@2.1
+Q: Respiratory inductance plethysmography (RIP) belts are used to:
++ Measure thoracoabdominal respiratory effort and distinguish obstructive from central events
+- Measure airflow at the nose
+- Record EEG arousals
+- Measure oxygen saturation
+E: RIP is the recommended effort sensor for both laboratory and portable studies.
+
+@2.1
+Q: RIP measures respiration because breathing changes the circumference of the bands, which alters their:
++ Inductance
+- Resistance only
+- Temperature
+- Capacitance to skin
+E: Changes in cross-sectional area alter inductance, converted to a voltage proportional to thoracoabdominal volume.
+
+@2.1
+Q: Paradoxical thoracoabdominal movement on effort belts indicates:
++ Upper airway obstruction
+- Central apnoea
+- Normal quiet breathing
+- Sensor detachment only
+E: Out-of-phase chest and abdominal movement occurs when the patient breathes against a closed airway.
+
+@2.1
+Q: Masseter EMG may be added to a PSG montage to assess:
++ Sleep bruxism
+- REM atonia
+- Periodic limb movements
+- Respiratory effort
+E: Masseter EMG detects rhythmic masticatory muscle activity.
+
+@2.1
+Q: Tibial (anterior tibialis) EMG is recorded to detect:
++ Periodic limb movements
+- Bruxism
+- REM atonia
+- Diaphragmatic effort
+E: Leg EMG identifies PLMs.
+
+@2.1
+Q: Body position recording during PSG is particularly relevant to dental sleep medicine because:
++ Positional dependence influences appliance and positional therapy decisions
+- It determines sleep stage
+- It measures arousals
+- It replaces airflow measurement
+E: Supine vs non-supine AHI and % TST supine are directly actionable.
+
+@2.1
+Q: The snoring microphone in PSG is typically positioned:
++ About 1 m above the head, recording frequency per hour and intensity in dB
+- Inside the mouth
+- On the sternum only
+- At the foot of the bed
+E: Snoring is reported as frequency/hour and mean/maximum intensity in dB.
+
+@2.1
+Q: End-tidal or transcutaneous CO2 monitoring is a standard measurement in:
++ Paediatric PSG
+- All home sleep tests
+- MSLT
+- Actigraphy
+E: CO2 monitoring detects hypoventilation and is standard in children.
+
+@2.1
+Q: Normal sleep onset latency in adults is:
++ Less than 30 minutes
+- Less than 2 minutes
+- 45–60 minutes
+- More than 60 minutes
+E: SOL and WASO are both normally <30 min.
+
+@2.1
+Q: Normal adult sleep efficiency is at least:
++ 85%
+- 50%
+- 65%
+- 99%
+E: ≥85% normal (often >90% in young adults); 75–84% suboptimal; <75% suggests insomnia.
+
+@2.1
+Q: A sleep efficiency of 72% would most suggest:
++ Insomnia
+- Normal sleep
+- Narcolepsy
+- Primary snoring
+E: Sleep efficiency <75% suggests insomnia.
+
+@2.1
+Q: Arousals on PSG are scored according to the ASDA rule of an abrupt EEG frequency shift lasting at least:
++ 3 seconds
+- 0.5 seconds
+- 10 seconds
+- 30 seconds
+E: The ASDA 3-second rule defines EEG arousals.
+
+@2.1
+Q: Normal oxygen saturation during sleep is:
++ 95–100%, with ≥90% acceptable
+- 85–90%
+- 80% or above
+- Below 88%
+E: Minimum SaO2 is an independent marker of severity.
+
+@2.1
+Q: Which parameter is reported as a percentage of total sleep time to judge positional dependence?
++ % TST spent supine
+- REM latency
+- Sleep onset latency
+- Arousal index
+E: % TST supine is needed to judge positional dependence and sampling adequacy.
+
+@2.1
+Q: The oxygen desaturation index (ODI) counts:
++ Desaturations of ≥3% or ≥4% per hour of sleep
+- Apnoeas per hour
+- Arousals per hour
+- Minutes below 90%
+E: ODI quantifies desaturation events per hour.
+
+@2.1
+Q: Which statement about pulse oximetry in PSG is correct?
++ It uses a finger probe with high sampling rate and short signal averaging
+- It measures CO2
+- It requires EEG for interpretation
+- It is unaffected by motion
+E: Fast averaging is required to capture brief desaturations accurately.
+
+@2.1
+Q: In a normal PSG, NREM sleep dominates:
++ The first half of the night, with REM dominating the second half
+- The second half of the night
+- Only the last cycle
+- Equally across all cycles
+E: SWS concentrates early; REM lengthens later.
+
+@2.1
+Q: ECG in PSG is used to:
++ Monitor heart rate, rhythm and arrhythmias during respiratory events
+- Stage sleep
+- Detect bruxism
+- Measure airflow
+E: ECG captures event-related arrhythmias.
+
+@2.1
+Q: Video and audio recording during PSG help to identify:
++ Parasomnias, seizures and positional confirmation
+- Oxygen saturation
+- Airflow limitation
+- Sleep spindles
+E: Video aids diagnosis of abnormal behaviours.
+
+@2.1
+Q: The normal adult apnoea–hypopnoea index is:
++ Less than 5 per hour
+- Less than 1 per hour
+- Less than 15 per hour
+- Less than 30 per hour
+E: Adult normal AHI <5; paediatric normal <1.
+
+@2.2
+Q: An apnoea is scored when airflow falls by at least:
++ 90% for at least 10 seconds
+- 30% for at least 10 seconds
+- 50% for at least 5 seconds
+- 100% for at least 20 seconds
+E: Apnoea: ≥90% reduction for ≥10 s.
+
+@2.2
+Q: The AASM recommended adult hypopnoea rule requires a ≥30% airflow reduction for ≥10 s with:
++ ≥3% oxygen desaturation and/or an arousal
+- ≥4% desaturation only
+- An arousal only
+- ≥10% desaturation
+E: The ≥4% desaturation alternative became optional in Scoring Manual v3 (2023), though some payers still require it.
+
+@2.2
+Q: Which scoring rule became optional in AASM Scoring Manual version 3 (2023)?
++ The ≥4% desaturation hypopnoea rule
+- The ≥90% apnoea rule
+- The ≥10 s duration rule
+- RERA scoring
+E: Some payers still require the 4% rule; definitions affect AHI and prevalence comparisons.
+
+@2.2
+Q: A RERA is:
++ Increasing respiratory effort or nasal pressure flattening leading to an arousal, not meeting apnoea/hypopnoea criteria
+- A ≥90% airflow reduction without effort
+- A desaturation of ≥4% without airflow change
+- A central apnoea following arousal
+E: RERAs are counted in the RDI but not the AHI.
+
+@2.2
+Q: The respiratory disturbance index (RDI) is:
++ Apnoeas + hypopnoeas + RERAs per hour of sleep
+- Apnoeas per hour only
+- Desaturations per hour
+- Arousals per hour
+E: RDI includes RERAs, so it is always ≥ AHI.
+
+@2.2
+Q: Which statement comparing AHI and RDI is always true?
++ RDI is greater than or equal to AHI
+- AHI is always greater than RDI
+- They are always equal
+- RDI excludes hypopnoeas
+E: RERAs by definition do not meet apnoea/hypopnoea criteria, so adding them can only increase the index.
+
+@2.2
+Q: Moderate adult OSA corresponds to an AHI of:
++ 15 to <30 per hour
+- 5 to <15 per hour
+- 10 to <20 per hour
+- ≥30 per hour
+E: Adult severity: mild 5–<15, moderate 15–<30, severe ≥30.
+
+@2.2
+Q: A 50-year-old with an AHI of 32/h has:
++ Severe OSA
+- Mild OSA
+- Moderate OSA
+- Primary snoring
+E: AHI ≥30 is severe in adults.
+
+@2.2
+Q: Under ICSD-3-TR, OSA can be diagnosed in an asymptomatic adult when the AHI (or RDI) is at least:
++ 15 per hour
+- 5 per hour
+- 10 per hour
+- 30 per hour
+E: AHI ≥5 requires symptoms/comorbidity; ≥15 qualifies regardless.
+
+@2.2
+Q: A patient with AHI 8/h and unrefreshing sleep:
++ Meets OSA criteria because AHI ≥5 is accompanied by symptoms
+- Does not meet criteria because AHI <15
+- Has severe OSA
+- Has central apnoea
+E: AHI ≥5 with symptoms (sleepiness, unrefreshing sleep, fatigue, insomnia, witnessed events) satisfies diagnosis.
+
+@2.2
+Q: Which is NOT a qualifying symptom for diagnosing OSA at an AHI between 5 and 15?
++ Dental attrition alone
+- Daytime sleepiness
+- Waking with gasping or choking
+- Bed partner reporting breathing interruptions
+E: Qualifying features include sleepiness, unrefreshing sleep, fatigue, insomnia, gasping/choking and partner-reported apnoeas.
+
+@2.2
+Q: The PSG signature of sleep fragmentation in untreated OSA includes:
++ Increased arousal index and N1, with reduced slow-wave and REM sleep
+- Increased REM and N3
+- Reduced N1 and stage shifts
+- Prolonged sleep efficiency above 95%
+E: Fragmentation shifts architecture toward light sleep.
+
+@2.2
+Q: An obstructive apnoea is distinguished from a central apnoea by:
++ Persistence of respiratory effort during the event
+- Duration of at least 20 seconds
+- Presence of desaturation
+- Occurrence in REM sleep
+E: Effort continues in obstructive apnoea and is absent in central apnoea.
+
+@2.2
+Q: Which oxygen measure is considered an independent marker of OSA severity?
++ Minimum SaO2
+- Baseline awake SpO2 only
+- Maximum SaO2
+- Heart rate
+E: Desaturation is an independent severity measure, though gradation is not universally agreed.
+
+@2.2
+Q: In chronic insomnia, PSG may show:
++ Prolonged sleep latency and/or WASO with reduced sleep efficiency
+- Shortened sleep latency and increased N3
+- Normal architecture with increased AHI
+- Sleep-onset REM periods
+E: Increased SOL/WASO, increased N1, reduced SWS and increased beta/gamma power are typical.
+
+@2.2
+Q: Which variable is NOT part of the standard respiratory section of a PSG report?
++ Mallampati class
+- AHI
+- Minimum SaO2
+- Snoring frequency per hour
+E: Mallampati is a clinical examination finding, not a PSG variable.
+
+@2.2
+Q: The arousal index is defined as:
++ The number of arousals per hour of sleep
+- The number of awakenings per night
+- Apnoeas per hour of REM
+- The percentage of sleep spent awake
+E: Arousal index = arousals per hour of sleep.
+
+@2.2
+Q: A child aged 8 with an AHI of 6/h has:
++ Moderate OSA
+- Mild OSA
+- Severe OSA
+- Normal breathing
+E: Paediatric thresholds: <1 normal, 1–<5 mild, 5–<10 moderate, ≥10 severe.
+
+@2.2
+Q: A child with an obstructive AHI of 2/h has:
++ Mild OSA
+- Normal breathing
+- Moderate OSA
+- Severe OSA
+E: Paediatric obstructive AHI ≥1 is abnormal.
+
+@2.2
+Q: Above what age are adult scoring criteria generally applied?
++ 12 years
+- 5 years
+- 16 years
+- 21 years
+E: 12 years is the commonly used cut-off for childhood SDB criteria.
+
+@2.2
+Q: In an older-literature definition, a hypopnoea was expressed as a reduction in airflow of:
++ >50%
+- >10%
+- >90%
+- 100%
+E: Historically >50% reduction; current AASM criteria use ≥30% plus desaturation/arousal.
+
+@2.2
+Q: An event with a 95% airflow reduction for 15 s while thoracic and abdominal belts show continued, paradoxical movement is scored as:
++ An obstructive apnoea
+- A central apnoea
+- A hypopnoea
+- A RERA
+E: ≥90% reduction ≥10 s with persistent effort is obstructive.
+
+@2.2
+Q: An event with complete absence of airflow for 12 s and flat effort belts, followed by resumption of breathing, is:
++ A central apnoea
+- An obstructive apnoea
+- A mixed apnoea
+- A hypopnoea
+E: No effort throughout = central.
+
+@2.2
+Q: An event with a 40% airflow reduction for 14 s, accompanied by a 3% desaturation, is scored (AASM recommended rule) as:
++ A hypopnoea
+- An apnoea
+- A RERA
+- Not scored
+E: ≥30% reduction ≥10 s with ≥3% desaturation meets the recommended hypopnoea rule.
+
+@2.2
+Q: An event with flattening of nasal pressure and increasing effort over 20 s, terminating in an arousal, without desaturation and with <30% flow reduction, is:
++ A RERA
+- A hypopnoea
+- An obstructive apnoea
+- A central apnoea
+E: Effort-related arousal not meeting apnoea/hypopnoea criteria.
+
+@2.2
+Q: Why is the choice of hypopnoea definition (3% vs 4%) clinically important?
++ It changes the AHI, the severity category and reported prevalence
+- It changes only the arousal index
+- It has no effect on AHI
+- It only affects children
+E: The 4% rule produces lower AHI values than the 3%/arousal rule.
+
+@2.2
+Q: Irregular or absent sleep stages on PSG may point to:
++ Specific disorders such as narcolepsy
+- Normal ageing only
+- Sensor failure only
+- Primary snoring
+E: Narcolepsy patients may enter sleep directly into REM.
+
+@2.2
+Q: Which of the following is NOT a feature of fragmented sleep on PSG?
++ Increased slow-wave sleep percentage
+- Increased stage shifts
+- Increased arousal index
+- Increased N1 percentage
+E: Fragmentation reduces SWS and REM.
+
+@2.2
+Q: When reporting an AHI, which time is used as the denominator in an attended PSG?
++ Total sleep time
+- Total recording time
+- Time in bed
+- Time supine
+E: AHI is per hour of sleep; home studies often use recording time, underestimating AHI.
+
+@2.3
+Q: When reading a sleep study, the single most actionable item for a dentist planning appliance therapy is often:
++ Positional dependence (supine vs non-supine AHI)
+- REM latency
+- Sleep onset latency
+- Heart rate variability
+E: Supine dependence favours positional therapy and increases appliance success.
+
+@2.3
+Q: REM-predominant OSA responds relatively poorly to mandibular advancement because:
++ REM atonia defeats the mechanical advantage of the appliance
+- REM is shorter than NREM
+- Appliances are removed during REM
+- REM events are central
+E: Warn patients and plan objective verification.
+
+@2.3
+Q: A patient's PSG shows severe OSA with marked desaturation (nadir 74%) and coronary artery disease. Which approach is most appropriate?
++ CPAP first or combination therapy, with a low threshold for objective follow-up
+- Appliance therapy without follow-up testing
+- Sleep hygiene alone
+- Myofunctional therapy alone
+E: Significant desaturation with CVD argues for CPAP first or combination therapy.
+
+@2.3
+Q: Oral appliance therapy is generally indicated for:
++ Mild–moderate OSA, or severe OSA where CPAP is refused, not tolerated or ineffective
+- Severe OSA as first line in all patients
+- Central sleep apnoea
+- Obesity hypoventilation syndrome
+E: This reflects the guideline position.
+
+@2.3
+Q: Pharmacotherapy derived from PSG findings is appropriate mainly for:
++ Other disorders diagnosed on the study (e.g. RBD) or residual sleepiness
+- Primary treatment of OSA
+- Replacing CPAP in severe OSA
+- Increasing AHI
+E: Drugs are not a primary OSA treatment.
+
+@2.3
+Q: A patient with a supine AHI of 28 and non-supine AHI of 3 is:
++ A candidate for positional therapy and a favourable appliance responder
+- Not suitable for any treatment
+- Likely to have central apnoea
+- A candidate for tracheostomy
+E: Positional OSA (non-supine AHI <5) favours positional therapy and OAT.
+
+@2.3
+Q: A PSG shows the patient was supine for only 20% of the night with a low overall AHI. What is the main concern?
++ Supine sleep may have been under-sampled, underestimating usual AHI
+- The study is definitely normal
+- The patient has central apnoea
+- Positional therapy is contraindicated
+E: Low supine time can under-sample positional disease.
+
+@2.3
+Q: Surgery is generally reserved for:
++ Severe disease intolerant of CPAP and appliances, particularly with correctable anatomical obstruction
+- Mild OSA as first-line
+- Primary snoring in all patients
+- Central sleep apnoea
+E: Surgical options follow failure of conservative treatments.
+
+@2.3
+Q: Which PSG finding changes the referral pathway rather than the appliance design?
++ Central events, periodic limb movements or RBD
+- Mild supine-predominant OSA
+- Snoring intensity of 45 dB
+- Sleep efficiency of 88%
+E: These require medical/neurological management.
+
+@2.3
+Q: Why does severity on PSG matter to the dentist?
++ It sets the efficacy baseline and predicts appliance response
+- It determines the impression material
+- It is unrelated to appliance therapy
+- It replaces the need for physician referral
+E: Higher AHI predicts lower likelihood of complete response with an appliance.
+
+@2.3
+Q: Weight loss as a behavioural recommendation is most strongly indicated from a PSG when:
++ The patient is obese
+- The patient is supine-dependent but lean
+- REM latency is prolonged
+- Sleep efficiency is high
+E: Weight loss is appropriate where obesity contributes.
+
+@2.3
+Q: Compared with an oral appliance, CPAP has been shown in some studies to have a greater effect on:
++ Arousal index and oxygen desaturation
+- Adherence
+- Patient preference
+- Portability
+E: CPAP is more efficacious for AHI, arousals and desaturation.
+
+@2.3
+Q: A dentist reviewing a PSG report should:
++ Extract information relevant to the dental plan while leaving diagnosis to the physician
+- Make the OSA diagnosis from the report
+- Re-score the raw data
+- Order surgery
+E: Read competently, extract what changes the plan, stop short of diagnosis.
+
+@2.3
+Q: High AHI (≥30) generally implies:
++ More aggressive treatment may be needed, with CPAP more often achieving AHI <5
+- Appliances will always achieve AHI <5
+- Treatment is unnecessary
+- Positional therapy alone suffices
+E: Both treatments reduce AHI but complete response is more frequent with CPAP.
+
+@2.3
+Q: Which PSG pattern predicts a better response to mandibular advancement?
++ NREM-predominant or non-stage-dependent, supine-dependent OSA
+- REM-predominant OSA
+- Predominantly central apnoea
+- Severe hypoxaemia with high CPAP pressure
+E: Positional and non-REM-dependent OSA respond better.
+
+@2.3
+Q: A high therapeutic CPAP pressure on titration implies:
++ A more collapsible airway and poorer appliance response
+- An excellent appliance responder
+- Central apnoea
+- No OSA
+E: Lower required CPAP pressure predicts better appliance response.
+
+@2.3
+Q: A PSG reports AHI 12/h, minimum SaO2 91%, supine-predominant events and NREM-predominant pattern in a lean 40-year-old woman. Which statement is most accurate?
++ She has favourable predictors for oral appliance therapy
+- She requires tracheostomy
+- She has severe OSA
+- Appliance therapy is contraindicated
+E: Mild OSA, lean, female, positional and NREM-predominant are all favourable predictors.
+
+@2.3
+Q: Behavioural therapies suggested by PSG findings include:
++ Positional therapy where supine-dependent and weight loss where obese
+- CPAP titration only
+- Surgery in all cases
+- Hypnotics for all patients
+E: PSG data inform behavioural recommendations.
+
+@2.3
+Q: A PSG shows AHI 22/h with 60% central apnoeas. What is the appropriate dental response?
++ Refer back to the physician; this is primarily CSA, which an appliance does not treat
+- Fit a MAD at maximum protrusion
+- Proceed with appliance therapy as for OSA
+- Recommend positional therapy only
+E: Central events change the referral pathway, not the appliance.
+
+@2.3
+Q: When the PSG demonstrates periodic limb movements with arousals, the dentist should:
++ Inform the physician, as PLMs may contribute to symptoms independently of OSA treatment
+- Ignore them
+- Treat them with the appliance
+- Prescribe dopamine agonists
+E: Other diagnoses need medical management.
+
+@2.4
+Q: A complete response to oral appliance therapy is defined as:
++ Resolution of OSA symptoms and treatment AHI <5/h
+- ≥50% AHI reduction only
+- AHI <10/h only
+- Patient satisfaction
+E: Complete response requires both symptom resolution and AHI <5.
+
+@2.4
+Q: A partial response is defined as:
++ Improved symptoms and ≥50% AHI reduction, but AHI remains ≥5/h
+- Symptom resolution with AHI <5/h
+- Ongoing symptoms with <50% AHI reduction
+- Any reduction in snoring
+E: Partial response — improvement but residual disease.
+
+@2.4
+Q: Treatment failure is defined as:
++ Ongoing clinical symptoms, with or without <50% AHI reduction
+- AHI <5/h with no symptoms
+- ≥50% AHI reduction with improved symptoms
+- Any residual snoring
+E: Failure is defined by persistent symptoms.
+
+@2.4
+Q: A patient's AHI falls from 30 to 12 with improved symptoms. This is:
++ A partial response
+- A complete response
+- Treatment failure
+- No change
+E: 60% reduction with residual AHI ≥5 and improved symptoms.
+
+@2.4
+Q: A patient's AHI falls from 25 to 18 and he remains sleepy. This is:
++ Treatment failure
+- Complete response
+- Partial response
+- Near-complete response
+E: Ongoing symptoms with <50% AHI reduction.
+
+@2.4
+Q: With successful OSA treatment, total sleep time on PSG typically:
++ Is unchanged, with redistribution toward more REM
+- Increases markedly
+- Decreases significantly
+- Cannot be measured
+E: Successful treatment redistributes sleep (REM rebound) rather than increasing it.
+
+@2.4
+Q: REM rebound after effective OSA treatment refers to:
++ An increase in REM sleep proportion after treatment
+- Disappearance of REM sleep
+- An increase in N1
+- An increase in arousal index
+E: REM rises and NREM falls with treatment.
+
+@2.4
+Q: In a published PSG comparison of a mandibular advancement splint versus control, AHI changed from approximately:
++ 30 to 14 per hour
+- 30 to 2 per hour
+- 14 to 30 per hour
+- 30 to 29 per hour
+E: Classic MAS results: AHI 30→14, min SaO2 87→91%, arousal index 41→27.
+
+@2.4
+Q: In that same comparison, which snoring variable was unchanged by the splint?
++ Maximum snoring intensity
+- Snoring frequency
+- Mean snoring intensity
+- All snoring variables fell equally
+E: Frequency (402→242/h) and mean intensity fell; maximum intensity did not change.
+
+@2.4
+Q: In the MAS comparison, the arousal index changed from approximately:
++ 41 to 27 per hour
+- 27 to 41 per hour
+- 41 to 5 per hour
+- No change
+E: Arousal index fell with the splint.
+
+@2.4
+Q: In the MAS comparison, REM as a percentage of total sleep time changed from approximately:
++ 16% to 21%
+- 21% to 16%
+- 5% to 40%
+- No change
+E: REM increased from ~61 to ~75 min (16%→21%).
+
+@2.4
+Q: Which pattern indicates a good treatment outcome on PSG?
++ AHI reduced, minimum SaO2 increased, arousal index reduced
+- AHI increased, REM reduced
+- Arousal index increased, TST increased
+- Minimum SaO2 reduced
+E: The signature of good outcome.
+
+@2.4
+Q: Why do published oral appliance efficacy figures vary widely (e.g. 37–95%)?
++ Different definitions of success are used
+- Different appliance colours
+- Measurement error in PSG only
+- Variation in impression materials
+E: Cure (AHI <5), ≥50% reduction, AHI <10, or symptom improvement give very different numbers.
+
+@2.4
+Q: "Near-complete response" in some literature refers to:
++ AHI <10 with ≥50% reduction
+- AHI <1
+- Any snoring reduction
+- AHI <5 with no symptom change
+E: Some papers use a looser AHI <10 threshold.
+
+@2.4
+Q: On a treatment PSG, minimum SaO2 in the MAS comparison improved from approximately:
++ 87% to 91%
+- 91% to 87%
+- 70% to 99%
+- No change
+E: Minimum SaO2 improved modestly.
+
+@2.4
+Q: A patient on an appliance reports feeling much better and snoring has stopped. Treatment PSG shows AHI 4/h. This represents:
++ A complete response
+- A partial response
+- Treatment failure
+- Placebo effect only
+E: Symptom resolution plus AHI <5 is complete response.
+
+@2.4
+Q: Which outcome measure is most suitable for confirming efficacy of an oral appliance in moderate OSA?
++ Follow-up sleep study with the appliance in place at the final setting
+- Patient-reported snoring reduction alone
+- Bed partner opinion alone
+- Dentist-performed oximetry interpreted by the dentist as final verification
+E: Objective verification by the physician is required.
+
+@2.4
+Q: Effective treatment with an oral appliance typically produces which change in NREM sleep percentage?
++ A decrease, as REM increases
+- A marked increase
+- No change
+- Complete loss of NREM
+E: Redistribution: REM up, NREM down.
+
+@2.4
+Q: A treatment PSG shows AHI 9/h, down from 40, with resolution of sleepiness. Using the three-category scheme this is:
++ A partial response
+- A complete response
+- Treatment failure
+- Primary snoring
+E: AHI remains ≥5 despite >50% reduction and improved symptoms.
+
+@2.4
+Q: Total sleep time in the published MAS comparison was:
++ Not significantly changed (about 372 to 363 min)
+- Increased by 2 hours
+- Halved
+- Doubled
+E: TST does not change significantly with effective treatment.
